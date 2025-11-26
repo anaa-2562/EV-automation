@@ -1,0 +1,22 @@
+[17:35:23] ============================================================
+[17:35:23] Audentes Verification Automation Tool - Run Started
+[17:35:23] ============================================================
+[17:35:23] eCW file loaded: eCW_20251117_173523.xlsx
+[17:35:23] Template file loaded: Template_20251117_173523.xlsm
+[17:35:23] Escalation tracker loaded: Escalation_20251117_173523.csv
+[17:35:28] Macro cleanup complete: Audentes_Verification_Cleaned_20251117_173523.xlsx
+[17:35:28] Using escalation tracker: C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\inputs\Escalation_20251117_173523.csv
+[17:35:31] Data processed successfully. 652 records remaining.
+[17:35:31] HX output saved: HX_Final_20251117_173531.csv
+[17:35:31] Setting up Chrome browser...
+[17:35:35] Navigating to HealthX: https://hxev.jindalx.com/
+[17:35:40] Navigating to Import screen...
+[17:35:55] Selecting campaign: Audentes- Audentes Verification
+[17:35:59] Selected option: Audentes - Audentes Verification
+[17:36:01] Uploading file to portal...
+[17:36:04] Awaiting upload confirmation...
+[17:36:26] Upload confirmed as successful.
+[17:36:26] Navigating to EV Allocation...
+[17:36:39] EV process initiated successfully.
+[17:36:42] HX upload completed.
+[17:36:45] Upload to HealthX successful.

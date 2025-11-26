@@ -1,0 +1,7 @@
+[15:34:25] ============================================================
+[15:34:25] Audentes Verification Automation Tool - Run Started
+[15:34:25] ============================================================
+[15:34:25] eCW file loaded: eCW_20251112_153425.csv
+[15:34:25] Template file loaded: Template_20251112_153425.xlsm
+[15:34:29] Macro cleanup complete: Audentes_Verification_Cleaned_20251112_153425.xlsx
+[15:34:31] ERROR: Data processing failed: "['Patient Account Number'] not in index"

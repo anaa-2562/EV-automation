@@ -1,0 +1,23 @@
+[17:29:04] ============================================================
+[17:29:04] Audentes Verification Automation Tool - Run Started
+[17:29:04] ============================================================
+[17:29:04] eCW file loaded: eCW_20251103_172904.csv
+[17:29:04] Template file loaded: Template_20251103_172904.xlsm
+[17:29:04] Start processing. eCW='eCW_20251103_172904.csv', template='Template_20251103_172904.xlsm'
+[17:29:04] Loading eCW report...
+[17:29:04] Loaded 3725 rows from eCW report
+[17:29:04] Loading Help sheet for lookup rules...
+[17:29:04] Loaded Help sheet with 193 rows
+[17:29:04] Filter 1 skipped: Help sheet or Appointment State column not found
+[17:29:04] Filter 2 (Workable status = Y): 3725 -> 2826 rows
+[17:29:04] Filter 3 (Excluded insurance codes ['L105', 'L107', 'L109C', 'L109Q', 'L109W']): 2826 -> 2810 rows
+[17:29:04] Optional Visit Status filter (PEN/PR): 2810 -> 955 rows
+[17:29:04] Removed empty rows: 955 -> 955 rows
+[17:29:04] Sorted by: Appointment Provider Name, Appointment Date
+[17:29:04] Assigning allocation priority and agents...
+[17:29:04] Saving output file: HealthX_Import_20251103_172904.xlsx
+[17:29:06] Completed processing. Input rows=3725, output rows=955, file='HealthX_Import_20251103_172904.xlsx'
+[17:29:06] Data filtered successfully. 955 records remaining.
+[17:29:06] Output saved: HealthX_Import_20251103_172904.xlsx
+[17:29:06] Starting HealthX upload process for: HealthX_Import_20251103_172904.xlsx
+[17:29:06] ERROR: Upload failed: [Errno 2] No such file or directory: 'C:\\Users\\ananya.tripathi\\Downloads\\EV audentes automation\\dist\\config.json'

@@ -1,0 +1,8 @@
+[14:56:42] ============================================================
+[14:56:42] Audentes Verification Automation Tool - Run Started
+[14:56:42] ============================================================
+[14:56:42] eCW file loaded: eCW_20251112_145642.csv
+[14:56:42] Template file loaded: Template_20251112_145642.xlsm
+[14:56:43] Data filtered successfully. 3725 records remaining.
+[14:56:43] Output saved: latest_import.csv
+[14:56:43] ERROR: Upload failed: name 'hx_upload' is not defined

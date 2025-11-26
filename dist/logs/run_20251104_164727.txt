@@ -1,0 +1,25 @@
+[16:47:27] ============================================================
+[16:47:27] Audentes Verification Automation Tool - Run Started
+[16:47:27] ============================================================
+[16:47:27] eCW file loaded: eCW_20251104_164727.csv
+[16:47:27] Template file loaded: Template_20251104_164727.xlsm
+[16:47:27] Start processing. eCW='eCW_20251104_164727.csv', template='Template_20251104_164727.xlsm'
+[16:47:27] Loading eCW report...
+[16:47:27] Loaded 3725 rows from eCW report
+[16:47:27] Loading Help sheet for lookup rules...
+[16:47:28] Loaded Help sheet with 193 rows
+[16:47:28] Filter 1 skipped: Help sheet or Appointment State column not found
+[16:47:28] Filter 2 (Workable status = Y): 3725 -> 2826 rows
+[16:47:28] Filter 3 (Excluded insurance codes ['L105', 'L107', 'L109C', 'L109Q', 'L109W']): 2826 -> 2810 rows
+[16:47:28] Optional Visit Status filter (PEN/PR): 2810 -> 955 rows
+[16:47:28] Removed empty rows: 955 -> 955 rows
+[16:47:28] Assigning agents (provider-based distribution)...
+[16:47:28] Saving output file: HealthX_Import_20251104_164728.xlsx
+[16:47:28] Building HX CSV using mapping...
+[16:47:28] HX CSV saved: Audentes-Verification-Verification_20251104.csv
+[16:47:30] Completed processing. Input rows=3725, output rows=955, xlsx='HealthX_Import_20251104_164728.xlsx', csv='Audentes-Verification-Verification_20251104.csv'
+[16:47:30] Data filtered successfully. 955 records remaining.
+[16:47:30] Output saved: Audentes-Verification-Verification_20251104.csv
+[16:47:30] Starting HealthX upload process for: Audentes-Verification-Verification_20251104.csv
+[16:47:30] ERROR: Credentials missing (check config.json or environment variables)
+[16:47:30] Upload to HealthX failed: Credentials missing (check config.json or environment variables)

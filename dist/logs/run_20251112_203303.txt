@@ -1,0 +1,97 @@
+[20:33:03] ============================================================
+[20:33:03] Audentes Verification Automation Tool - Run Started
+[20:33:03] ============================================================
+[20:33:03] eCW file loaded: eCW_20251112_203303.csv
+[20:33:03] Template file loaded: Template_20251112_203303.xlsm
+[20:33:03] Escalation tracker loaded: Escalation_20251112_203303.csv
+[20:33:07] Macro cleanup complete: Audentes_Verification_Cleaned_20251112_203303.xlsx
+[20:33:10] Using escalation tracker: C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\inputs\Escalation_20251112_203303.csv
+[20:33:12] Post-macro filtration complete: PostMacro_Filtered_20251112_203303.xlsx (799 rows)
+[20:33:14] Data processed successfully. 781 records remaining.
+[20:33:14] HX output saved: HX_Final_20251112_203314.csv
+[20:33:14] Setting up Chrome browser...
+[20:33:19] Navigating to HealthX: https://hxev.jindalx.com/
+[20:33:43] Navigating to Import screen...
+[20:34:13] Selecting campaign: Audentes- Audentes Verification
+[20:35:00] ERROR: Upload failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x814093
+	0x8140d4
+	0x61e71d
+	0x66a03d
+	0x66a41b
+	0x6b17f2
+	0x68c954
+	0x6aee17
+	0x68c706
+	0x65da30
+	0x65ed54
+	0xa85744
+	0xa8091a
+	0x83c322
+	0x82c458
+	0x8331dd
+	0x81c408
+	0x81c5cc
+	0x80675a
+	0x7545fcc9
+	0x772082ae
+	0x7720827e
+
+[20:35:00] Traceback (most recent call last):
+  File "upload_hx.py", line 87, in hx_upload
+  File "selenium\webdriver\support\wait.py", line 138, in until
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x814093
+	0x8140d4
+	0x61e71d
+	0x66a03d
+	0x66a41b
+	0x6b17f2
+	0x68c954
+	0x6aee17
+	0x68c706
+	0x65da30
+	0x65ed54
+	0xa85744
+	0xa8091a
+	0x83c322
+	0x82c458
+	0x8331dd
+	0x81c408
+	0x81c5cc
+	0x80675a
+	0x7545fcc9
+	0x772082ae
+	0x7720827e
+
+
+[20:35:03] Upload failed: Upload failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x814093
+	0x8140d4
+	0x61e71d
+	0x66a03d
+	0x66a41b
+	0x6b17f2
+	0x68c954
+	0x6aee17
+	0x68c706
+	0x65da30
+	0x65ed54
+	0xa85744
+	0xa8091a
+	0x83c322
+	0x82c458
+	0x8331dd
+	0x81c408
+	0x81c5cc
+	0x80675a
+	0x7545fcc9
+	0x772082ae
+	0x7720827e
+

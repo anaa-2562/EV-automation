@@ -1,0 +1,10 @@
+[19:13:04] ============================================================
+[19:13:04] Audentes Verification Automation Tool - Run Started
+[19:13:04] ============================================================
+[19:13:04] eCW file loaded: eCW_20251113_191304.xlsx
+[19:13:04] Template file loaded: Template_20251113_191304.xlsm
+[19:13:04] Escalation tracker loaded: Escalation_20251113_191304.csv
+[19:13:09] Macro cleanup complete: Audentes_Verification_Cleaned_20251113_191304.xlsx
+[19:13:11] Using escalation tracker: C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\inputs\Escalation_20251113_191304.csv
+[19:13:12] Post-macro filtration complete: PostMacro_Filtered_20251113_191304.xlsx (727 rows)
+[19:13:13] ERROR: Data processing failed: 'Provider Name'

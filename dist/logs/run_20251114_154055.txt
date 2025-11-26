@@ -1,0 +1,9 @@
+[15:40:55] ============================================================
+[15:40:55] Audentes Verification Automation Tool - Run Started
+[15:40:55] ============================================================
+[15:40:55] eCW file loaded: eCW_20251114_154055.xlsx
+[15:40:55] Template file loaded: Template_20251114_154055.xlsm
+[15:40:55] Escalation tracker loaded: Escalation_20251114_154055.csv
+[15:41:00] Macro cleanup complete: Audentes_Verification_Cleaned_20251114_154055.xlsx
+[15:41:02] Using escalation tracker: C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\inputs\Escalation_20251114_154055.csv
+[15:41:02] ERROR: Post-macro filtration failed: name 'post_macro_filters' is not defined

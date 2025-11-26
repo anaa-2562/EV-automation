@@ -1,0 +1,7 @@
+[15:19:35] ============================================================
+[15:19:35] Audentes Verification Automation Tool - Run Started
+[15:19:35] ============================================================
+[15:19:35] eCW file loaded: eCW_20251112_151935.csv
+[15:19:35] Template file loaded: Template_20251112_151935.xlsm
+[15:19:39] Macro cleanup complete: Audentes_Verification_Cleaned_20251112_151935.xlsx
+[15:19:42] ERROR: Data processing failed: 'dict' object has no attribute 'columns'

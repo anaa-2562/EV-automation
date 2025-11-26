@@ -1,0 +1,58 @@
+[14:44:19] ============================================================
+[14:44:19] Audentes Verification Automation Tool - Run Started
+[14:44:19] ============================================================
+[14:44:19] eCW file loaded: eCW_20251114_144419.xlsx
+[14:44:19] Template file loaded: Template_20251114_144419.xlsm
+[14:44:19] Escalation tracker loaded: Escalation_20251114_144419.csv
+[14:44:24] Macro cleanup complete: Audentes_Verification_Cleaned_20251114_144419.xlsx
+[14:44:26] Using escalation tracker: C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\inputs\Escalation_20251114_144419.csv
+[14:44:27] Post-macro filtration complete: PostMacro_Filtered_20251114_144419.xlsx (727 rows)
+  Loaded escalation data from csv:utf-8 (29 rows)
+  DEBUG: Columns found in escalation file: ['Acc#']
+  Extracted 29 escalation account numbers
+  DEBUG: Sample escalation accounts: ['106316', '111407', '121407', '126241', '134221', '139640', '164420', '173786', '174123', '181289']
+  DEBUG: Matching rows in main df: 19
+  DEBUG: Sample matching account numbers: ['18886', '139640', '79144', '164420', '182848', '174123', '182555', '182158', '121407', '181289']
+  Escalation filter complete: Removed 19 rows. Remaining: 701
+  SUMMARY: Started 720, removed 19 via 29 escalation accounts
+[14:44:28] Data processed successfully. 154 records remaining.
+[14:44:28] HX output saved: HX_Final_20251114_144428.csv
+[14:44:28] Setting up Chrome browser...
+[14:44:32] Navigating to HealthX: https://hxev.jindalx.com/
+[14:44:42] Navigating to Import screen...
+[14:44:56] Selecting campaign: Audentes- Audentes Verification
+[14:45:00] Selected option: Audentes - Audentes Verification
+[14:45:02] Uploading file to portal...
+[14:45:18] Awaiting upload confirmation...
+[14:45:21] Upload confirmed as successful.
+[14:45:21] Navigating to EV Allocation...
+[14:45:44] Warning: Could not confirm EV initiation (Message: element not interactable
+  (Session info: chrome=142.0.7444.162); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd94093
+	0xd940d4
+	0xb9e56b
+	0xbeb27d
+	0xbdfd65
+	0xc0c90c
+	0xbdf7c4
+	0xc0cac4
+	0xc2ee17
+	0xc0c706
+	0xbdda30
+	0xbded54
+	0x1005744
+	0x100091a
+	0xdbc322
+	0xdac458
+	0xdb31dd
+	0xd9c408
+	0xd9c5cc
+	0xd8675a
+	0x7545fcc9
+	0x772082ae
+	0x7720827e
+).
+[14:45:48] HX upload completed.
+[14:45:50] Upload to HealthX successful.

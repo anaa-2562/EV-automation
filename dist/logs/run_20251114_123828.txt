@@ -1,0 +1,66 @@
+[12:38:28] ============================================================
+[12:38:28] Audentes Verification Automation Tool - Run Started
+[12:38:28] ============================================================
+[12:38:28] eCW file loaded: eCW_20251114_123828.xlsx
+[12:38:28] Template file loaded: Template_20251114_123828.xlsm
+[12:38:28] Escalation tracker loaded: Escalation_20251114_123828.csv
+[12:38:37] Macro cleanup complete: Audentes_Verification_Cleaned_20251114_123828.xlsx
+[12:38:40] Using escalation tracker: C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\inputs\Escalation_20251114_123828.csv
+[12:38:41] Post-macro filtration complete: PostMacro_Filtered_20251114_123828.xlsx (727 rows)
+⚠ Error applying escalation filter: 'utf-8' codec can't decode byte 0xa0 in position 7104: invalid start byte – skipping escalation filter.
+  Traceback: Traceback (most recent call last):
+  File "process_data.py", line 555, in apply_escalation_filter
+  File "pandas\io\parsers\readers.py", line 1026, in read_csv
+  File "pandas\io\parsers\readers.py", line 620, in _read
+  File "pandas\io\parsers\readers.py", line 1620, in __init__
+  File "pandas\io\parsers\readers.py", line 1898, in _make_engine
+  File "pandas\io\parsers\c_parser_wrapper.py", line 93, in __init__
+  File "pandas/_libs/parsers.pyx", line 574, in pandas._libs.parsers.TextReader.__cinit__
+  File "pandas/_libs/parsers.pyx", line 663, in pandas._libs.parsers.TextReader._get_header
+  File "pandas/_libs/parsers.pyx", line 874, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "pandas/_libs/parsers.pyx", line 891, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File "pandas/_libs/parsers.pyx", line 2053, in pandas._libs.parsers.raise_parser_error
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa0 in position 7104: invalid start byte
+
+[12:38:43] Data processed successfully. 164 records remaining.
+[12:38:43] HX output saved: HX_Final_20251114_123843.csv
+[12:38:43] Setting up Chrome browser...
+[12:38:48] Navigating to HealthX: https://hxev.jindalx.com/
+[12:38:52] Navigating to Import screen...
+[12:39:06] Selecting campaign: Audentes- Audentes Verification
+[12:39:09] Selected option: Audentes - Audentes Verification
+[12:39:11] Uploading file to portal...
+[12:39:14] Awaiting upload confirmation...
+[12:39:20] Upload confirmed as successful.
+[12:39:20] Navigating to EV Allocation...
+[12:39:43] Warning: Could not confirm EV initiation (Message: element not interactable
+  (Session info: chrome=142.0.7444.162); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd94093
+	0xd940d4
+	0xb9e56b
+	0xbeb27d
+	0xbdfd65
+	0xc0c90c
+	0xbdf7c4
+	0xc0cac4
+	0xc2ee17
+	0xc0c706
+	0xbdda30
+	0xbded54
+	0x1005744
+	0x100091a
+	0xdbc322
+	0xdac458
+	0xdb31dd
+	0xd9c408
+	0xd9c5cc
+	0xd8675a
+	0x7545fcc9
+	0x772082ae
+	0x7720827e
+).
+[12:39:46] HX upload completed.
+[12:39:51] Upload to HealthX successful.

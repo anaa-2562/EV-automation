@@ -1,0 +1,7 @@
+[14:51:56] ============================================================
+[14:51:56] Audentes Verification Automation Tool - Run Started
+[14:51:56] ============================================================
+[14:51:56] eCW file loaded: eCW_20251113_145156.xlsx
+[14:51:56] Template file loaded: Template_20251113_145156.xlsm
+[14:51:56] Escalation tracker loaded: Escalation_20251113_145156.csv
+[14:51:56] ERROR: Macro cleanup failed: File is not a zip file

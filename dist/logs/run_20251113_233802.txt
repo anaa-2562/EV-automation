@@ -1,0 +1,50 @@
+[23:38:02] ============================================================
+[23:38:02] Audentes Verification Automation Tool - Run Started
+[23:38:02] ============================================================
+[23:38:02] eCW file loaded: eCW_20251113_233802.xlsx
+[23:38:02] Template file loaded: Template_20251113_233802.xlsm
+[23:38:02] Escalation tracker loaded: Escalation_20251113_233802.csv
+[23:38:10] Macro cleanup complete: Audentes_Verification_Cleaned_20251113_233802.xlsx
+[23:38:14] Using escalation tracker: C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\inputs\Escalation_20251113_233802.csv
+[23:38:15] Post-macro filtration complete: PostMacro_Filtered_20251113_233802.xlsx (727 rows)
+[23:38:16] Data processed successfully. 164 records remaining.
+[23:38:16] HX output saved: HX_Final_20251113_233816.csv
+[23:38:16] Setting up Chrome browser...
+[23:38:21] Navigating to HealthX: https://hxev.jindalx.com/
+[23:38:40] Navigating to Import screen...
+[23:38:54] Selecting campaign: Audentes- Audentes Verification
+[23:38:58] Selected option: Audentes - Audentes Verification
+[23:39:00] Uploading file to portal...
+[23:39:25] Awaiting upload confirmation...
+[23:39:28] Upload confirmed as successful.
+[23:39:28] Navigating to EV Allocation...
+[23:39:51] Warning: Could not confirm EV initiation (Message: element not interactable
+  (Session info: chrome=142.0.7444.162); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9c4093
+	0x9c40d4
+	0x7ce56b
+	0x81b27d
+	0x80fd65
+	0x83c90c
+	0x80f7c4
+	0x83cac4
+	0x85ee17
+	0x83c706
+	0x80da30
+	0x80ed54
+	0xc35744
+	0xc3091a
+	0x9ec322
+	0x9dc458
+	0x9e31dd
+	0x9cc408
+	0x9cc5cc
+	0x9b675a
+	0x7545fcc9
+	0x772082ae
+	0x7720827e
+).
+[23:39:54] HX upload completed.
+[23:39:57] Upload to HealthX successful.

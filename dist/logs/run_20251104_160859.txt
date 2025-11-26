@@ -1,0 +1,6 @@
+[16:08:59] ============================================================
+[16:08:59] Audentes Verification Automation Tool - Run Started
+[16:08:59] ============================================================
+[16:09:00] eCW file loaded: eCW_20251104_160859.csv
+[16:09:00] Template file loaded: Template_20251104_160859.xlsm
+[16:09:00] ERROR: Data processing failed: cannot access local variable 'logs_dir' where it is not associated with a value

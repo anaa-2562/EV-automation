@@ -1,0 +1,16 @@
+[16:47:34] ============================================================
+[16:47:34] Audentes Verification Automation Tool - Run Started
+[16:47:34] ============================================================
+[16:47:34] eCW file loaded: eCW_20251112_164734.csv
+[16:47:34] Template file loaded: Template_20251112_164734.xlsm
+[16:47:38] Macro cleanup complete: Audentes_Verification_Cleaned_20251112_164734.xlsx
+[16:47:41] Data processed successfully. 3255 records remaining.
+[16:47:41] HX output saved: HX_Final_20251112_164741.csv
+[16:47:41] Setting up Chrome browser...
+[16:47:45] Navigating to HealthX: https://hxev.jindalx.com/
+[16:48:07] Navigating to Import screen...
+[16:48:36] Selecting campaign: Audentes- Audentes Verification
+[16:48:40] Uploading file to portal...
+[16:49:06] Awaiting upload confirmation...
+[16:52:14] Upload confirmation not detected within timeout.
+[16:52:14] Navigating to EV Allocation...

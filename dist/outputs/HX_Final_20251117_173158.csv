@@ -1,0 +1,797 @@
+Organization,Primary Insurance Name,Provider Name,Primary Insurance ID,Patient Account Number,Patient Name,DOB,Date of Service,Visit Type,Appointment Location,Appointment Time,Physician NPI,Secondary Insurance Name,Secondary Insurance ID,Tertiary Insurance Name,Tertiary Insurance ID,Allocation Priority
+Audentes_Verificayion,Wellcare KY MCD,"Andres, Kevin C",36667973,177890,"Lewis, Brandy M",12/13/1982,11/18/2025,NEW : New Patient - OH/KY,KY,09:14:59.999000,1033564166,,,,,NP001
+Audentes_Verificayion,HUMANA,"Andres, Kevin C",H98306135,180193,"Mailman, Diana ",12/14/1963,11/18/2025,NEW : New Patient - OH/KY,KY,10:15:00,1033564166,Tricare for Life,015507224,,,NP001
+Audentes_Verificayion,Passport Health Plan MCD,"Andres, Kevin C",1012787986,179547,"Ladd, Kelly ",09/30/1978,11/18/2025,NEW : New Patient - OH/KY,KY,09:00:00,1033564166,,,,,NP001
+Audentes_Verificayion,Self-Pay,"Carlock, Joseph B",,179455,"Wright, Jon D ",07/24/1985,11/13/2025,NEW : New Patient - OH/KY,KY,09:30:00,1881822674,Humana KY MCD,H44041539,,,NP001
+Audentes_Verificayion,HUMANA,"Carlock, Joseph B",H64663190,166306,"Fields, Walter ",03/28/1963,11/18/2025,NEW : New Patient - OH/KY,KY,13:20:00,1881822674,Medicaid of Kentucky,0031282451,,,NP001
+Audentes_Verificayion,AETNA MEDICARE ADV PPO,"Carlock, Joseph B",101326277600,178644,"Floyd, Joanne ",11/11/1936,11/18/2025,NEW : New Patient - OH/KY,KY,08:40:00,1881822674,,,,,NP001
+Audentes_Verificayion,UHC,"Carlock, Joseph B",988265696-00,181497,"Yanes, Mike ",09/28/1966,11/18/2025,NEW : New Patient - OH/KY,KY,09:00:00,1881822674,,,,,NP001
+Audentes_Verificayion,ANTHEM BCBS MED ADV PPO,"Carlock, Joseph B",QUP717M97661,181632,"Fleenor, Lucretia Rae ",10/25/1966,11/19/2025,NEW : New Patient - OH/KY,KY,14:00:00,1881822674,,,,,NP001
+Audentes_Verificayion,HUMANA,"Carlock, Joseph B",H00939814,181455,"Hopper, Dion ",04/12/1976,11/19/2025,NEW : New Patient - OH/KY,KY,14:20:00,1881822674,,,,,NP001
+Audentes_Verificayion,HUMANA,"Carlock, Joseph B",H64656739,181406,"Rhodes, Jacqueline W",06/30/1960,11/19/2025,NEW : New Patient - OH/KY,KY,14:40:00,1881822674,,,,,NP001
+Audentes_Verificayion,MOLINA Healthcare OH MCD,"Kim, Jenny J",103994221299,183040,"Johnson, Amy ",11/19/1979,11/18/2025,NEW : New Patient - OH/KY,OH,12:59:59.999000,1962021758,,,,,NP001
+Audentes_Verificayion,Humana OH MCD,"Kim, Jenny J",H98291535,182473,"Sullivan, Deborah ",02/04/1969,11/18/2025,MCD New : Medicaid Patient - New,OH,08:29:59.999000,1962021758,,,,,NP002
+Audentes_Verificayion,AmBetter from Superior Healthplan,"Amasha, Raimy ",UZ122368102,182899,"Dennis, Mark ",05/13/1982,11/13/2025,NP : New Patient,TX,14:29:59.999000,1760643498,,,,,NP002
+Audentes_Verificayion,AmBetter from Superior Healthplan,"Amasha, Raimy ",UZ141538701,183049,"Nix, Dustin ",08/10/1977,11/18/2025,NP : New Patient,TX,11:15:00,1760643498,,,,,NP002
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",9MC9E77KG55,179675,"Lencioni, Robert G",12/22/1950,11/18/2025,NP : New Patient,SWOG,14:29:59.999000,1740271196,AETNA SENIOR SUPPLEMENTAL,AHC6595515,,,NP002
+Audentes_Verificayion,BCBS OF TX,"Angirasa, Arush ",ZGP842037963,179191,"Washington, Candace ",09/02/1981,11/18/2025,NP : New Patient,SWOG,14:00:00,1740271196,,,,,NP002
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",2R62P44YF00,177836,"Burleson, James H",04/23/1952,11/18/2025,NP : New Patient,SWOG,15:00:00,1740271196,BCBS OF TX,R58680103,,,NP002
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",6C61M09JJ22,164123,"Koehler, April J",08/06/1954,11/18/2025,NP : New Patient,SWOG,15:30:00,1740271196,MUTUAL OF OMAHA INSURANCE COMPANY,36268196,,,NP002
+Audentes_Verificayion,BCBS OF TX,"Angirasa, Arush ",TXW226002005,181904,"McMillan, Logan K",02/04/1992,11/19/2025,NP : New Patient,SWOG,08:45:00,1740271196,,,,,NP002
+Audentes_Verificayion,AETNA,"Angirasa, Arush ",W158895933,179141,"Branch, Bryan M",11/25/1975,11/19/2025,NP : New Patient,SWOG,09:14:59.999000,1740271196,,,,,NP002
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",5TF9AJ8KN53,174841,"Aviles, Jimmy ",07/27/1956,11/19/2025,NP : New Patient,SWOG,10:15:00,1740271196,Tricare for Life,00050521000,,,NP002
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",3QH8W10JT48,181563,"Hild, Doris C",02/18/1927,11/19/2025,NP : New Patient,SWOG,10:44:59.999000,1740271196,Tricare for Life,226169641,,,NP002
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",6AA4WY8UY08,181807,"Bertsch, Juanita ",10/09/1948,11/19/2025,NP : New Patient,SWOG,14:15:00,1740271196,UHC AARP Supplemental,301119494-11,,,NP003
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",6ER7V63TV60,181106,"Oeding, Harvey ",11/16/1941,11/19/2025,NP : New Patient,SWOG,15:00:00,1740271196,BCBS TX HMO,ZGM860094281,,,NP003
+Audentes_Verificayion,HUMANA Med Adv PPO,"Angirasa, Arush ",H73126699,68946,"Laake, Valerie ",03/23/1965,11/19/2025,NP : New Patient,SWOG,15:59:59.999000,1740271196,,,,,NP003
+Audentes_Verificayion,ANTHEM BCBS of IN,"Beck, Jeffrey ",DEESA2024669,182796,"Chen, Pin-Yu ",09/19/1992,11/19/2025,NP : New Patient,IN,14:45:00,1063605921,UNIFIED GROUP SERVICES,522650039200,,,NP003
+Audentes_Verificayion,ANTHEM BCBS of IN,"Beck, Jeffrey ",CBF0492376PF,182967,"Zeunik, Jacob K",07/15/1986,11/19/2025,NP : New Patient,IN,08:45:00,1063605921,,,,,NP003
+Audentes_Verificayion,ANTHEM BCBS of IN MCD,"Beck, Jeffrey ",YRK100854721699,179503,"Keegan, Nikki R ",05/17/1992,11/19/2025,NP : New Patient,IN,08:29:59.999000,1063605921,,,,,NP003
+Audentes_Verificayion,ANTHEM BCBS of IN MCD,"Beck, Jeffrey ",YRK103899634299,182494,"Atkins, Serenity S",01/26/2005,11/19/2025,NP : New Patient,IN,11:00:00,1063605921,,,,,NP003
+Audentes_Verificayion,BCBS OF TX,"Cowan, Iden ",UQK913W10871,180861,"Ogrady, John ",09/01/1967,11/17/2025,NP : New Patient,TX,14:00:00,1700029832,,,,,NP003
+Audentes_Verificayion,UHC,"Cowan, Iden ",927979532-00,183123,"NALLY, SHELIA ",09/30/1946,11/17/2025,NP : New Patient,TX,14:20:00,1700029832,,,,,NP003
+Audentes_Verificayion,AETNA EPO,"Cowan, Iden ",NP1766033850,182808,"DeLuca, Anthony J",09/29/1963,11/17/2025,NP : New Patient,TX,13:20:00,1700029832,,,,,NP003
+Audentes_Verificayion,UHC,"Cowan, Iden ",918331669,74940,"BERGMAN, RICHARD D",06/24/1965,11/19/2025,NP : New Patient,TX,11:20:00,1700029832,,,,,NP003
+Audentes_Verificayion,Medicare of Texas,"Cowan, Iden ",5JX8VD9GQ29,183088,"Sweeney-Most, Martha Helen ",05/25/1951,11/19/2025,NP : New Patient,TX,13:40:00,1700029832,ANTHEM BCBS MED ADV PPO,XEA913680660,,,NP004
+Audentes_Verificayion,Medicare of Texas,"Desai, Anjuli ",7D15G14DY89,172454,"Corum, Robin ",01/26/1957,11/17/2025,NP EMG : NEW PATIENT EMG,TX,08:29:59.999000,1760648372,,,,,NP004
+Audentes_Verificayion,BCBS,"Desai, Anjuli ",XXP966136084,183018,"Cella, Ryan ",08/07/2000,11/19/2025,NP : New Patient,TX,12:30:00,1760648372,,,,,NP004
+Audentes_Verificayion,UHC CHOICE PLUS,"Desai, Anjuli ",983765483,183060,"Stone, Julie ",04/28/1970,11/19/2025,NP : New Patient,TX,12:59:59.999000,1760648372,,,,,NP004
+Audentes_Verificayion,BCBS TX Health Select,"Desai, Anjuli ",JEA002990160,145283,"Butter, Robin ",07/13/1965,11/19/2025,NP : New Patient,TX,13:30:00,1760648372,,,,,NP004
+Audentes_Verificayion,Medicare of Texas,"Ganti, Bhaskara ",7Q38-FY6-UG56,20656,"WOODWARD, CHARLES A",08/05/1940,11/18/2025,NP : New Patient,TX,11:05:00,1477917292,Baylor Scott & White,MCR02130700,,,NP004
+Audentes_Verificayion,AETNA,"Ganti, Bhaskara ",9757129412,182815,"Valente, Alyssa ",10/08/1985,11/18/2025,NP : New Patient,TX,08:50:00,1477917292,,,,,NP004
+Audentes_Verificayion,AETNA,"Harlander-Locke, Michael ",W279285718,183168,"Cole, Raema J",08/20/1973,11/14/2025,NP : New Patient,CO,08:29:59.999000,1689231524,,,,,NP004
+Audentes_Verificayion,UHC WELLMED Dual Complete choice PPO D-SNP,"Harlander-Locke, Michael ",994786426,182882,"West, Shawn ",12/02/1964,11/18/2025,NP : New Patient,CO,15:00:00,1689231524,,,,,NP004
+Audentes_Verificayion,Medicare of Colorado,"Harlander-Locke, Michael ",3JJ9YM1RD47,183031,"Phillips, Debra ",12/18/1955,11/19/2025,NP : New Patient,CO,13:20:00,1689231524,UHC - AARP HEALTH CARE OPTIONS,326476006-12,,,NP004
+Audentes_Verificayion,SELF PAY,"Hasert, Adreona ",SELF PAY,183125,"Bateau, Cassandre ",06/03/1992,11/13/2025,NP : New Patient,IN,11:00:00,1144000431,,,,,NP004
+Audentes_Verificayion,Cigna,"Hasert, Adreona ",00090574501,182945,"Cortez, Alfredo ",03/20/1970,11/17/2025,NP : New Patient,IN,14:40:00,1144000431,,,,,NP005
+Audentes_Verificayion,MyTruAdvantage,"Hasert, Adreona ",MA054200201,182491,"Clarkson, James L",02/16/1952,11/18/2025,NP : New Patient,IN,14:00:00,1144000431,,,,,NP005
+Audentes_Verificayion,ANTHEM BCBS of IN,"Hasert, Adreona ",NUC845448447,182762,"Luse, Amanda ",05/04/1973,11/18/2025,NP : New Patient,IN,09:00:00,1144000431,,,,,NP005
+Audentes_Verificayion,Railroad Medicare PGBA,"Meyer, Mark ",4QF8YM4TQ55,182850,"Huddy, William K",06/05/1954,11/18/2025,NP : New Patient,CO,09:30:00,1902828288,UHC,903439906,,,NP005
+Audentes_Verificayion,Medicare of Colorado,"Meyer, Mark ",7YN4FH6RV05,182686,"Jackson, Brandi L",10/19/1976,11/18/2025,NP : New Patient,CO,08:45:00,1902828288,,,,,NP005
+Audentes_Verificayion,Tricare Prime (West),"Meyer, Mark ",576330740,182693,"Dunklee, Nathan R",04/21/2005,11/18/2025,NP : New Patient,CO,11:00:00,1902828288,,,,,NP005
+Audentes_Verificayion,UHC AARP MEDICARE COMPLETE PLAN 2 HMO,"Meyer, Mark ",99341766800,182214,"Garcia, Alvaro G",02/05/1952,11/18/2025,NP : New Patient,CO,10:15:00,1902828288,,,,,NP005
+Audentes_Verificayion,UHC AARP MEDICARE COMPLETE PLAN 2 HMO,"Meyer, Mark ",993610591,181602,"Barretta, Phyllis R",07/19/1955,11/19/2025,NP : New Patient,CO,14:29:59.999000,1902828288,,,,,NP005
+Audentes_Verificayion,Marrick Medical,"Meyer, Mark ",4859062,182209,"Caudle, Angela ",12/14/1971,11/19/2025,NP : New Patient,CO,13:30:00,1902828288,,,,,NP005
+Audentes_Verificayion,ANTHEM BCBS MED ADV PPO,"Nelson, Betsy ",VOK876W22167,179381,"Stephenson, Jeffrey D",03/26/1956,11/19/2025,NP : New Patient,IN,09:45:00,1790501245,,,,,NP005
+Audentes_Verificayion,AETNA EPO,"Nelson, Betsy ",101336884900,181373,"Yarnell, Bertha C",04/06/1929,11/19/2025,NP : New Patient,IN,13:40:00,1790501245,,,,,NP005
+Audentes_Verificayion,HUMANA Med Adv PPO,"Nelson, Betsy ",H77979637,181229,"BAAS, MICHAEL ",06/10/1958,11/19/2025,NP : New Patient,IN,08:45:00,1790501245,,,,,NP006
+Audentes_Verificayion,ANTHEM BCBS of IN,"Nelson, Betsy ",VRD5690232AB,181640,"York, David Andrew ",07/23/1970,11/19/2025,NP : New Patient,IN,09:00:00,1790501245,,,,,NP006
+Audentes_Verificayion,Medicare of Texas,"Patel, Raj ",41932358,182963,"Myers, Veronica ",04/08/1967,11/13/2025,NP : New Patient,TX,09:05:00,1609221787,,,,,NP006
+Audentes_Verificayion,Medicare of Texas,"Phillips, Andrew ",9RP1GG8RV26,57266,"Daniel, Arlan L",06/07/1938,11/18/2025,NP : New Patient,TX,08:54:59.999000,1669829248,USAA LIFE INSURANCE,P565072378,,,NP006
+Audentes_Verificayion,TX AG BENEFIT-CIGNA,"Phillips, Andrew ",U6924044701,182532,"Hernandez, Eva V",12/27/1966,11/18/2025,NP : New Patient,TX,08:15:00,1669829248,,,,,NP006
+Audentes_Verificayion,AmBetter from Superior Healthplan,"Phillips, Andrew ",U9022030501,182531,"Torres, Christine ",04/30/1986,11/18/2025,NP : New Patient,TX,08:34:59.999000,1669829248,,,,,NP006
+Audentes_Verificayion,Tricare Prime (West),"Phillips, Andrew ",00736569500,181729,"Stroud, David ",06/22/1975,11/19/2025,NP : New Patient,TX,09:30:00,1669829248,,,,,NP006
+Audentes_Verificayion,UHC,"Phillips, Andrew ",943305421,181676,"Frankevich, Gail ",11/07/1953,11/19/2025,NP : New Patient,TX,11:05:00,1669829248,,,,,NP006
+Audentes_Verificayion,Tricare Prime (West),"Phillips, Andrew ",00882855100,181615,"Clayton, Kashawna ",02/27/1982,11/19/2025,NP : New Patient,TX,09:50:00,1669829248,,,,,NP006
+Audentes_Verificayion,Tricare Prime (West),"Phillips, Andrew ",01613752500,181831,"Williams, Marcus ",05/10/1983,11/19/2025,NP : New Patient,TX,14:29:59.999000,1669829248,,,,,NP006
+Audentes_Verificayion,Medicare of Texas,"Phillips, Andrew ",6XJ7N10RK34,181756,"Kimbrough, Antwaine ",10/01/1989,11/19/2025,NP : New Patient,TX,10:44:59.999000,1669829248,Medicaid QMB TX,514057963,,,NP007
+Audentes_Verificayion,Tricare Prime (West),"Phillips, Andrew ",01495779200,181291,"Lipp, Evan ",03/26/1992,11/19/2025,NP : New Patient,TX,11:40:00,1669829248,,,,,NP007
+Audentes_Verificayion,VA CCN OPTUM,"Phillips, Andrew ",1300819148,181903,"Hurrell, Jason R",10/11/1978,11/19/2025,NP : New Patient,TX,14:50:00,1669829248,,,,,NP007
+Audentes_Verificayion,UHC-AARP MEDICARE ADV HMO-WELLMED,"Phillips, Andrew ",955353279,177884,"Upshaw, Ute ",06/18/1970,11/19/2025,NP : New Patient,TX,14:09:59.999000,1669829248,CHAMPVA Champus,244716343,,,NP007
+Audentes_Verificayion,Tricare Prime (West),"Sandell, Timothy ",1012766595,181526,"WESTERMAN, RAYMOND ",12/02/1960,11/13/2025,NP EMG : NEW PATIENT EMG,CO,09:59:59.999000,1679522254,,,,,NP007
+Audentes_Verificayion,BCBS OF CO,"Sandell, Timothy ",VAD830A74918,180724,"Trivelli, Stephen T",02/09/1989,11/17/2025,NP EMG : NEW PATIENT EMG,CO,13:30:00,1679522254,,,,,NP007
+Audentes_Verificayion,BCBS OF CO,"Sandell, Timothy ",NGO332M51567,181720,"Duran, Melisa ",03/20/1983,11/18/2025,NP : New Patient,CO,13:44:59.999000,1679522254,,,,,NP007
+Audentes_Verificayion,WPS - VAPC3 (TRIWEST),"Sandell, Timothy ",1250778224,181844,"Ramirez, Rodolfo ",02/20/1981,11/18/2025,NP : New Patient,CO,11:15:00,1679522254,,,,,NP007
+Audentes_Verificayion,Medicare of Colorado,"Sandell, Timothy ",4CH4KR4NA65,173362,"Becton, Tove ",03/14/1949,11/18/2025,NP : New Patient,CO,15:14:59.999000,1679522254,Tricare for Life,00029095703,,,NP007
+Audentes_Verificayion,WPS - VAPC3 (TRIWEST),"Sandell, Timothy ",1222437241,181195,"Duran, Ernesto ",06/16/1969,11/19/2025,NP EMG : NEW PATIENT EMG,CO,13:15:00,1679522254,,,,,NP007
+Audentes_Verificayion,BCBS OF CO,"Sandell, Timothy ",P3Q179W20866,181655,"Chaves, Arianna B",11/09/1995,11/19/2025,NP : New Patient,CO,12:45:00,1679522254,,,,,NP008
+Audentes_Verificayion,UHC,"Sandell, Timothy ",993351551,181327,"Byrd, Gene H",02/13/1950,11/19/2025,NP EMG : NEW PATIENT EMG,CO,12:00:00,1679522254,,,,,NP008
+Audentes_Verificayion,TriWest VA CCN Claims,"Winkler, Zachary ",1183829684,182954,"Edwards, Robert ",01/17/1965,11/14/2025,NP : New Patient,CO,11:20:00,1417338203,,,,,NP008
+Audentes_Verificayion,UHC,"Winkler, Zachary ",902795102,183090,"Ham, Linda ",04/06/1968,11/17/2025,NP : New Patient,CO,08:50:00,1417338203,,,,,NP008
+Audentes_Verificayion,Medicare of Colorado,"Winkler, Zachary ",9RF0CWNAG90,181626,"Edwards, Floyd ",06/13/1948,11/18/2025,NP : New Patient,CO,11:29:59.999000,1417338203,Tricare for Life,1153879377,,,NP008
+Audentes_Verificayion,Self-Pay,"Winkler, Zachary ",,179708,"Britten, Liliya ",08/23/1971,11/18/2025,NP : New Patient,CO,08:29:59.999000,1417338203,,,,,NP008
+Audentes_Verificayion,Tricare Prime (West),"Winkler, Zachary ",01320391100,183024,"Gonzales, Thomas ",04/13/1988,11/18/2025,NP : New Patient,CO,09:00:00,1417338203,,,,,NP008
+Audentes_Verificayion,Kaiser Permanente,"Winkler, Zachary ",2983459,182015,"Perea, Joann R",06/27/1965,11/18/2025,NP : New Patient,CO,08:00:00,1417338203,,,,,NP008
+Audentes_Verificayion,Tricare Select (East),"Winkler, Zachary ",1374723487,182684,"Hazeltine, Larry A",02/05/1973,11/18/2025,NP : New Patient,CO,14:45:00,1417338203,,,,,NP008
+Audentes_Verificayion,Tricare Prime (West),"Winkler, Zachary ",00799521301,84835,"Washkowiak, Ashley ",08/21/1985,11/18/2025,NP : New Patient,CO,14:15:00,1417338203,,,,,NP008
+Audentes_Verificayion,Medicare of Colorado,"Colasanto, Lisa D",8RK8GA6PW54,116340,"DANIELSON, MARILYN G",03/14/1939,11/18/2025,F/U : Follow Up Visit,CO,09:59:59.999000,1518396373,Tricare for Life,00216659603,,,FU001
+Audentes_Verificayion,Medicare of Colorado,"Corbett, Bonnie ",1FR3JG6UQ74,103926,"Harlow, JoAnn J",10/01/1948,11/19/2025,F/U : Follow Up Visit,CO,12:59:59.999000,1558139329,UHC AARP Supplemental,06705056811,,,FU001
+Audentes_Verificayion,SELF PAY,"Corey, Samantha ",SEFL PAY,99346,"STONE, KATHLEEN O",11/21/1960,11/13/2025,F/U : Follow Up Visit,CO,11:00:00,1477196533,,,,,FU001
+Audentes_Verificayion,UHC AARP MEDICARE ADV HMO (Plan 2/3),"Corey, Samantha ",904692822,138982,"Marquez, Nancy ",08/16/1957,11/13/2025,F/U : Follow Up Visit,CO,11:20:00,1477196533,Medicaid of Colorado,P974125,,,FU001
+Audentes_Verificayion,HUMANA Med Adv PPO,"Corey, Samantha ",H94027482,167369,"Warrick, Alice ",07/09/1960,11/13/2025,F/U : Follow Up Visit,CO,12:59:59.999000,1477196533,,,,,FU001
+Audentes_Verificayion,Medicare of Colorado,"Corey, Samantha ",4FV4YW0RE50,100337,"GALLOWAY, THOMAS F",02/12/1953,11/17/2025,F/U : Follow Up Visit,CO,14:40:00,1477196533,BCBS OF CO MEDICARE SUPPLEMENT,XFO069W07167,,,FU001
+Audentes_Verificayion,Medicare of Colorado,"Corey, Samantha ",8RK8GA6PW54,116340,"DANIELSON, MARILYN G",03/14/1939,11/18/2025,F/U : Follow Up Visit,CO,09:59:59.999000,1477196533,Tricare for Life,00216659603,,,FU001
+Audentes_Verificayion,Medicare of Colorado,"Corey, Samantha ",3YC3YT1CK60,89401,"Bernstein, Randy ",03/16/1952,11/19/2025,PX F/U : Procedure Follow-Up,CO,15:39:59.999000,1477196533,AETNA MEDICARE SUPPLEMENT,AHC6524982,,,FU001
+Audentes_Verificayion,TriWest VA CCN Claims,"Corey, Samantha ",1146580633,78717,"WRUCK, TERRY L",05/06/1972,11/19/2025,F/U : Follow Up Visit,CO,09:19:59.999000,1477196533,,,,,FU001
+Audentes_Verificayion,TriWest VA CCN Claims,"Corey, Samantha ",1336440200,92500,"Alford, Richard L",10/07/1956,11/19/2025,F/U : Follow Up Visit,CO,08:40:00,1477196533,,,,,FU001
+Audentes_Verificayion,Medicare of Colorado,"Corey, Samantha ",6T42FT4AC24,131952,"HOLLER, CATHERINE M",05/05/1955,11/19/2025,F/U : Follow Up Visit,CO,15:00:00,1477196533,UHC AARP Supplemental,34489551912,,,FU001
+Audentes_Verificayion,Medicare of Colorado,"Corey, Samantha ",1KG7A01WM53,173591,"KUHLMANN, Brenda ",06/16/1952,11/19/2025,PX F/U : Procedure Follow-Up,CO,09:00:00,1477196533,BCBS OF CO MEDICARE SUPPLEMENT,XJNH27507935,,,FU001
+Audentes_Verificayion,Tricare Prime (West),"Corey, Samantha ",589160425,85048,"Weiner, Eric ",09/23/1967,11/19/2025,PX F/U : Procedure Follow-Up,CO,09:59:59.999000,1477196533,,,,,FU001
+Audentes_Verificayion,Humana Med Adv PPO DUAL SNP,"Corey, Samantha ",H79065846,78726,"LACEY, DEBORAH K",05/22/1953,11/19/2025,F/U : Follow Up Visit,CO,11:00:00,1477196533,,,,,FU002
+Audentes_Verificayion,Cigna,"Corey, Samantha ",10308368301,106209,"REVELL, CRYSTAL A",11/21/1963,11/19/2025,PX F/U : Procedure Follow-Up,CO,08:00:00,1477196533,,,,,FU002
+Audentes_Verificayion,Medicare of Colorado,"Corey, Samantha ",3VW2TU3GH82,175656,"Parker, Wanda R",07/03/1959,11/19/2025,F/U : Follow Up Visit,CO,08:20:00,1477196533,UHC AARP Supplemental,32404118611,,,FU002
+Audentes_Verificayion,Cigna,"Corey, Samantha ",U9457432601,177864,"Stanton, Alicia ",05/15/1996,11/19/2025,F/U : Follow Up Visit,CO,11:40:00,1477196533,,,,,FU002
+Audentes_Verificayion,Medicare of Colorado,"Corey, Samantha ",5WV2EF2JA95,101012,"BROWN, PAMELA ",06/15/1959,11/19/2025,F/U : Follow Up Visit,CO,11:20:00,1477196533,Tricare for Life,146584113,,,FU002
+Audentes_Verificayion,UHC AARP MEDICARE ADVANTAGE PPO,"Corey, Samantha ",954605589,177310,"Woolsey, Kimberly S",02/19/1960,11/19/2025,F/U : Follow Up Visit,CO,12:59:59.999000,1477196533,Medicaid of Colorado,Y620438,,,FU002
+Audentes_Verificayion,UHC AARP MEDICARE ADVANTAGE PPO,"Corey, Samantha ",987446704,173710,"Sanchez, Michelle ",11/01/1970,11/19/2025,F/U : Follow Up Visit,CO,14:20:00,1477196533,Medicaid of Colorado,M056080,,,FU002
+Audentes_Verificayion,UHC DUAL COMPLETE HMO-POS D-SNP,"Corey, Samantha ",975867189,112788,"VELASQUEZ, JUNE E",12/03/1957,11/19/2025,F/U : Follow Up Visit,CO,15:19:59.999000,1477196533,,,,,FU002
+Audentes_Verificayion,Tricare Prime (West),"Corey, Samantha ",01537822600,172917,"Wise, Jeanine ",06/11/1992,11/19/2025,PX F/U : Procedure Follow-Up,CO,09:39:59.999000,1477196533,,,,,FU002
+Audentes_Verificayion,UHC AARP MEDICARE ADV HMO (Plan 2/3),"Corey, Samantha ",912987766,79170,"MOODY, DAVALYN D",04/02/1951,11/19/2025,PX F/U : Procedure Follow-Up,CO,10:40:00,1477196533,,,,,FU002
+Audentes_Verificayion,UHC DUAL COMPLETE HMO-POS D-SNP,"Corey, Samantha ",995909123,78754,"MACK, THOMAS R",05/22/1955,11/19/2025,PX F/U : Procedure Follow-Up,CO,14:00:00,1477196533,Medicaid of Colorado,G653816,,,FU002
+Audentes_Verificayion,UHC AARP MEDICARE ADVANTAGE PPO,"Corey, Samantha ",937514415-00,83560,"Cranford, Georgann K",10/06/1955,11/19/2025,PX F/U : Procedure Follow-Up,CO,14:40:00,1477196533,,,,,FU002
+Audentes_Verificayion,Medicare of Colorado,"DeSantis, Maria ",5AJ3R97YV72,122929,"FULMER, KELLY I",12/21/1959,11/14/2025,F/U : Follow Up Visit,CO,11:20:00,1154155158,GEHA,G44721574,,,FU002
+Audentes_Verificayion,BCBS OF CO,"DeSantis, Maria ",NLM108663782001,134085,"Joyce, Kari L",10/28/1983,11/18/2025,F/U : Follow Up Visit,CO,08:40:00,1154155158,,,,,FU003
+Audentes_Verificayion,Medicare of Colorado,"DeSantis, Maria ",8DU5AA8AE87,98797,"Carrillo, LAURA ",08/06/1970,11/18/2025,F/U : Follow Up Visit,CO,15:39:59.999000,1154155158,,,,,FU003
+Audentes_Verificayion,PHCS - MEDISHARE,"DeSantis, Maria ",05173S47648,143061,"Sanger, Michael ",03/16/1962,11/18/2025,F/U : Follow Up Visit,CO,15:00:00,1154155158,,,,,FU003
+Audentes_Verificayion,TriWest VA CCN Claims,"DeSantis, Maria ",1354339877,170762,"Pilon, George H",06/11/1956,11/18/2025,F/U : Follow Up Visit,CO,10:40:00,1154155158,,,,,FU003
+Audentes_Verificayion,Medicare of Colorado,"DeSantis, Maria ",2YP5DT9QE53,177305,"Cox, Norma ",11/09/1938,11/18/2025,F/U : Follow Up Visit,CO,08:20:00,1154155158,BCBS OF CO MEDICARE SUPPLEMENT,XFO437A79091,,,FU003
+Audentes_Verificayion,Medicare of Colorado,"DeSantis, Maria ",6EJ6YA1JY55,98741,"BOWMAN, KATHY A",10/05/1960,11/19/2025,F/U : Follow Up Visit,CO,10:40:00,1154155158,MUTUAL OF OMAHA INSURANCE COMPANY,666333-97,,,FU003
+Audentes_Verificayion,Medicare of Colorado,"DeSantis, Maria ",8TH1K37KK93,99260,"GIBSON, ANN M",01/05/1959,11/19/2025,F/U : Follow Up Visit,CO,11:00:00,1154155158,UHC AARP Supplemental,32301009411,,,FU003
+Audentes_Verificayion,HUMANA Med Adv PPO,"DeSantis, Maria ",H68766811,172932,"Talley, Jay ",01/06/1954,11/19/2025,F/U : Follow Up Visit,CO,11:40:00,1154155158,,,,,FU003
+Audentes_Verificayion,TriWest VA CCN Claims,"DeSantis, Maria ",1179578731,98794,"LUTA, STEVEN W",06/14/1955,11/19/2025,F/U : Follow Up Visit,CO,14:20:00,1154155158,,,,,FU003
+Audentes_Verificayion,Tricare Prime (West),"DeSantis, Maria ",218989424,122988,"COOPER, GLEN ",02/16/1966,11/19/2025,PX F/U : Procedure Follow-Up,CO,08:00:00,1154155158,,,,,FU003
+Audentes_Verificayion,UHC Medicare Adv PPO,"DeSantis, Maria ",901050289,173997,"Proctor, Sandra L",07/17/1949,11/19/2025,F/U : Follow Up Visit,CO,12:59:59.999000,1154155158,,,,,FU003
+Audentes_Verificayion,Medicare of Colorado,"DeSantis, Maria ",8NC7JJ4EQ72,117264,"NURMI, JOUNI A",05/25/1960,11/19/2025,F/U : Follow Up Visit,CO,09:59:59.999000,1154155158,Medicaid of Colorado,Y397401,,,FU003
+Audentes_Verificayion,UMR,"DeSantis, Maria ",41258615,167968,"Smith, Tammy ",01/19/1962,11/19/2025,F/U : Follow Up Visit,CO,11:20:00,1154155158,,,,,FU003
+Audentes_Verificayion,Medicare of Colorado,"Harlander-Locke, Michael ",6H46FA4PC83,167042,"Statham, Devin ",06/17/1969,11/19/2025,F/U : Follow Up Visit,CO,08:40:00,1689231524,Tricare for Life,00645587600,,,FU004
+Audentes_Verificayion,Medicare of Colorado,"Harlander-Locke, Michael ",58M3VH2NT72,181722,"Bixler, Matthew J",12/12/1955,11/19/2025,PX F/U : Procedure Follow-Up,CO,09:30:00,1689231524,ANTHEM BCBS MED ADV PPO,XFO306w09317,,,FU004
+Audentes_Verificayion,UHC DUAL COMPLETE HMO-POS D-SNP,"Harlander-Locke, Michael ",982438251,164554,"Stephenson, Stacy ",06/15/1982,11/19/2025,F/U : Follow Up Visit,CO,10:20:00,1689231524,Medicaid of Colorado,O231473,,,FU004
+Audentes_Verificayion,UHC DUAL COMPLETE HMO-POS D-SNP,"Harlander-Locke, Michael ",92845784000,179997,"Fox, Yvonne ",08/28/1956,11/19/2025,F/U : Follow Up Visit,CO,10:40:00,1689231524,,,,,FU004
+Audentes_Verificayion,Medicare of Colorado,"Harlander-Locke, Michael ",1QK3TA5QJ74,170582,"Weiss, Jonathan ",08/09/1972,11/19/2025,PX F/U : Procedure Follow-Up,CO,11:00:00,1689231524,Medicaid of Colorado,P101385,,,FU004
+Audentes_Verificayion,Medicare of Colorado,"Harlander-Locke, Michael ",6F32YP9XG17,165366,"Sleap, Mary ",06/18/1955,11/19/2025,PX F/U : Procedure Follow-Up,CO,12:59:59.999000,1689231524,BCBS OF CO MEDICARE SUPPLEMENT,XFO856W05072,,,FU004
+Audentes_Verificayion,Humana Med Adv PPO DUAL SNP,"Harlander-Locke, Michael ",H57672388,181486,"Walker, Evelyn ",07/17/1948,11/19/2025,F/U : Follow Up Visit,CO,13:49:59.999000,1689231524,Medicaid of Colorado,O152517,,,FU004
+Audentes_Verificayion,SELF PAY,"Harlander-Locke, Michael ",Self Pay,166187,"Headley, Lisa ",03/14/1958,11/19/2025,F/U : Follow Up Visit,CO,08:20:00,1689231524,,,,,FU004
+Audentes_Verificayion,Cigna,"Harlander-Locke, Michael ",U1195804001,168474,"Lord, Daniel C",06/15/1973,11/19/2025,F/U : Follow Up Visit,CO,11:15:00,1689231524,,,,,FU004
+Audentes_Verificayion,Cigna,"Jurkiewicz, Patience ",U0750672001,103535,"Olds, Melissa E",05/04/1967,11/18/2025,MM F/U : Dr. Meyer Follow Up,CO,08:20:00,1477298354,,,,,FU004
+Audentes_Verificayion,UHC CHOICE PLUS,"Jurkiewicz, Patience ",953041852,118321,"RAGSDALE, AMY E",03/13/1976,11/18/2025,MM F/U : Dr. Meyer Follow Up,CO,10:20:00,1477298354,,,,,FU004
+Audentes_Verificayion,Tricare Prime (West),"Jurkiewicz, Patience ",00265507403,102776,"Bergholtz, Maybritt ",12/28/1971,11/18/2025,MM F/U : Dr. Meyer Follow Up,CO,09:00:00,1477298354,,,,,FU004
+Audentes_Verificayion,Medicare of Colorado,"Jurkiewicz, Patience ",3F17R68DX20,163969,"Smith, Dorthy ",09/11/1938,11/18/2025,MM F/U : Dr. Meyer Follow Up,CO,11:20:00,1477298354,Tricare for Life,00599920203,,,FU004
+Audentes_Verificayion,Kaiser Permanente,"Jurkiewicz, Patience ",419751395,91953,"Evers, Sondra K",08/13/1944,11/18/2025,MM F/U : Dr. Meyer Follow Up,CO,11:40:00,1477298354,,,,,FU005
+Audentes_Verificayion,AETNA,"Jurkiewicz, Patience ",W262976776,104003,"Wren, Kelley L",02/15/1972,11/18/2025,MM F/U : Dr. Meyer Follow Up,CO,14:20:00,1477298354,,,,,FU005
+Audentes_Verificayion,KAISER PERMANENTE,"Jurkiewicz, Patience ",429501287,111417,"CARTER, LAVONNE ",10/05/1961,11/18/2025,MM F/U : Dr. Meyer Follow Up,CO,15:19:59.999000,1477298354,,,,,FU005
+Audentes_Verificayion,UHC CHOICE PLUS,"Jurkiewicz, Patience ",909050408,104338,"Sherman, Steve ",07/17/1959,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,08:00:00,1477298354,,,,,FU005
+Audentes_Verificayion,UHC AARP MEDICARE COMPLETE PLAN 2 HMO,"Jurkiewicz, Patience ",907685854,112169,"Salazar, Ronnie ",04/04/1953,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,08:20:00,1477298354,,,,,FU005
+Audentes_Verificayion,Tricare Select (West),"Jurkiewicz, Patience ",497801217,103552,"Giovanni, Emily ",04/17/1978,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,09:59:59.999000,1477298354,,,,,FU005
+Audentes_Verificayion,Cigna,"Jurkiewicz, Patience ",U6010583001,104299,"MCGUIRE, CHARLES B",02/20/1986,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,09:19:59.999000,1477298354,,,,,FU005
+Audentes_Verificayion,Tricare Prime (West),"Jurkiewicz, Patience ",111623623,139114,"Felton, Donald ",01/04/1965,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,09:39:59.999000,1477298354,,,,,FU005
+Audentes_Verificayion,UHC CHOICE PLUS,"Jurkiewicz, Patience ",10522549000,103644,"Laforge, Robert J",12/09/1983,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,09:00:00,1477298354,,,,,FU005
+Audentes_Verificayion,Medicare of Colorado,"Jurkiewicz, Patience ",1CN9HK1AV55,85856,"Johnson, Michaelanne ",04/08/1953,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,10:40:00,1477298354,BCBS OF CO MEDICARE SUPPLEMENT,XFO509M94160,,,FU005
+Audentes_Verificayion,Cigna,"Jurkiewicz, Patience ",U4830759502,103952,"Smith, Amy M",12/30/1981,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,11:40:00,1477298354,,,,,FU005
+Audentes_Verificayion,Medicare of Colorado,"Jurkiewicz, Patience ",3F07DD7YA49,104451,"Doll, Kristi L",02/21/1969,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,12:59:59.999000,1477298354,Tricare for Life,167481553,,,FU005
+Audentes_Verificayion,Medicare of Colorado,"Jurkiewicz, Patience ",4RJ1D50UD18,104760,"Boddington, Catherine N",10/17/1955,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,13:40:00,1477298354,UHC AARP Supplemental,33654424112,,,FU006
+Audentes_Verificayion,Medicare of Colorado,"Jurkiewicz, Patience ",9D71U66NA16,118472,"Gonzales, David ",10/19/1956,11/19/2025,PX F/U : Procedure Follow-Up,CO,14:40:00,1477298354,UHC AARP Supplemental,31551349511,,,FU006
+Audentes_Verificayion,Medicare of Colorado,"Jurkiewicz, Patience ",6VH9E93GK13,168824,"Minnitti, Monica ",12/16/1974,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,15:39:59.999000,1477298354,,,,,FU006
+Audentes_Verificayion,Medicare of Colorado,"Jurkiewicz, Patience ",9P02DP7MN19,103929,"Harlow, Gerald F",11/10/1945,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,14:20:00,1477298354,Tricare for Life,227607393,,,FU006
+Audentes_Verificayion,HUMANA Med Adv HMO,"Jurkiewicz, Patience ",H50903223,103941,"Martinez, Johnnie L",08/16/1969,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,08:40:00,1477298354,,,,,FU006
+Audentes_Verificayion,Medicare of Colorado,"Jurkiewicz, Patience ",6Q71QN2QW33,103494,"Clarey, Willard F",02/21/1951,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,10:20:00,1477298354,UHC AARP Supplemental,33776168311,,,FU006
+Audentes_Verificayion,SELF PAY,"Jurkiewicz, Patience ",Self Pay,99244,"TRIGILIO, ROBERT ",10/20/1960,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,11:00:00,1477298354,,,,,FU006
+Audentes_Verificayion,UHC AARP MEDICARE COMPLETE PLAN 2 HMO,"Jurkiewicz, Patience ",992568116,104280,"Jones, Hollie A",07/02/1965,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,11:20:00,1477298354,Tricare for Life,1085823775,,,FU006
+Audentes_Verificayion,Tricare Prime (West),"Jurkiewicz, Patience ",475064286,86421,"Cracauer, Nina C",01/24/1985,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,13:20:00,1477298354,,,,,FU006
+Audentes_Verificayion,HUMANA Med Adv PPO,"Jurkiewicz, Patience ",H61024266,128741,"MCCRAY, SHIRLEY D",12/31/1958,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,14:00:00,1477298354,Tricare for Life,300600551,,,FU006
+Audentes_Verificayion,Medicare of Colorado,"Jurkiewicz, Patience ",4RK1MF4EY26,113163,"Parlato, Marilyn ",07/27/1946,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,15:00:00,1477298354,BCBS OF CO MEDICARE SUPPLEMENT,XFO580A76450,,,FU006
+Audentes_Verificayion,BCBS OF CO,"Jurkiewicz, Patience ",BHP828378017,105234,"Martin, Sondra Y",12/03/1964,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,15:19:59.999000,1477298354,Medicare of Colorado,2NH0E44VN15,Tricare Prime (West),00304470704,FU006
+Audentes_Verificayion,BCBS OF CO,"Meyer, Mark ",CRV897W20749,104695,"LANE, SUSAN Marie",11/01/1970,11/18/2025,MM F/U : Dr. Meyer Follow Up,CO,09:59:59.999000,1902828288,,,,,FU007
+Audentes_Verificayion,Medicare of Colorado,"Meyer, Mark ",8X04F17QF02,176093,"Rojas, Denise M",09/07/1959,11/18/2025,MM F/U : Dr. Meyer Follow Up,CO,11:29:59.999000,1902828288,PHYSICIANS MUTUAL INS,100183213,,,FU007
+Audentes_Verificayion,UHC Medicare Adv PPO,"Meyer, Mark ",983187314,126869,"HARLING, JUDITH E",10/27/1955,11/18/2025,MM F/U : Dr. Meyer Follow Up,CO,09:14:59.999000,1902828288,,,,,FU007
+Audentes_Verificayion,Medicare of Colorado,"Meyer, Mark ",6E40M43TM02,102254,"CRISWELL, BARBARA L",06/16/1939,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,14:15:00,1902828288,Tricare for Life,566406191,,,FU007
+Audentes_Verificayion,CIGNA MEDICARE ADV HMO,"Meyer, Mark ",36335572,85055,"Medrick, Lidiya ",11/12/1948,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,15:14:59.999000,1902828288,,,,,FU007
+Audentes_Verificayion,UMR,"Meyer, Mark ",14359236,104027,"Connors, Scott J",04/14/1967,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,09:30:00,1902828288,,,,,FU007
+Audentes_Verificayion,Medicare of Colorado,"Meyer, Mark ",1W87CY4FH73,90566,"Wood Edman, Meredith L",06/27/1957,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,11:00:00,1902828288,UHC AARP Supplemental,33922462811,,,FU007
+Audentes_Verificayion,CIGNA MEDICARE ADV HMO,"Meyer, Mark ",36958088,123917,"SINGLEVICH, MARSHA H",11/25/1952,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,12:59:59.999000,1902828288,,,,,FU007
+Audentes_Verificayion,Medicare of Colorado,"Meyer, Mark ",6Q30X53WW19,88360,"Sanders, Dona K",11/20/1944,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,14:00:00,1902828288,UHC AARP Supplemental,08939765511,,,FU007
+Audentes_Verificayion,TriWest VA CCN Claims,"Meyer, Mark ",1153547935,83126,"Chasteen, Mark R",01/23/1963,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,11:45:00,1902828288,,,,,FU007
+Audentes_Verificayion,KAISER PERMANENTE,"Meyer, Mark ",433187794,135962,"Rhodes, Talaura ",08/09/1982,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,15:30:00,1902828288,Medicaid of Colorado,Q065047,,,FU007
+Audentes_Verificayion,UHC DUAL COMPLETE HMO-POS D-SNP,"Meyer, Mark ",90580813900,143339,"Gonzalez, Linda ",03/13/1959,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,08:45:00,1902828288,,,,,FU007
+Audentes_Verificayion,Medicare of Colorado,"Meyer, Mark ",8F37NV1WF46,98419,"KRASOVEC, GREG J",01/18/1967,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,10:15:00,1902828288,AETNA,W099347585,,,FU008
+Audentes_Verificayion,Medicare of Colorado,"Meyer, Mark ",3FR2EX7FP23,98371,"MONDRAGON, EDNA M",05/08/1939,11/19/2025,MM F/U : Dr. Meyer Follow Up,CO,13:15:00,1902828288,BCBS OF CO FEDERAL,R59132259,,,FU008
+Audentes_Verificayion,UHC AARP MEDICARE ADV PPO PLAN 1,"Sandell, Timothy ",912433488,99288,"JOHNSON, DELONA M",05/23/1962,11/18/2025,TS F/U : Dr. Sandell Follow Up,CO,11:45:00,1679522254,,,,,FU008
+Audentes_Verificayion,UHC CHOICE PLUS,"Sandell, Timothy ",965073401,98351,"Koch, Brian ",07/01/1970,11/18/2025,TS F/U : Dr. Sandell Follow Up,CO,15:00:00,1679522254,,,,,FU008
+Audentes_Verificayion,Medicare of Colorado,"Sandell, Timothy ",4M87T98QP78,168527,"Bradberry, Brinder K",10/07/1951,11/18/2025,TS F/U : Dr. Sandell Follow Up,CO,10:15:00,1679522254,Champ VA - VHA Community Care,459886880,,,FU008
+Audentes_Verificayion,Rocky Mountain Pace,"Sandell, Timothy ",RM0086157,133165,"FERO, LESLIE K",05/15/1948,11/18/2025,TS F/U : Dr. Sandell Follow Up,CO,14:15:00,1679522254,,,,,FU008
+Audentes_Verificayion,Cigna,"Sandell, Timothy ",111605235,85707,"O'Malley, Kevin ",09/15/1975,11/18/2025,TS F/U : Dr. Sandell Follow Up,CO,09:45:00,1679522254,,,,,FU008
+Audentes_Verificayion,UHC DUAL COMPLETE HMO-POS D-SNP,"Sandell, Timothy ",971381586,176631,"Trujillo, Joe A",10/05/1945,11/18/2025,TS F/U : Dr. Sandell Follow Up,CO,10:30:00,1679522254,,,,,FU008
+Audentes_Verificayion,Kaiser Senior Medicare Adv HMO,"Sandell, Timothy ",434339339,100635,"LEMONS, CHARLES A",09/24/1957,11/19/2025,TS F/U : Dr. Sandell Follow Up,CO,14:00:00,1679522254,,,,,FU008
+Audentes_Verificayion,Kaiser Senior Medicare Adv HMO,"Sandell, Timothy ",427281111,99249,"LEMONS, SALLY L",06/30/1951,11/19/2025,TS F/U : Dr. Sandell Follow Up,CO,14:15:00,1679522254,,,,,FU008
+Audentes_Verificayion,BCBS OF CO,"Sandell, Timothy ",XEA913793331,99699,"RIGGINS, RONALD ",11/17/1958,11/19/2025,TS F/U : Dr. Sandell Follow Up,CO,15:14:59.999000,1679522254,,,,,FU008
+Audentes_Verificayion,BCBS OF CO,"Sandell, Timothy ",XEA913793331,99696,"RIGGINS, NANCY L",12/11/1966,11/19/2025,TS F/U : Dr. Sandell Follow Up,CO,15:45:00,1679522254,,,,,FU008
+Audentes_Verificayion,HUMANA Med Adv PPO,"Beck, Jeffrey ",H66721984,176533,"Hurd, Cindi ",07/18/1954,11/19/2025,F/U : Follow Up Visit,IN,10:30:00,1063605921,,,,,FU001
+Audentes_Verificayion,UHC Medicare Adv PPO,"Beck, Jeffrey ",922419265,121430,"HATFIELD, DON EUGENE ",11/01/1935,11/19/2025,F/U : Follow Up Visit,IN,10:44:59.999000,1063605921,,,,,FU001
+Audentes_Verificayion,ANTHEM BCBS of IN,"Beck, Jeffrey ",AJS800M55913,172009,"Ray, Crystal D",10/19/1969,11/19/2025,F/U : Follow Up Visit,IN,11:29:59.999000,1063605921,,,,,FU001
+Audentes_Verificayion,Anthem BCBS of IN Mediblue HMO,"Beck, Jeffrey ",VOK684W06870,93377,"ROUSH, REGINA L",06/22/1960,11/19/2025,F/U : Follow Up Visit,IN,11:45:00,1063605921,Medicaid of IN,120728902499,,,FU001
+Audentes_Verificayion,ANTHEM BCBS of IN,"Beck, Jeffrey ",IUC705M55994,92964,"NICHOLSON, CORINNE ",04/15/1959,11/19/2025,F/U : Follow Up Visit,IN,12:59:59.999000,1063605921,,,,,FU001
+Audentes_Verificayion,Medicare of Indiana,"Beck, Jeffrey ",7RD9H23WK19,182273,"Lee, James ",05/01/1941,11/19/2025,F/U : Follow Up Visit,IN,12:59:59.999000,1063605921,BCBS OF IN FEDERAL,R09387068,,,FU001
+Audentes_Verificayion,Medicare of Indiana,"Beck, Jeffrey ",1WC6RT9NK68,167107,"Osborne, Carol Ann",10/14/1940,11/19/2025,F/U : Follow Up Visit,IN,13:15:00,1063605921,AETNA MEDICARE SUPPLEMENT,CLI3070749,,,FU001
+Audentes_Verificayion,Medicare of Indiana,"Beck, Jeffrey ",9PT9Y45JT37,162469,"Smith, James ",12/03/1983,11/19/2025,F/U : Follow Up Visit,IN,14:00:00,1063605921,Tricare for Life,314043970,,,FU001
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Beck, Jeffrey ",H42945564,93631,"CULP, HEATHER L",02/14/1972,11/19/2025,F/U : Follow Up Visit,IN,14:15:00,1063605921,Medicaid of IN,104959552199,,,FU002
+Audentes_Verificayion,Medicare of Indiana,"Beck, Jeffrey ",2N36W11GC73,123255,"ROGERS, MARK E",11/11/1955,11/19/2025,F/U : Follow Up Visit,IN,15:00:00,1063605921,MUTUAL OF OMAHA INSURANCE COMPANY,434890-95,,,FU002
+Audentes_Verificayion,Medicare of Indiana,"Beck, Jeffrey ",6FD5K33QP82,100573,"Greenwood, Rita ",06/13/1949,11/19/2025,F/U : Follow Up Visit,IN,14:29:59.999000,1063605921,UHC AARP Supplemental,09711961812,,,FU002
+Audentes_Verificayion,ANTHEM BCBS of IN,"Beck, Jeffrey ",IUCAN7251935,92931,"COOK, EMILY L",11/14/1969,11/19/2025,F/U : Follow Up Visit,IN,08:15:00,1063605921,,,,,FU002
+Audentes_Verificayion,ANTHEM BCBS of IN,"Beck, Jeffrey ",XPA054M99028,112448,"VOORHEES, CLAIRE E",11/04/1970,11/19/2025,F/U : Follow Up Visit,IN,09:00:00,1063605921,,,,,FU002
+Audentes_Verificayion,Medicare of Indiana,"Beck, Jeffrey ",5G89YF4QH33,178812,"Bauer, William ",03/04/1940,11/19/2025,F/U : Follow Up Visit,IN,09:59:59.999000,1063605921,,,,,FU002
+Audentes_Verificayion,ANTHEM BCBS of IN,"Beck, Jeffrey ",NMW828026810,181583,"Wise, Caleb M",12/29/2005,11/19/2025,F/U : Follow Up Visit,IN,09:59:59.999000,1063605921,,,,,FU002
+Audentes_Verificayion,Medicare of Indiana,"Beck, Jeffrey ",5NA2U10TY90,176660,"Christie, Gayla D",01/02/1971,11/19/2025,F/U : Follow Up Visit,IN,10:15:00,1063605921,,,,,FU003
+Audentes_Verificayion,ANTHEM BCBS MED ADV PPO,"Beck, Jeffrey ",IUX879W22606,179162,"Tanner-Lauderbaugh, Pamela S",07/21/1979,11/19/2025,F/U : Follow Up Visit,IN,10:44:59.999000,1063605921,,,,,FU003
+Audentes_Verificayion,MDwise (Healthy Indiana Plan),"Beck, Jeffrey ",104975626399,178915,"Spires, Stephanie ",01/25/1970,11/19/2025,F/U : Follow Up Visit,IN,11:29:59.999000,1063605921,,,,,FU003
+Audentes_Verificayion,ANTHEM BCBS of IN,"Beck, Jeffrey ",AKH161A20517,179058,"Preston, Andrea M",07/09/1980,11/19/2025,F/U : Follow Up Visit,IN,14:00:00,1063605921,,,,,FU003
+Audentes_Verificayion,UHC DUAL COMPLETE CHOICE PPO-SNP,"Beck, Jeffrey ",132102808,179086,"Sullivan, Cindy J",03/07/1959,11/19/2025,F/U : Follow Up Visit,IN,15:00:00,1063605921,,,,,FU003
+Audentes_Verificayion,ANTHEM BCBS of IN,"Beck, Jeffrey ",CBF0340541PF,107188,"ARNETT, APRIL ",10/28/1975,11/19/2025,F/U : Follow Up Visit,IN,15:14:59.999000,1063605921,,,,,FU003
+Audentes_Verificayion,ANTHEM BCBS of IN,"Beck, Jeffrey ",YZD875M61712,106562,"Everroad, Nicole ",01/17/1983,11/19/2025,F/U : Follow Up Visit,IN,15:45:00,1063605921,,,,,FU003
+Audentes_Verificayion,ANTHEM BCBS of IN,"Beck, Jeffrey ",B8P753A79323,179457,"Tague, Michael R",12/16/1972,11/19/2025,F/U : Follow Up Visit,IN,15:45:00,1063605921,,,,,FU004
+Audentes_Verificayion,IU Health Plan,"Beck, Jeffrey ",M2000546300,177822,"Mc Murren, Sharon ",07/31/1945,11/19/2025,F/U : Follow Up Visit,IN,09:14:59.999000,1063605921,,,,,FU004
+Audentes_Verificayion,Medicare of Indiana,"Beck, Jeffrey ",9E35TP0HQ54,178085,"Sanders, Patricia ",09/23/1943,11/19/2025,F/U : Follow Up Visit,IN,15:14:59.999000,1063605921,GEHA,G44855295,,,FU004
+Audentes_Verificayion,Medicare of Indiana,"Beck, Jeffrey ",2NG2VR7VP85,178090,"Sanders, David ",03/27/1938,11/19/2025,F/U : Follow Up Visit,IN,15:30:00,1063605921,GEHA,G44855248,,,FU004
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Hasert, Adreona ",H94185874,164318,"Foutch, Sarah ",11/18/1986,11/17/2025,F/U : Follow Up Visit,IN,14:00:00,1144000431,,,,,FU004
+Audentes_Verificayion,Medicare of Indiana,"Hasert, Adreona ",8QP1XC2QR03,97349,"RICKARD, JUDITH A",01/23/1952,11/18/2025,F/U : Follow Up Visit,IN,15:45:00,1144000431,ANTHEM BCBS of IN,CTD634A23571,AETNA MEDICARE SUPPLEMENT-ACCENDO,CLI3060658,FU004
+Audentes_Verificayion,Medicare of Indiana,"Hasert, Adreona ",7KW9PN9QE58,97985,"STARK, WILLIAM ",07/04/1944,11/18/2025,F/U : Follow Up Visit,IN,09:19:59.999000,1144000431,Companion Life COM,0070004180,,,FU004
+Audentes_Verificayion,Medicare of Indiana,"Hasert, Adreona ",3X51EJ4KF18,130715,"SELTZER, CAROLYN F",08/04/1941,11/18/2025,F/U : Follow Up Visit,IN,11:20:00,1144000431,ANTHEM BCBS OF IN MCR SUPPLEMENT,VNF296M60037,,,FU005
+Audentes_Verificayion,UHC DUAL COMPLETE CHOICE PPO-SNP,"Hasert, Adreona ",127102103,107869,"CASTO, HOLLY R",08/13/1980,11/18/2025,F/U : Follow Up Visit,IN,13:30:00,1144000431,,,,,FU005
+Audentes_Verificayion,Medicare of Indiana,"Hasert, Adreona ",9U26X98PV76,92887,"HIATT, CONNIE M",04/15/1954,11/19/2025,F/U : Follow Up Visit,IN,08:00:00,1144000431,Tricare for Life,00316652103,,,FU005
+Audentes_Verificayion,ANTHEM BCBS of IN,"Hasert, Adreona ",CZQAN1598652,180081,"Brooks, Lynieca D ",03/10/1967,11/19/2025,F/U : Follow Up Visit,IN,08:40:00,1144000431,,,,,FU005
+Audentes_Verificayion,Anthem BCBS of IN Mediblue HMO,"Hasert, Adreona ",JQO259A73816,181936,"BRYSON, CARRIE ",03/22/1964,11/19/2025,F/U : Follow Up Visit,IN,09:59:59.999000,1144000431,,,,,FU005
+Audentes_Verificayion,Medicare of Indiana,"Hasert, Adreona ",6J63MT9TQ77,116187,"WHEELER, VIRGINIA ",05/30/1952,11/19/2025,F/U : Follow Up Visit,IN,11:40:00,1144000431,Humana Health Horizons of IN,100947814899,,,FU005
+Audentes_Verificayion,ANTHEM BCBS of IN,"Hasert, Adreona ",MOJ2314145SF,181840,"Boswell, Ronald M",11/21/1958,11/19/2025,F/U : Follow Up Visit,IN,13:20:00,1144000431,,,,,FU005
+Audentes_Verificayion,UHC AARP MEDICARE ADVANTAGE PPO,"Hasert, Adreona ",990075789,150066,"Carmichael, Merideth E",05/30/1940,11/19/2025,F/U : Follow Up Visit,IN,14:20:00,1144000431,,,,,FU006
+Audentes_Verificayion,SELF PAY,"Hasert, Adreona ",SELF PAY,179976,"Myers, Cache ",12/27/2001,11/19/2025,F/U : Follow Up Visit,IN,15:39:59.999000,1144000431,,,,,FU006
+Audentes_Verificayion,Medicare of Indiana,"Hasert, Adreona ",5DW9NJ3HH22,93978,"MEAGHER, RITA J",10/06/1949,11/19/2025,F/U : Follow Up Visit,IN,15:00:00,1144000431,CONTINENTAL LIFE INSURANCE CO,CLI3003249,,,FU006
+Audentes_Verificayion,IU Health Plan,"Nelson, Betsy ",M2002310100,138587,"Martin, Janice R",04/23/1951,11/18/2025,F/U : Follow Up Visit,IN,15:30:00,1790501245,,,,,FU006
+Audentes_Verificayion,Cigna,"Nelson, Betsy ",U7473316602,124187,"Wallace, Stanley ",01/17/1960,11/19/2025,F/U : Follow Up Visit,IN,11:15:00,1790501245,,,,,FU006
+Audentes_Verificayion,MDwise (Healthy Indiana Plan),"Nelson, Betsy ",100117871299,172233,"Davis, Nokia M",06/08/1977,11/19/2025,F/U : Follow Up Visit,IN,14:00:00,1790501245,,,,,FU006
+Audentes_Verificayion,Ambetter-MHS,"Nelson, Betsy ",UZ135711401,171173,"Arnold-Yoho, Elizabeth A",05/16/1975,11/19/2025,F/U : Follow Up Visit,IN,09:00:00,1790501245,,,,,FU006
+Audentes_Verificayion,HUMANA Med Adv PPO,"Nelson, Betsy ",H46961728,179014,"Smith, Laura ",08/01/1979,11/19/2025,F/U : Follow Up Visit,IN,09:59:59.999000,1790501245,,,,,FU007
+Audentes_Verificayion,Anthem BCBS of IN Mediblue HMO,"Nelson, Betsy ",VOK090W21825,180276,"EDWARDS, BEVERLY ",03/12/1950,11/19/2025,F/U : Follow Up Visit,IN,10:44:59.999000,1790501245,,,,,FU007
+Audentes_Verificayion,UHC AARP MEDICARE ADVANTAGE PPO,"Nelson, Betsy ",132639715,167424,"Edwards, Tammy ",03/05/1968,11/19/2025,F/U : Follow Up Visit,IN,11:29:59.999000,1790501245,Medicaid of IN,100139582999,,,FU007
+Audentes_Verificayion,ANTHEM BCBS of IN,"Nelson, Betsy ",X2M253A77815,169171,"Ware, Carmilla ",06/22/1972,11/19/2025,F/U : Follow Up Visit,IN,08:00:00,1790501245,,,,,FU007
+Audentes_Verificayion,Medicare of Indiana,"Nelson, Betsy ",7MD7DG0RK59,92961,"WADDLE JR, FARMER ",01/15/1957,11/19/2025,F/U : Follow Up Visit,IN,08:15:00,1790501245,AETNA MEDICARE SUPPLEMENT-ACCENDO,ACC6484243,,,FU007
+Audentes_Verificayion,ANTHEM BCBS of IN,"Nelson, Betsy ",ZGP809290971,180956,"Rebennack, Kaylee ",07/12/2005,11/19/2025,F/U : Follow Up Visit,IN,08:29:59.999000,1790501245,,,,,FU007
+Audentes_Verificayion,UHC MEDICARE ADV PPO-AT and T,"Nelson, Betsy ",992599899,179813,"Taylor, Daniel ",09/29/1960,11/19/2025,F/U : Follow Up Visit,IN,09:30:00,1790501245,,,,,FU007
+Audentes_Verificayion,ANTHEM BCBS of IN MCD,"Nelson, Betsy ",YRK102363599699,114745,"SAMS, SHELBI S",01/06/1998,11/19/2025,F/U : Follow Up Visit,IN,12:59:59.999000,1790501245,,,,,FU008
+Audentes_Verificayion,Anthem BCBS of IN Mediblue PPO,"Nelson, Betsy ",XPF130M72240,124325,"Rider, Marillynn ",01/14/1935,11/19/2025,F/U : Follow Up Visit,IN,14:50:00,1790501245,,,,,FU008
+Audentes_Verificayion,AETNA,"Nelson, Betsy ",W2888 10905,181440,"McGraw, Gregory ",12/01/1974,11/19/2025,F/U : Follow Up Visit,IN,15:30:00,1790501245,,,,,FU008
+Audentes_Verificayion,Medicare of Indiana,"Nelson, Betsy ",1M57H69XP55,147252,"Dryden, Diana ",09/09/1950,11/19/2025,F/U : Follow Up Visit,IN,09:14:59.999000,1790501245,Cigna Medicare Supplemental,63Y0032291,,,FU008
+Audentes_Verificayion,Anthem BCBS of IN Mediblue HMO,"Nelson, Betsy ",VOK175M99388,175814,"Fuller, Gary E",09/25/1949,11/19/2025,F/U : Follow Up Visit,IN,14:20:00,1790501245,,,,,FU008
+Audentes_Verificayion,ANTHEM BCBS of IN MCD,"Nelson, Betsy ",YRK103900750399,123707,"RICHARDS, CHELSEA M",04/10/1989,11/19/2025,F/U : Follow Up Visit,IN,10:15:00,1790501245,,,,,FU008
+Audentes_Verificayion,MDwise (Healthy Indiana Plan),"Nelson, Betsy ",100711756599,104638,"MCGLAUGHLIN, ROGER ",03/08/1963,11/19/2025,F/U : Follow Up Visit,IN,10:30:00,1790501245,,,,,FU008
+Audentes_Verificayion,Medicare of Kentucky,"Barrowes, Latina M",7ET4JK6PV09,137157,"Elzy, Gregory Neal ",04/11/1956,11/18/2025,F/U : Follow Up Visit,KY,08:29:59.999000,1356155881,LIFESTYLE HEALTH PLAN,W00010309S,,,FU001
+Audentes_Verificayion,Wellcare KY MCR - PPO,"Barrowes, Latina M",42300713,65916,"Miller, Carmie R",08/09/1953,11/19/2025,F/U : Follow Up Visit,KY,08:15:00,1356155881,,,,,FU001
+Audentes_Verificayion,Medicare of Kentucky,"Barrowes, Latina M",1G17EK2HW56,133364,"OVERTON, CLAUDE ",02/05/1943,11/19/2025,F/U : Follow Up Visit,KY,08:29:59.999000,1356155881,BCBS of KY,UFL921094597,,,FU001
+Audentes_Verificayion,Cigna,"Barrowes, Latina M",U8766342001,67576,"Gudger, Monica R",05/29/1969,11/19/2025,F/U : Follow Up Visit,KY,08:45:00,1356155881,,,,,FU001
+Audentes_Verificayion,SELF PAY,"Barrowes, Latina M",Self Pay,35830,"Clark, Christy R",09/24/1983,11/19/2025,F/U : Follow Up Visit,KY,09:00:00,1356155881,,,,,FU001
+Audentes_Verificayion,Humana KY MCD,"Barrowes, Latina M",H64657449,40058,"Hale, Wendy ",12/08/1972,11/19/2025,F/U : Follow Up Visit,KY,09:14:59.999000,1356155881,,,,,FU001
+Audentes_Verificayion,SELF PAY,"Barrowes, Latina M",SELF PAY,172055,"Jaggers, Alissa E",09/09/1959,11/19/2025,F/U : Follow Up Visit,KY,09:30:00,1356155881,Humana KY MCD,H71983425,,,FU001
+Audentes_Verificayion,AETNA MEDICARE ADV HMO D-SNP,"Barrowes, Latina M",102151093500,79672,"Johnson, George W",10/19/1952,11/19/2025,F/U : Follow Up Visit,KY,09:45:00,1356155881,,,,,FU001
+Audentes_Verificayion,VA CCN OPTUM,"Barrowes, Latina M",1079974907,178592,"Hathcock, James P",04/25/1945,11/19/2025,FT F/U : First Time Follow-up,KY,09:59:59.999000,1356155881,,,,,FU001
+Audentes_Verificayion,UHC AARP MEDICARE ADV HMO (Plan 2/3),"Barrowes, Latina M",980552261,58448,"Frank, Eugene T",10/01/1962,11/19/2025,F/U : Follow Up Visit,KY,09:59:59.999000,1356155881,,,,,FU001
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Barrowes, Latina M",H07569986,39900,"MOORE, TRACY ",11/09/1960,11/19/2025,F/U : Follow Up Visit,KY,10:15:00,1356155881,Medicaid of Kentucky,0006003061,,,FU001
+Audentes_Verificayion,HUMANA Med Adv HMO,"Barrowes, Latina M",H05273891,173734,"DAVIS, PAULA ",05/29/1960,11/19/2025,F/U : Follow Up Visit,KY,10:30:00,1356155881,Medicaid of Kentucky,0017873341,,,FU001
+Audentes_Verificayion,UHC AARP MEDICARE ADVANTAGE PPO,"Barrowes, Latina M",994506162,51350,"Sallengs, Shannon ",08/25/1976,11/19/2025,F/U : Follow Up Visit,KY,10:44:59.999000,1356155881,,,,,FU001
+Audentes_Verificayion,BCBS MediBlue,"Barrowes, Latina M",XTH481W08907,105480,"MERCER, COLLEEN R",03/07/1957,11/19/2025,F/U : Follow Up Visit,KY,11:00:00,1356155881,,,,,FU001
+Audentes_Verificayion,HUMANA MED ADV COMMUNITY HMO,"Barrowes, Latina M",H61320183,178880,"Heil, Karen ",01/01/1961,11/19/2025,F/U : Follow Up Visit,KY,11:15:00,1356155881,,,,,FU001
+Audentes_Verificayion,Passport Health Plan MCD,"Barrowes, Latina M",0029729521,111831,"Ward, Dominick C",12/01/1990,11/19/2025,F/U : Follow Up Visit,KY,12:59:59.999000,1356155881,,,,,FU001
+Audentes_Verificayion,Passport Health Plan MCD,"Barrowes, Latina M",0017126511,131537,"SMITH, CHARLES ",05/14/1969,11/19/2025,F/U : Follow Up Visit,KY,12:59:59.999000,1356155881,,,,,FU001
+Audentes_Verificayion,Medicare of Kentucky,"Barrowes, Latina M",5FP4VX6QP91,137513,"Adams, Margaret R",11/18/1941,11/19/2025,F/U : Follow Up Visit,KY,13:15:00,1356155881,BCBS of KY,UFL922177723,,,FU001
+Audentes_Verificayion,Passport Health Plan MCD,"Barrowes, Latina M",0007885201,128171,"SIMPSON, CLARK ",02/22/1977,11/19/2025,F/U : Follow Up Visit,KY,13:30:00,1356155881,,,,,FU001
+Audentes_Verificayion,UHC Chronic Complete Focus (HMO-POS C-SNP),"Barrowes, Latina M",93594336300,178811,"Mcgee, James ",07/28/1960,11/19/2025,FT F/U : First Time Follow-up,KY,14:00:00,1356155881,,,,,FU001
+Audentes_Verificayion,HUMANA Med Adv HMO,"Barrowes, Latina M",H42119852,170429,"Chenault, Martin E",02/16/1961,11/19/2025,F/U : Follow Up Visit,KY,14:29:59.999000,1356155881,,,,,FU001
+Audentes_Verificayion,Passport Health Plan MCD,"Barrowes, Latina M",0050349991,80406,"RANSDELL, MICHAEL ",03/04/1965,11/19/2025,F/U : Follow Up Visit,KY,14:45:00,1356155881,,,,,FU002
+Audentes_Verificayion,BCBS MediBlue HMO,"Barrowes, Latina M",XTG770W06562,26260,"WALKER, Pamela J",07/19/1966,11/19/2025,F/U : Follow Up Visit,KY,08:29:59.999000,1356155881,,,,,FU002
+Audentes_Verificayion,Passport Health Plan MCD,"Barrowes, Latina M",0017648911,51259,"Hassler, Jack E",01/24/1963,11/19/2025,F/U : Follow Up Visit,KY,08:00:00,1356155881,,,,,FU002
+Audentes_Verificayion,Medicare of Kentucky,"Barrowes, Latina M",2J93E25VP09,176603,"Perkins, Carol L",01/24/1958,11/19/2025,FT F/U : First Time Follow-up,KY,14:15:00,1356155881,Bankers Life and Casualty,225307008,,,FU002
+Audentes_Verificayion,Medicare of Kentucky,"Barrowes, Latina M",8DJ6EF5VV72,68250,"Hall, Demontrea ",11/10/1975,11/19/2025,F/U : Follow Up Visit,KY,11:00:00,1356155881,,,,,FU002
+Audentes_Verificayion,Medicare of Kentucky,"Barrowes, Latina M",4C31FN7WJ10,135689,"Turner, Lester ",09/19/1939,11/19/2025,F/U : Follow Up Visit,KY,09:00:00,1356155881,UHC AARP Supplemental,09779338511,,,FU002
+Audentes_Verificayion,BCBS of KY,"Barrowes, Latina M",CTRAN4950437,62491,"Price, Amanda B",12/01/1980,11/19/2025,F/U : Follow Up Visit,KY,13:44:59.999000,1356155881,,,,,FU002
+Audentes_Verificayion,VA CCN OPTUM,"Brackett, Aletha ",1337566525,134961,"BRYANT, DONNIE G",09/22/1958,11/13/2025,F/U : Follow Up Visit,KY,08:29:59.999000,1255079901,,,,,FU002
+Audentes_Verificayion,SELF PAY,"Brackett, Aletha ",SELF PAY,164991,"Duncan, Robert E",12/23/1967,11/17/2025,F/U : Follow Up Visit,KY,09:30:00,1255079901,,,,,FU002
+Audentes_Verificayion,BCBS MediBlue HMO,"Brackett, Aletha ",XTG350W24430,176424,"Caswell, Linda K",09/30/1960,11/18/2025,FT F/U : First Time Follow-up,KY,08:45:00,1255079901,,,,,FU002
+Audentes_Verificayion,Tricare Prime (East),"Brackett, Aletha ",120688907,112709,"GARRETT, AMANDA R",12/17/1988,11/18/2025,F/U : Follow Up Visit,KY,08:29:59.999000,1255079901,,,,,FU002
+Audentes_Verificayion,UHC Medicare Adv PPO,"Brackett, Aletha ",913158334,72520,"Reesor, John (Ed) ",02/03/1952,11/18/2025,F/U : Follow Up Visit,KY,08:29:59.999000,1255079901,,,,,FU002
+Audentes_Verificayion,Medicare of Kentucky,"Brackett, Aletha ",3EX5RN2TU82,72231,"JONES, JAYWANDA D",02/06/1978,11/18/2025,F/U : Follow Up Visit,KY,09:00:00,1255079901,Tricare Prime (East),226174426,,,FU002
+Audentes_Verificayion,HUMANA Med Adv HMO,"Brackett, Aletha ",H02163407,177078,"Wayne, Donnie ",10/10/1972,11/19/2025,F/U : Follow Up Visit,KY,08:29:59.999000,1255079901,,,,,FU002
+Audentes_Verificayion,BCBS MediBlue HMO,"Brackett, Aletha ",XTG005W18518,168232,"Cecil, Louis ",03/05/1974,11/19/2025,F/U : Follow Up Visit,KY,14:00:00,1255079901,,,,,FU002
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Brackett, Aletha ",H43036330,175063,"Fulton, Christina R",07/05/1948,11/19/2025,FT F/U : First Time Follow-up,KY,13:15:00,1255079901,,,,,FU002
+Audentes_Verificayion,Medicare of Kentucky,"Brackett, Aletha ",7HY4MM9DJ74,162970,"Cecil, Mark Anthony ",07/26/1974,11/19/2025,F/U : Follow Up Visit,KY,08:00:00,1255079901,,,,,FU002
+Audentes_Verificayion,Humana KY MCD,"Brackett, Aletha ",H02646887,24643,"Garrett, Eddie W",01/19/1968,11/19/2025,F/U : Follow Up Visit,KY,08:15:00,1255079901,,,,,FU002
+Audentes_Verificayion,Wellcare KY MCD,"Brackett, Aletha ",22306669,171019,"Howlett, Bryan W",03/27/1982,11/19/2025,F/U : Follow Up Visit,KY,08:29:59.999000,1255079901,,,,,FU002
+Audentes_Verificayion,Tricare Select (East),"Brackett, Aletha ",00165874800,77286,"POWELL, DOROTHY J",08/09/1969,11/19/2025,F/U : Follow Up Visit,KY,08:45:00,1255079901,,,,,FU002
+Audentes_Verificayion,BCBS of KY,"Brackett, Aletha ",VQX969A80083,75900,"Culp, Brittiany ",10/04/1982,11/19/2025,F/U : Follow Up Visit,KY,09:00:00,1255079901,,,,,FU002
+Audentes_Verificayion,Passport Health Plan MCD,"Brackett, Aletha ",1002013626,122951,"JOHNSON, TINA ",01/04/1971,11/19/2025,F/U : Follow Up Visit,KY,09:00:00,1255079901,,,,,FU003
+Audentes_Verificayion,Medicare of Kentucky,"Brackett, Aletha ",5VT0KW5JD45,61122,"Ward, Timothy S",07/13/1974,11/19/2025,F/U : Follow Up Visit,KY,09:14:59.999000,1255079901,,,,,FU003
+Audentes_Verificayion,Medicare of Kentucky,"Brackett, Aletha ",3QH2P65CK83,138059,"Harbin, William M",03/01/1948,11/19/2025,F/U : Follow Up Visit,KY,09:30:00,1255079901,BCBS KY Medicare Supplement,VNG509M54403,,,FU003
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Brackett, Aletha ",H78745405,134363,"CARLTON, KIMBERLEE J",08/25/1981,11/19/2025,F/U : Follow Up Visit,KY,09:30:00,1255079901,,,,,FU003
+Audentes_Verificayion,Medicare of Kentucky,"Brackett, Aletha ",2EK3HK0NC78,126114,"LEGASPI, ROY ",02/21/1953,11/19/2025,F/U : Follow Up Visit,KY,09:59:59.999000,1255079901,MUTUAL OF OMAHA INSURANCE COMPANY,557395-93,,,FU003
+Audentes_Verificayion,BCBS MediBlue HMO,"Brackett, Aletha ",XTG903W14418,44644,"Hornback, Tabitha C",11/03/1981,11/19/2025,F/U : Follow Up Visit,KY,09:59:59.999000,1255079901,,,,,FU003
+Audentes_Verificayion,Passport Health Plan MCD,"Brackett, Aletha ",0008331171,97058,"SWEERIS, RACHELLE ",10/02/1989,11/19/2025,F/U : Follow Up Visit,KY,10:15:00,1255079901,,,,,FU003
+Audentes_Verificayion,Humana KY MCD,"Brackett, Aletha ",H90014034,168635,"Nance, Andrea M",04/25/1991,11/19/2025,F/U : Follow Up Visit,KY,10:30:00,1255079901,,,,,FU003
+Audentes_Verificayion,UHC CHOICE PLUS,"Brackett, Aletha ",983197783,40242,"Branham, Heather N",12/16/1975,11/19/2025,F/U : Follow Up Visit,KY,10:30:00,1255079901,,,,,FU003
+Audentes_Verificayion,VA CCN OPTUM,"Brackett, Aletha ",1212901420,164884,"Price, Albert C",01/12/1966,11/19/2025,F/U : Follow Up Visit,KY,10:44:59.999000,1255079901,,,,,FU003
+Audentes_Verificayion,Wellcare KY MCD,"Brackett, Aletha ",13059105,73744,"SUTTON, MICHAEL A",09/14/1961,11/19/2025,F/U : Follow Up Visit,KY,11:00:00,1255079901,,,,,FU003
+Audentes_Verificayion,HUMANA Med Adv PPO,"Brackett, Aletha ",H04637296,138207,"Davis, Jerry R",09/24/1951,11/19/2025,F/U : Follow Up Visit,KY,11:15:00,1255079901,,,,,FU003
+Audentes_Verificayion,BCBS MediBlue HMO,"Brackett, Aletha ",XTG587W18726,137733,"Hayes, Robbin R",04/25/1962,11/19/2025,F/U : Follow Up Visit,KY,12:59:59.999000,1255079901,,,,,FU003
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Brackett, Aletha ",H96117458,173685,"Chesser, Glenda ",12/01/1970,11/19/2025,F/U : Follow Up Visit,KY,13:44:59.999000,1255079901,,,,,FU003
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Brackett, Aletha ",H90097387,173688,"Chesser, Brian ",02/22/1995,11/19/2025,F/U : Follow Up Visit,KY,14:15:00,1255079901,,,,,FU003
+Audentes_Verificayion,BCBS of KY,"Brackett, Aletha ",YZE237M74970,137020,"CALVERT, KAREN ",03/27/1966,11/19/2025,F/U : Follow Up Visit,KY,14:29:59.999000,1255079901,,,,,FU003
+Audentes_Verificayion,Medicare of Kentucky,"Brackett, Aletha ",6PH5U34HC96,72956,"HAMILTON, CAROLYN ",08/15/1946,11/19/2025,F/U : Follow Up Visit,KY,14:45:00,1255079901,Tricare for Life,547489407,,,FU003
+Audentes_Verificayion,HUMANA Med Adv HMO,"Brackett, Aletha ",H69288997,74748,"Overturf, Marilyn ",08/10/1956,11/19/2025,F/U : Follow Up Visit,KY,15:00:00,1255079901,,,,,FU003
+Audentes_Verificayion,Humana KY MCD,"Brackett, Aletha ",H70479959,173889,"Allen, Ty Kim",06/30/1975,11/19/2025,F/U : Follow Up Visit,KY,15:14:59.999000,1255079901,,,,,FU003
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Brown, Sarah ",H06588319,41120,"McLaurin, Margaret ",06/27/1954,11/17/2025,F/U : Follow Up Visit,KY,09:00:00,1609562628,,,,,FU003
+Audentes_Verificayion,HUMANA Med Adv PPO,"Brown, Sarah ",H04826583,139041,"Shelton, Michael R",09/13/1956,11/19/2025,F/U : Follow Up Visit,KY,08:00:00,1609562628,,,,,FU003
+Audentes_Verificayion,BCBS of KY,"Brown, Sarah ",ULD623W18814,40638,"Robinson, Dewayne ",04/18/1965,11/19/2025,F/U : Follow Up Visit,KY,08:15:00,1609562628,,,,,FU004
+Audentes_Verificayion,Humana KY MCD,"Brown, Sarah ",0048208511,58777,"Bickel, Brad L",05/05/1994,11/19/2025,FT F/U : First Time Follow-up,KY,08:29:59.999000,1609562628,,,,,FU004
+Audentes_Verificayion,Passport Health Plan MCD,"Brown, Sarah ",0016727591,115555,"Childers, Tamra ",04/03/1962,11/19/2025,F/U : Follow Up Visit,KY,09:00:00,1609562628,,,,,FU004
+Audentes_Verificayion,Medicare of Kentucky,"Brown, Sarah ",1D66TN8KY44,134863,"LUCKETT, TONI H",11/09/1954,11/19/2025,F/U : Follow Up Visit,KY,09:30:00,1609562628,AETNA,W289393406,,,FU004
+Audentes_Verificayion,Wellcare KY MCD,"Brown, Sarah ",18908853,72491,"Thomas, Kayonia ",11/16/1990,11/19/2025,F/U : Follow Up Visit,KY,09:30:00,1609562628,,,,,FU004
+Audentes_Verificayion,Humana med adv HMO C-SNP,"Brown, Sarah ",H67186046,179152,"Lawson, Michael W",02/05/1964,11/19/2025,FT F/U : First Time Follow-up,KY,09:45:00,1609562628,,,,,FU004
+Audentes_Verificayion,HUMANA Med Adv PPO,"Brown, Sarah ",H08765241,138295,"Young, Cynthia S",09/12/1959,11/19/2025,F/U : Follow Up Visit,KY,09:59:59.999000,1609562628,,,,,FU004
+Audentes_Verificayion,Medicare of Kentucky,"Brown, Sarah ",1NJ1M78FJ33,163077,"Young, Steven ",04/27/1949,11/19/2025,F/U : Follow Up Visit,KY,10:15:00,1609562628,UHC AARP Supplemental,31027267111,,,FU004
+Audentes_Verificayion,UMR,"Brown, Sarah ",33893798,112329,"BROWN, BILLY R",07/29/1976,11/19/2025,F/U : Follow Up Visit,KY,10:30:00,1609562628,,,,,FU004
+Audentes_Verificayion,Medicare of Kentucky,"Brown, Sarah ",7QU3DW9GE87,53744,"Hentchey, Norma J",07/01/1949,11/19/2025,F/U : Follow Up Visit,KY,10:44:59.999000,1609562628,Passport Health Plan MCD,0005953421,,,FU004
+Audentes_Verificayion,UHC DUAL COMPLETE HMO-POS D-SNP,"Brown, Sarah ",119890632,40443,"Murphy, Kendrick ",08/02/1962,11/19/2025,F/U : Follow Up Visit,KY,11:15:00,1609562628,Medicaid QMB Kentucky,0021609601,,,FU004
+Audentes_Verificayion,BCBS MediBlue,"Brown, Sarah ",VOP224M70792,137533,"Mosby, Sharon ",03/30/1947,11/19/2025,F/U : Follow Up Visit,KY,12:59:59.999000,1609562628,,,,,FU004
+Audentes_Verificayion,Medicare of Kentucky,"Brown, Sarah ",9E05X92YK57,24200,"Kirby, Bernard ",01/21/1959,11/19/2025,F/U : Follow Up Visit,KY,12:59:59.999000,1609562628,Humana KY MCD,H77824310,,,FU004
+Audentes_Verificayion,BCBS MediBlue HMO,"Brown, Sarah ",XTG584W11504,142464,"Thomas, Eleanor ",06/05/1959,11/19/2025,F/U : Follow Up Visit,KY,13:15:00,1609562628,,,,,FU004
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Brown, Sarah ",H64655763,176867,"Flynn, Emiko ",12/08/1953,11/19/2025,FT F/U : First Time Follow-up,KY,13:30:00,1609562628,Humana KY MCD,H64655763,,,FU004
+Audentes_Verificayion,HUMANA Med Adv PPO,"Brown, Sarah ",H70361527,168585,"Bland, Joretta N",03/03/1941,11/19/2025,F/U : Follow Up Visit,KY,13:44:59.999000,1609562628,,,,,FU004
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Brown, Sarah ",H03023705,42842,"STONE, AIMEE L",03/25/1976,11/19/2025,F/U : Follow Up Visit,KY,14:00:00,1609562628,,,,,FU004
+Audentes_Verificayion,Wellcare KY MCR -HMO,"Brown, Sarah ",15722831,118827,"CLAYTON, BRUCE R",10/06/1953,11/19/2025,F/U : Follow Up Visit,KY,14:15:00,1609562628,,,,,FU004
+Audentes_Verificayion,Passport Market Place - Commercial,"Brown, Sarah ",104012006,163208,"Stephenson, Heather ",05/27/1970,11/19/2025,F/U : Follow Up Visit,KY,14:29:59.999000,1609562628,,,,,FU004
+Audentes_Verificayion,UHC DUAL COMPLETE HMO-POS D-SNP,"Brown, Sarah ",132458292,179754,"Lancaster, Sandra F",08/17/1970,11/19/2025,FT F/U : First Time Follow-up,KY,14:29:59.999000,1609562628,,,,,FU004
+Audentes_Verificayion,BCBS of KY,"Brown, Sarah ",KYL342M62492,132100,"Gipson, Colleen ",12/04/1956,11/19/2025,F/U : Follow Up Visit,KY,11:15:00,1609562628,,,,,FU005
+Audentes_Verificayion,SELF PAY,"Brown, Sarah ",Self Pay,100100,"ANTHONY, TANESHA C",11/08/1982,11/19/2025,F/U : Follow Up Visit,KY,08:45:00,1609562628,AETNA BETTER HEALTH of KY MCD,0011645381,,,FU005
+Audentes_Verificayion,Passport Health Plan MCD,"Brown, Sarah ",0005999471,121696,"THOMAS, TAYONIA ",07/12/1972,11/19/2025,F/U : Follow Up Visit,KY,09:14:59.999000,1609562628,,,,,FU005
+Audentes_Verificayion,Medicare of Kentucky,"Brown, Sarah ",6Y12PE3HW17,127587,"Weatherford, Scott ",05/06/1973,11/19/2025,F/U : Follow Up Visit,KY,14:45:00,1609562628,,,,,FU005
+Audentes_Verificayion,BCBS of KY,"Brown, Sarah ",KYHAN5751706,173888,"Hope, Terrence R",09/04/1966,11/19/2025,F/U : Follow Up Visit,KY,10:30:00,1609562628,,,,,FU005
+Audentes_Verificayion,BCBS of KY,"Carlock, Joseph B",QUP385M92733,136000,"Lewis, Joseph ",10/16/1967,11/18/2025,F/U : Follow Up Visit,KY,10:30:00,1881822674,Medicare of Kentucky,2YW6H39EY74,,,FU005
+Audentes_Verificayion,Tricare Prime (East),"Carlock, Joseph B",00194504810,54223,"Mashack, Ramona ",08/12/1966,11/18/2025,F/U : Follow Up Visit,KY,11:00:00,1881822674,,,,,FU005
+Audentes_Verificayion,Passport Health Plan MCD,"Carlock, Joseph B",0012206061,180099,"Duerson, Giovanna McKnight",05/12/1972,11/18/2025,FT F/U : First Time Follow-up,KY,13:44:59.999000,1881822674,,,,,FU005
+Audentes_Verificayion,Medicare of Kentucky,"Carlock, Joseph B",5H38N23AA22,78091,"Greer, Gerri G",06/18/1962,11/19/2025,F/U : Follow Up Visit,KY,08:00:00,1881822674,Medicaid of Kentucky,0017488891,,,FU005
+Audentes_Verificayion,BCBS OF KY Federal,"Carlock, Joseph B",R59266530,121600,"ZABEL, RONALD W",03/14/1962,11/19/2025,F/U : Follow Up Visit,KY,08:15:00,1881822674,,,,,FU005
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Carlock, Joseph B",H69993463,61201,"Jeffery, Genoria ",04/03/1963,11/19/2025,F/U : Follow Up Visit,KY,08:29:59.999000,1881822674,Medicaid of Kentucky,0019038301,,,FU005
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Carlock, Joseph B",H04009112,130713,"WORKMAN, VICKIE L",05/08/1968,11/19/2025,F/U : Follow Up Visit,KY,13:44:59.999000,1881822674,,,,,FU005
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Carlock, Joseph B",H65560507,139458,"Murdock, Darlene ",06/14/1959,11/19/2025,F/U : Follow Up Visit,KY,08:45:00,1881822674,Wellcare KY MCD,35490784,,,FU005
+Audentes_Verificayion,BCBS of KY,"Carlock, Joseph B",TEA806190751,177593,"Thompson, Kaitlyn R",10/23/1996,11/19/2025,F/U : Follow Up Visit,KY,09:00:00,1881822674,Passport Health Plan MCD,0029976931,,,FU005
+Audentes_Verificayion,Wellcare KY MCD,"Carlock, Joseph B",14049774,125703,"HUHN, ROBERT ",07/26/1971,11/19/2025,F/U : Follow Up Visit,KY,09:14:59.999000,1881822674,,,,,FU005
+Audentes_Verificayion,Wellcare MCR DUAL HMO-SNP,"Carlock, Joseph B",19894025,40946,"Jecker, Rebecca ",03/01/1964,11/19/2025,F/U : Follow Up Visit,KY,09:30:00,1881822674,Passport Health Plan MCD,0012621701,,,FU005
+Audentes_Verificayion,UHC DUAL COMPLETE CHOICE PPO-SNP,"Carlock, Joseph B",126486287,116648,"White, Bernetta D",06/01/1971,11/19/2025,F/U : Follow Up Visit,KY,09:59:59.999000,1881822674,,,,,FU005
+Audentes_Verificayion,UHC Community Plan,"Carlock, Joseph B",131483670,72801,"Mabe, Jennifer ",01/02/1984,11/19/2025,F/U : Follow Up Visit,KY,10:15:00,1881822674,,,,,FU005
+Audentes_Verificayion,Wellcare KY MCD,"Carlock, Joseph B",19683293,125419,"Downey, Samantha J",12/09/1974,11/19/2025,F/U : Follow Up Visit,KY,10:30:00,1881822674,,,,,FU005
+Audentes_Verificayion,HUMANA Med Adv PPO,"Carlock, Joseph B",H43818867,126261,"SETTLE, KATHRYN A",04/11/1970,11/19/2025,F/U : Follow Up Visit,KY,10:44:59.999000,1881822674,,,,,FU005
+Audentes_Verificayion,Wellcare KY MCR -HMO,"Carlock, Joseph B",22375977,40761,"Riley, Adrianne ",01/09/1974,11/19/2025,F/U : Follow Up Visit,KY,12:59:59.999000,1881822674,Medicaid of Kentucky,0029713031,,,FU006
+Audentes_Verificayion,HUMANA Med Adv PPO,"Carlock, Joseph B",H79439823,62424,"Cook, Howard C",01/09/1937,11/19/2025,F/U : Follow Up Visit,KY,13:15:00,1881822674,,,,,FU006
+Audentes_Verificayion,HUMANA Med Adv PPO,"Carlock, Joseph B",H01497168,176128,"Washington, Veeda ",01/25/1961,11/19/2025,F/U : Follow Up Visit,KY,13:30:00,1881822674,Passport Health Plan MCD,0012255851,,,FU006
+Audentes_Verificayion,HUMANA Med Adv PPO,"Christy, Geneva ",H03301735,168744,"Morris, Cindy ",06/26/1967,11/18/2025,LP/WC : Lead Pull/Wound Check,KY,13:30:00,1790656742,,,,,FU006
+Audentes_Verificayion,Passport Health Plan MCD,"Christy, Geneva ",0022820781,124702,"Crayton, Garry ",06/05/1963,11/18/2025,F/U : Follow Up Visit,KY,08:00:00,1790656742,,,,,FU006
+Audentes_Verificayion,BCBS of KY,"Christy, Geneva ",KYHAN7133121,125615,"Welch, Jasmine V",07/28/1990,11/18/2025,F/U : Follow Up Visit,KY,08:15:00,1790656742,Passport Health Plan MCD,0025843961,,,FU006
+Audentes_Verificayion,BCBS MediBlue HMO,"Christy, Geneva ",XTG457W07073,39546,"Simmons, Willard ",02/22/1965,11/18/2025,F/U : Follow Up Visit,KY,08:29:59.999000,1790656742,,,,,FU006
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",8FP0KE1AN49,75718,"Simmons, Kristie A",01/13/1971,11/18/2025,F/U : Follow Up Visit,KY,08:45:00,1790656742,,,,,FU006
+Audentes_Verificayion,Wellcare KY MCD,"Christy, Geneva ",22737479,168056,"Klumb, Tammy ",01/15/1974,11/18/2025,F/U : Follow Up Visit,KY,09:00:00,1790656742,,,,,FU006
+Audentes_Verificayion,BCBS of KY,"Christy, Geneva ",KMS077M56460,125351,"HALL, DEBORAH L",10/01/1960,11/18/2025,F/U : Follow Up Visit,KY,09:14:59.999000,1790656742,,,,,FU006
+Audentes_Verificayion,BCBS MediBlue HMO,"Christy, Geneva ",VOK868W03672,125627,"Coons, Lori ",11/10/1960,11/18/2025,F/U : Follow Up Visit,KY,09:30:00,1790656742,,,,,FU006
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",1Q32PK8PC22,125381,"Brownphys, Joyce ",04/01/1950,11/18/2025,F/U : Follow Up Visit,KY,09:45:00,1790656742,Medicaid QMB Kentucky,0009224491,,,FU006
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",1QP4CV2PR02,125044,"Bridges, Karen ",06/30/1956,11/18/2025,F/U : Follow Up Visit,KY,10:15:00,1790656742,BCBS KY Medicare Supplement,VNF870W08937,,,FU006
+Audentes_Verificayion,BCBS of KY,"Christy, Geneva ",TEA806072387,170456,"Little, Lindsay N",03/26/1978,11/18/2025,F/U TEMP : Follow Up Temporary Provider,KY,10:30:00,1790656742,,,,,FU006
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",6GN4AQ6XA99,126174,"SANDERS, CHARLENE ",09/20/1958,11/18/2025,F/U : Follow Up Visit,KY,10:44:59.999000,1790656742,ALLSTATE INSURANCE COMPANY,2019587589,,,FU006
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",7FD6N56EW60,164057,"ST GERMAIN, Linda ",04/09/1947,11/18/2025,F/U : Follow Up Visit,KY,10:44:59.999000,1790656742,BCBS KY Medicare Supplement,XBS851032108,,,FU006
+Audentes_Verificayion,AETNA MEDICARE ADV HMO D-SNP,"Christy, Geneva ",102149024900,24502,"Swann, Laura ",03/28/1954,11/18/2025,F/U : Follow Up Visit,KY,11:00:00,1790656742,,,,,FU006
+Audentes_Verificayion,BCBS MediBlue,"Christy, Geneva ",XTH328W22178,138020,"Cox, Randy ",09/20/1963,11/18/2025,F/U : Follow Up Visit,KY,12:59:59.999000,1790656742,,,,,FU006
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",7TD8KV5CT45,125171,"Young, Roger D",11/28/1952,11/18/2025,F/U : Follow Up Visit,KY,13:15:00,1790656742,,,,,FU006
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",2ER3DE5EY91,168543,"Hillerich, Peggy ",01/28/1953,11/18/2025,F/U : Follow Up Visit,KY,13:44:59.999000,1790656742,AFLAC,TER6232204,,,FU006
+Audentes_Verificayion,BCBS MediBlue HMO,"Christy, Geneva ",XTG115W17937,54461,"Eisenback, Silas ",11/18/1947,11/18/2025,F/U : Follow Up Visit,KY,14:00:00,1790656742,,,,,FU007
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Christy, Geneva ",H77965946,131956,"BUTLER, JESSICA L",06/17/1973,11/18/2025,F/U : Follow Up Visit,KY,14:15:00,1790656742,,,,,FU007
+Audentes_Verificayion,BCBS of KY,"Christy, Geneva ",HCN000021189,42037,"Carlson, Angela B",12/03/1979,11/18/2025,F/U : Follow Up Visit,KY,14:29:59.999000,1790656742,,,,,FU007
+Audentes_Verificayion,BCBS of KY,"Christy, Geneva ",FTN048M54088,27252,"Medlock, Victoria ",03/05/1968,11/19/2025,F/U : Follow Up Visit,KY,08:00:00,1790656742,,,,,FU007
+Audentes_Verificayion,BCBS of KY,"Christy, Geneva ",MAH607M61440,59671,"Sabol, Theodore S",12/16/1968,11/19/2025,F/U : Follow Up Visit,KY,08:45:00,1790656742,,,,,FU007
+Audentes_Verificayion,HUMANA MED ADV COMMUNITY HMO,"Christy, Geneva ",H02150323,170114,"Daniels, Renea C",10/08/1946,11/19/2025,F/U : Follow Up Visit,KY,09:14:59.999000,1790656742,,,,,FU007
+Audentes_Verificayion,BCBS of KY,"Christy, Geneva ",ULQAN6186043,163596,"Deleeuw, Lynn ",03/09/1961,11/19/2025,F/U : Follow Up Visit,KY,09:59:59.999000,1790656742,,,,,FU007
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Christy, Geneva ",H63635166,40213,"Guenthner, David ",10/27/1945,11/19/2025,F/U : Follow Up Visit,KY,10:44:59.999000,1790656742,Medicaid QMB Kentucky,0030361131,,,FU007
+Audentes_Verificayion,AETNA MEDICARE ADV HMO D-SNP,"Christy, Geneva ",102164376200,40135,"Snow, Rebecca ",04/05/1960,11/19/2025,F/U : Follow Up Visit,KY,11:00:00,1790656742,Medicaid QMB Kentucky,0005859621,,,FU007
+Audentes_Verificayion,BCBS MediBlue HMO,"Christy, Geneva ",VOK435W19131,125215,"WRIGHT, CAROL ",01/15/1958,11/19/2025,F/U : Follow Up Visit,KY,11:15:00,1790656742,,,,,FU007
+Audentes_Verificayion,BCBS of KY,"Christy, Geneva ",STB899W18195,40145,"Alford, Melissa ",10/01/1967,11/19/2025,F/U : Follow Up Visit,KY,13:15:00,1790656742,Passport Health Plan MCD,0025780831,,,FU007
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",2FF2HH3MU18,97264,"WATTERS, SHIRLEY ",08/26/1955,11/19/2025,F/U : Follow Up Visit,KY,15:14:59.999000,1790656742,UHC AARP Supplemental,32826845611,,,FU007
+Audentes_Verificayion,BCBS of KY,"Christy, Geneva ",KHP2600762SF,24174,"Duncan, Patricia ",01/04/1973,11/19/2025,F/U : Follow Up Visit,KY,08:15:00,1790656742,,,,,FU007
+Audentes_Verificayion,BCBS MediBlue HMO,"Christy, Geneva ",XTG882W14305,77844,"LAMKIN WOODS, Deborah ",12/13/1957,11/19/2025,F/U : Follow Up Visit,KY,08:29:59.999000,1790656742,,,,,FU007
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",5UT1RW5VU80,43993,"Sullivan, Celestyne Y",12/01/1970,11/19/2025,F/U : Follow Up Visit,KY,09:00:00,1790656742,Medicaid QMB Kentucky,0007885471,,,FU007
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",3EF6MF0JD45,41550,"locy, Jean A",05/01/1957,11/19/2025,F/U : Follow Up Visit,KY,09:30:00,1790656742,UHC AARP Supplemental,31176584212,,,FU007
+Audentes_Verificayion,BCBS MediBlue HMO,"Christy, Geneva ",XTG629W02434,108624,"BYRD, TAMMY J",09/12/1959,11/19/2025,F/U : Follow Up Visit,KY,09:45:00,1790656742,,,,,FU007
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",4FH5VR9ER80,40122,"Callahan, Roy ",12/02/1956,11/19/2025,F/U : Follow Up Visit,KY,10:15:00,1790656742,Medicaid QMB Kentucky,0000878761,,,FU007
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",6H24T07MC01,40713,"Harris, Doris A",09/30/1948,11/19/2025,F/U : Follow Up Visit,KY,10:30:00,1790656742,UHC AARP Supplemental,30209361711,,,FU007
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",5DM9G53HT12,33858,"Schlegel, Bernadine ",05/26/1949,11/19/2025,F/U : Follow Up Visit,KY,12:59:59.999000,1790656742,Tricare for Life,1367883002,,,FU007
+Audentes_Verificayion,BCBS of KY,"Christy, Geneva ",TEA806375551,126180,"BRINLEY, CARRIE ",04/05/1971,11/19/2025,F/U : Follow Up Visit,KY,13:30:00,1790656742,,,,,FU008
+Audentes_Verificayion,BCBS of KY,"Christy, Geneva ",FGP920483109,39600,"Carpenter, Kimberly ",10/04/1973,11/19/2025,F/U : Follow Up Visit,KY,13:44:59.999000,1790656742,Medicare of Kentucky,6CQ7HP4XC32,,,FU008
+Audentes_Verificayion,Medicare of Kentucky,"Christy, Geneva ",9MJ4HA6GG71,100624,"Blackmon, Jasmine ",07/06/1999,11/19/2025,F/U : Follow Up Visit,KY,14:00:00,1790656742,Wellcare KY MCD,12899138,,,FU008
+Audentes_Verificayion,AETNA MEDICARE ADV HMO D-SNP,"Christy, Geneva ",101490802800,125512,"Chesser, Joan ",04/27/1957,11/19/2025,F/U : Follow Up Visit,KY,14:15:00,1790656742,Medicaid of Kentucky,0017610791,,,FU008
+Audentes_Verificayion,HUMANA Med Adv PPO,"Kessler, Anna ",H06141615,78874,"Coleman, Beverly E",06/17/1954,11/19/2025,F/U TEMP : Follow Up Temporary Provider,KY,09:00:00,1457052490,,,,,FU008
+Audentes_Verificayion,Passport Health Plan MCD,"Kessler, Anna ",0016155361,178671,"Smith, Samantha ",12/17/1975,11/19/2025,FT F/U : First Time Follow-up,KY,11:00:00,1457052490,,,,,FU008
+Audentes_Verificayion,Medicare of Kentucky,"Kessler, Anna ",2TH8R11XR50,137919,"HAGERMAN, MARY ",07/27/1952,11/19/2025,Pump & F/U : Pump Refill and separate follow up,KY,12:59:59.999000,1457052490,BCBS KY Medicare Supplement,VNG970M56620,,,FU008
+Audentes_Verificayion,Passport Health Plan MCD,"Kessler, Anna ",0004871221,138450,"Walker, Aubrey ",04/04/1974,11/19/2025,F/U : Follow Up Visit,KY,09:14:59.999000,1457052490,,,,,FU008
+Audentes_Verificayion,UHC AARP MEDICARE ADV HMO (Plan 2/3),"Kessler, Anna ",132936827,42285,"SOKHNA, PAMELA ",03/06/1976,11/19/2025,F/U : Follow Up Visit,KY,08:00:00,1457052490,Medicaid of Kentucky,0004929201,,,FU008
+Audentes_Verificayion,UMR,"Kessler, Anna ",45331600,162263,"Dunn, Elizabeth ",01/11/1988,11/19/2025,F/U : Follow Up Visit,KY,08:15:00,1457052490,,,,,FU008
+Audentes_Verificayion,UHC AARP MEDICARE ADV HMO (Plan 2/3),"Kessler, Anna ",953945082,125733,"FIELDEN, JAMES ",02/09/1961,11/19/2025,F/U : Follow Up Visit,KY,08:29:59.999000,1457052490,,,,,FU008
+Audentes_Verificayion,HUMANA MED ADV COMMUNITY HMO,"Kessler, Anna ",H08432269,167183,"Holland, Dorothy ",05/25/1937,11/19/2025,F/U : Follow Up Visit,KY,09:00:00,1457052490,,,,,FU008
+Audentes_Verificayion,UHC Chronic Complete Focus (HMO-POS C-SNP),"Kessler, Anna ",904989884,58921,"Coomer, Wanda D",11/27/1953,11/19/2025,F/U : Follow Up Visit,KY,09:30:00,1457052490,,,,,FU008
+Audentes_Verificayion,HUMANA Med Adv PPO,"Kessler, Anna ",H30016824,25161,"Moore, Ella D",08/08/1950,11/19/2025,F/U : Follow Up Visit,KY,09:59:59.999000,1457052490,,,,,FU008
+Audentes_Verificayion,Passport Health Plan MCD,"Kessler, Anna ",0000178381,25656,"Donaldson, Sherry ",05/23/1976,11/19/2025,F/U : Follow Up Visit,KY,10:15:00,1457052490,,,,,FU008
+Audentes_Verificayion,HUMANA Med Adv PPO,"Kessler, Anna ",H02308192,53759,"Hayes, Gayle H",10/21/1950,11/19/2025,F/U : Follow Up Visit,KY,13:44:59.999000,1457052490,,,,,FU008
+Audentes_Verificayion,Passport Health Plan MCD,"Kessler, Anna ",0011240821,40251,"Mattingly, Tracy ",01/16/1969,11/19/2025,F/U : Follow Up Visit,KY,14:00:00,1457052490,,,,,FU008
+Audentes_Verificayion,Cigna,"Kessler, Anna ",U9254284602,125832,"SMITH, PAMELA ",09/28/1972,11/19/2025,F/U : Follow Up Visit,KY,14:15:00,1457052490,,,,,FU008
+Audentes_Verificayion,UHC CHOICE PLUS,"Kessler, Anna ",65255206300,40347,"Pike, Joseph ",09/11/1967,11/19/2025,F/U : Follow Up Visit,KY,14:29:59.999000,1457052490,,,,,FU008
+Audentes_Verificayion,AETNA,"Kessler, Anna ",W289853549,180944,"Toney, Rodrick ",07/27/1970,11/19/2025,FT F/U : First Time Follow-up,KY,14:45:00,1457052490,Humana KY MCD,H96034087,,,FU008
+Audentes_Verificayion,SELF PAY,"Goldsmith, BreAnn ",SELF PAY,79894,"Lowe, Kenneth ",10/02/1957,11/13/2025,F/U : Follow Up Visit,OH,10:15:00,1447681739,,,,,FU001
+Audentes_Verificayion,UHC DUAL COMPLETE HMO-POS D-SNP,"Goldsmith, BreAnn ",127293968,77203,"Tillis, Michael ",10/27/1958,11/19/2025,F/U : Follow Up Visit,OH,07:44:59.999000,1447681739,Medicaid of Ohio,275011121901,,,FU001
+Audentes_Verificayion,BCBS of OH,"Goldsmith, BreAnn ",X5HHW0029981,122378,"Cooper, Gary ",08/29/1979,11/19/2025,F/U : Follow Up Visit,OH,08:00:00,1447681739,,,,,FU001
+Audentes_Verificayion,Humana Med Adv PPO DUAL SNP,"Goldsmith, BreAnn ",H45972749,78180,"Williams, Anna ",10/16/1957,11/19/2025,F/U : Follow Up Visit,OH,09:30:00,1447681739,,,,,FU001
+Audentes_Verificayion,UHC AARP MEDICARE COMPLETE PLAN 2 HMO,"Goldsmith, BreAnn ",946821066,23911,"Holt, Charles E",10/18/1952,11/19/2025,F/U : Follow Up Visit,OH,11:00:00,1447681739,,,,,FU001
+Audentes_Verificayion,UHC AARP MEDICARE COMPLETE PLAN 2 HMO,"Goldsmith, BreAnn ",983199532,24760,"Bobb Jr, James J",04/08/1972,11/19/2025,F/U : Follow Up Visit,OH,11:29:59.999000,1447681739,,,,,FU001
+Audentes_Verificayion,HUMANA Med Adv HMO,"Goldsmith, BreAnn ",H77591886,25449,"Rodriguez, Carol S",10/18/1957,11/19/2025,F/U : Follow Up Visit,OH,11:45:00,1447681739,,,,,FU001
+Audentes_Verificayion,MediGold Med Advantage HMO,"Goldsmith, BreAnn ",000101337,76450,"HENTHORN, REBECCA ",11/28/1949,11/19/2025,F/U : Follow Up Visit,OH,14:00:00,1447681739,,,,,FU001
+Audentes_Verificayion,Medicare of Ohio,"Goldsmith, BreAnn ",8W48AU2NV68,24925,"Kelley, Linnie L",06/03/1949,11/19/2025,F/U : Follow Up Visit,OH,14:29:59.999000,1447681739,Cigna Medicare Supplemental,36Y0053764,,,FU001
+Audentes_Verificayion,SELF PAY,"Goldsmith, BreAnn ",self pay,25459,"Sorrell, Terry ",07/13/1958,11/19/2025,F/U : Follow Up Visit,OH,09:00:00,1447681739,,,,,FU002
+Audentes_Verificayion,BCBS MediBlue,"Goldsmith, BreAnn ",VOC753M78660,36503,"Trimmer, Linda L",10/13/1949,11/19/2025,F/U : Follow Up Visit,OH,10:15:00,1447681739,,,,,FU002
+Audentes_Verificayion,MEDICAL MUTUAL of OH,"Goldsmith, BreAnn ",582821827467,31713,"Clark, Jeffrey R",08/16/1970,11/19/2025,F/U : Follow Up Visit,OH,11:15:00,1447681739,,,,,FU002
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Goldsmith, BreAnn ",H77520173,141687,"Ball, Carol ",09/19/1962,11/19/2025,F/U : Follow Up Visit,OH,15:14:59.999000,1447681739,,,,,FU002
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Goldsmith, BreAnn ",H58795732,74873,"SARTIN, SCOTTY L",02/08/1981,11/19/2025,F/U : Follow Up Visit,OH,12:59:59.999000,1447681739,,,,,FU002
+Audentes_Verificayion,MediGold Med Advantage HMO,"Goldsmith, BreAnn ",000027517,76303,"STONE, PHYLLIS A",05/03/1937,11/19/2025,F/U : Follow Up Visit,OH,08:15:00,1447681739,,,,,FU002
+Audentes_Verificayion,Medicare of Ohio,"Goldsmith, BreAnn ",7TN5HK2CJ56,69934,"Riggs, Brenda ",11/12/1949,11/19/2025,F/U : Follow Up Visit,OH,13:15:00,1447681739,UHC AARP Supplemental,31022760511,,,FU002
+Audentes_Verificayion,Medicare of Ohio,"Goldsmith, BreAnn ",2Y28DR4WK29,66788,"Riggs, Randy ",03/24/1953,11/19/2025,F/U : Follow Up Visit,OH,13:30:00,1447681739,UHC AARP Supplemental,31022760512,,,FU002
+Audentes_Verificayion,MOLINA Healthcare OH MCD,"Goldsmith, BreAnn ",254139054406,79654,"Revels, Stephen ",09/21/1972,11/19/2025,Re-Eval : Re-Eval,OH,09:14:59.999000,1447681739,,,,,FU002
+Audentes_Verificayion,AETNA,"Goldsmith, BreAnn ",W294620403,166594,"Schmidtke, Lisa L",11/28/1961,11/19/2025,F/U : Follow Up Visit,OH,08:45:00,1447681739,,,,,FU003
+Audentes_Verificayion,BCBS MediBlue Dual Advantage HMO SNP -Primary,"Goldsmith, BreAnn ",JRG813W10810,131927,"BRYANT, KIMBERLY ",06/12/1964,11/19/2025,FT F/U : First Time Follow-up,OH,09:45:00,1447681739,,,,,FU003
+Audentes_Verificayion,BCBS of OH Federal,"Goldsmith, BreAnn ",R59934819,181236,"Shamlee, Tonia R",08/19/1956,11/19/2025,FT F/U : First Time Follow-up,OH,14:45:00,1447681739,,,,,FU003
+Audentes_Verificayion,Medicare of Ohio,"Johnson, Sarah ",9JR8CK0MA62,102989,"MILLER, LAWRENCE W",01/09/1951,11/17/2025,F/U : Follow Up Visit,OH,09:14:59.999000,1316477102,Tricare for Life,297482124,,,FU003
+Audentes_Verificayion,HUMANA Med Adv PPO,"Johnson, Sarah ",H88062022,121911,"WILLIAMSON, CHARLES ",09/04/1973,11/19/2025,F/U : Follow Up Visit,OH,07:44:59.999000,1316477102,,,,,FU003
+Audentes_Verificayion,Medicare of Ohio,"Johnson, Sarah ",7U95JG5NK66,100367,"JOYCE, SONYA ",02/19/1951,11/19/2025,F/U : Follow Up Visit,OH,09:45:00,1316477102,BCBS of OH,UGD920551926,,,FU003
+Audentes_Verificayion,Humana Med Adv HMO D-SNP,"Johnson, Sarah ",H90005975,105855,"WILLIAMS, MELINDA ",08/24/1959,11/19/2025,F/U : Follow Up Visit,OH,09:59:59.999000,1316477102,,,,,FU003
+Audentes_Verificayion,BCBS MediBlue Dual Advantage HMO SNP -Primary,"Johnson, Sarah ",JRG773W05445,112154,"PRICE, LORETTA ",02/17/1955,11/19/2025,F/U : Follow Up Visit,OH,10:15:00,1316477102,,,,,FU003
+Audentes_Verificayion,AETNA MEDICARE ADV HMO,"Johnson, Sarah ",102052528600,71545,"Owens, Kenneth ",08/04/1950,11/19/2025,F/U : Follow Up Visit,OH,10:44:59.999000,1316477102,,,,,FU003
+Audentes_Verificayion,AETNA,"Johnson, Sarah ",W283319875,23440,"Null, Mark ",08/21/1961,11/19/2025,F/U : Follow Up Visit,OH,11:29:59.999000,1316477102,,,,,FU004
+Audentes_Verificayion,MediGold Med Advantage HMO,"Johnson, Sarah ",000132079,43049,"Spencer, Karen K",12/19/1955,11/19/2025,F/U : Follow Up Visit,OH,12:59:59.999000,1316477102,,,,,FU004
+Audentes_Verificayion,BCBS of OH,"Johnson, Sarah ",RLN840167595,66917,"Reinhart, Kathy ",05/27/1970,11/19/2025,F/U : Follow Up Visit,OH,13:15:00,1316477102,,,,,FU004
+Audentes_Verificayion,Medicare of Ohio,"Johnson, Sarah ",2E80NH0NN17,23813,"Arter, Delores I",09/19/1948,11/19/2025,F/U : Follow Up Visit,OH,13:30:00,1316477102,Humana Medicare Supplement,H55558920,,,FU004
+Audentes_Verificayion,BCBS MediBlue Dual Advantage HMO SNP -Primary,"Johnson, Sarah ",JRG375M55117,31127,"Kidwell, Linda L",07/05/1947,11/19/2025,F/U : Follow Up Visit,OH,13:44:59.999000,1316477102,,,,,FU004
+Audentes_Verificayion,BCBS of OH Federal,"Johnson, Sarah ",R57927060,75494,"Bowen Jr, Dwight E ",07/10/1961,11/19/2025,F/U : Follow Up Visit,OH,14:45:00,1316477102,Medicare of Ohio,8P15W73MM59,,,FU004
+Audentes_Verificayion,Medicare of Ohio,"Johnson, Sarah ",7QK9QE5RK25,24433,"Spencer, Sharon L",12/08/1959,11/19/2025,F/U : Follow Up Visit,OH,14:29:59.999000,1316477102,UHC AARP Supplemental,3564995811,,,FU004
+Audentes_Verificayion,MediGold Med Advantage HMO,"Johnson, Sarah ",000062381,139331,"Leonard, Melis ",08/03/1942,11/19/2025,F/U : Follow Up Visit,OH,14:00:00,1316477102,,,,,FU004
+Audentes_Verificayion,SELF PAY,"Kim, Jenny J",SELF PAY,181502,"May, Bridget ",11/21/1991,11/19/2025,FT F/U : First Time Follow-up,OH,14:29:59.999000,1962021758,,,,,FU004
+Audentes_Verificayion,Molina Dual Option MyCare OH,"Kim, Jenny J",200000006582,181492,"Scales, Jamie ",07/28/1977,11/19/2025,FT F/U : First Time Follow-up,OH,14:00:00,1962021758,,,,,FU005
+Audentes_Verificayion,MediGold Med Advantage HMO,"Peete, Rachel ",000063351,24686,"Fraley, John ",04/25/1965,11/18/2025,F/U : Follow Up Visit,OH,11:00:00,1851151583,,,,,FU005
+Audentes_Verificayion,CareSource OH MCD,"Peete, Rachel ",504117570302,115360,"BAILEY, JAMESE A",12/16/1968,11/18/2025,F/U : Follow Up Visit,OH,07:44:59.999000,1851151583,,,,,FU005
+Audentes_Verificayion,MEDICAL MUTUAL of OH,"Peete, Rachel ",10108118,24896,"Eckles-Hoffman, Lindsay N",09/15/1981,11/18/2025,F/U : Follow Up Visit,OH,08:00:00,1851151583,,,,,FU005
+Audentes_Verificayion,BCBS MediBlue Dual Advantage HMO SNP -Primary,"Peete, Rachel ",JRG536W21544,127230,"THOMPSON, SYLVESTER G",02/15/1966,11/18/2025,F/U : Follow Up Visit,OH,08:15:00,1851151583,Medicaid of Ohio,644004604001,,,FU005
+Audentes_Verificayion,MEDICAL MUTUAL of OH,"Peete, Rachel ",10052019,63803,"Gordon, Erica L",12/17/1958,11/18/2025,F/U : Follow Up Visit,OH,08:29:59.999000,1851151583,,,,,FU005
+Audentes_Verificayion,HUMANA Med Adv HMO,"Peete, Rachel ",H78094166,45482,"Harlan, Robert L",04/01/1960,11/19/2025,FT F/U : First Time Follow-up,OH,13:30:00,1851151583,Medicaid of Ohio,106935518699,,,FU005
+Audentes_Verificayion,AETNA MEDICARE ADV HMO,"Peete, Rachel ",101288429600,166235,"Inboden, Gregory ",08/04/1953,11/19/2025,F/U : Follow Up Visit,OH,10:30:00,1851151583,,,,,FU005
+Audentes_Verificayion,MediGold Med Advantage HMO,"Peete, Rachel ",000040211,131863,"APP, LOUISE G",01/22/1939,11/19/2025,F/U : Follow Up Visit,OH,11:29:59.999000,1851151583,,,,,FU006
+Audentes_Verificayion,Medicare of Ohio,"Peete, Rachel ",5NA1H39FT33,78188,"Corrigan, Scott ",12/13/1957,11/19/2025,F/U : Follow Up Visit,OH,11:45:00,1851151583,Tricare for Life,1075018220,,,FU006
+Audentes_Verificayion,Medicare of Ohio,"Peete, Rachel ",6X93DX3XA98,159971,"Goodson, Gwendolyn L",12/22/1944,11/19/2025,F/U : Follow Up Visit,OH,14:00:00,1851151583,Humana Medicare Supplement,H55031731,,,FU006
+Audentes_Verificayion,MediGold Med Advantage HMO,"Peete, Rachel ",00013271001,43958,"Black, Donald G",02/11/1957,11/19/2025,F/U : Follow Up Visit,OH,14:45:00,1851151583,,,,,FU006
+Audentes_Verificayion,AETNA,"Peete, Rachel ",W242904318,96915,"Williams, Dannette M",06/25/1965,11/19/2025,F/U : Follow Up Visit,OH,15:00:00,1851151583,,,,,FU006
+Audentes_Verificayion,MEDICAL MUTUAL,"Peete, Rachel ",10090601,79547,"FUNSTON, LEEANN R",10/01/1972,11/19/2025,F/U : Follow Up Visit,OH,15:14:59.999000,1851151583,,,,,FU006
+Audentes_Verificayion,PCHS - OHIO HEALTHY,"Peete, Rachel ",OHH000008760,180595,"YUSUF, Jessica ",06/28/1977,11/19/2025,FT F/U : First Time Follow-up,OH,12:59:59.999000,1851151583,,,,,FU006
+Audentes_Verificayion,CareSource OH MCD,"Peete, Rachel ",102080092,180266,"SIMS, KENDAL ",11/16/1977,11/19/2025,FT F/U : First Time Follow-up,OH,14:15:00,1851151583,,,,,FU006
+Audentes_Verificayion,BCBS MediBlue HMO,"Peete, Rachel ",JRI857M70137,103160,"JACKSON, NELLIE L",08/23/1940,11/19/2025,F/U : Follow Up Visit,OH,11:00:00,1851151583,,,,,FU007
+Audentes_Verificayion,AETNA,"Peete, Rachel ",W175173055,66508,"Sullivan, Rox Ann ",08/27/1974,11/19/2025,F/U : Follow Up Visit,OH,11:00:00,1851151583,,,,,FU007
+Audentes_Verificayion,AETNA MEDICARE ADV PPO,"Pistole, Suzzane ",101358901700,24970,"Gromacki, Donald J",02/20/1955,11/18/2025,F/U : Follow Up Visit,OH,13:30:00,1255527495,,,,,FU007
+Audentes_Verificayion,BCBS MediBlue Dual Advantage HMO SNP -Primary,"Pistole, Suzzane ",JRG925W03497,24496,"Ludwick, Tami ",01/04/1958,11/18/2025,F/U : Follow Up Visit,OH,10:15:00,1255527495,,,,,FU007
+Audentes_Verificayion,BCBS MediBlue,"Pistole, Suzzane ",VOD107M83346,38790,"Michaels, Richard C",07/10/1959,11/18/2025,F/U : Follow Up Visit,OH,12:59:59.999000,1255527495,,,,,FU007
+Audentes_Verificayion,MediGold Med Advantage HMO,"Pistole, Suzzane ",00007686901,98926,"Hutchison, Randall M",08/26/1954,11/18/2025,F/U : Follow Up Visit,OH,13:44:59.999000,1255527495,,,,,FU007
+Audentes_Verificayion,Humana Med Adv PPO DUAL SNP,"Pistole, Suzzane ",H73631964,66889,"Wellington, Brigette ",01/31/1959,11/19/2025,F/U : Follow Up Visit,OH,11:00:00,1255527495,,,,,FU007
+Audentes_Verificayion,MediGold Med Advantage HMO,"Pistole, Suzzane ",00007256401,59644,"Epling, Michael ",01/06/1958,11/19/2025,F/U : Follow Up Visit,OH,12:59:59.999000,1255527495,,,,,FU007
+Audentes_Verificayion,AETNA MEDICARE ADV PPO,"Pistole, Suzzane ",101287648000,127284,"NORRIS, DELMER J",01/23/1935,11/19/2025,F/U : Follow Up Visit,OH,13:44:59.999000,1255527495,,,,,FU008
+Audentes_Verificayion,BCBS MediBlue Dual Advantage HMO SNP -Primary,"Pistole, Suzzane ",JRI004W21317,137823,"King, Patricia A",01/28/1962,11/19/2025,F/U : Follow Up Visit,OH,14:29:59.999000,1255527495,,,,,FU008
+Audentes_Verificayion,Medicare of Ohio,"Pistole, Suzzane ",8A51YF3MX22,25020,"Cunningham, Helen L",06/25/1944,11/19/2025,F/U : Follow Up Visit,OH,12:59:59.999000,1255527495,AETNA,W289390089,,,FU008
+Audentes_Verificayion,Medicare of Ohio,"Pistole, Suzzane ",9XJ4QJ3QV82,68949,"Bell, Stewart E",01/23/1958,11/19/2025,F/U : Follow Up Visit,OH,11:00:00,1255527495,,,,,FU008
+Audentes_Verificayion,MEDICAL MUTUAL,"Pistole, Suzzane ",990216693977,98931,"Bramblette, Tresia M",04/05/1961,11/19/2025,F/U : Follow Up Visit,OH,11:15:00,1255527495,,,,,FU008
+Audentes_Verificayion,HUMANA Med Adv PPO,"Pistole, Suzzane ",H67979895,23530,"Rase II, Werner D",09/28/1967,11/19/2025,F/U : Follow Up Visit,OH,11:29:59.999000,1255527495,,,,,FU008
+Audentes_Verificayion,Aetna Better Health of OH-Dual Med Adv,"Pistole, Suzzane ",094030083302,67497,"Griffin, Elzy ",04/17/1941,11/19/2025,F/U : Follow Up Visit,OH,11:45:00,1255527495,,,,,FU008
+Audentes_Verificayion,BCBS of OH,"Pistole, Suzzane ",UCX717W14746,126932,"BURK, CHERYL L",08/25/1949,11/19/2025,F/U : Follow Up Visit,OH,14:00:00,1255527495,,,,,FU008
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",6XC1AP7UU05,176251,"Frey, Mary ",05/28/1960,11/18/2025,ORTHO F/U : Orthopedic F/U,SWOG,14:15:00,1740271196,,,,,FU001
+Audentes_Verificayion,BCBS OF TX,"Angirasa, Arush ",WMW18685725W,172486,"Puente, Alejandro ",10/04/1993,11/18/2025,Post OP FU : Post Operative Follow Up,SWOG,14:29:59.999000,1740271196,,,,,FU001
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",2MA7D96XH45,129436,"Santos, Frances ",09/14/1941,11/18/2025,ORTHO F/U : Orthopedic F/U,SWOG,14:45:00,1740271196,Medicaid QMB TX,531105791,,,FU001
+Audentes_Verificayion,Imagine 360-Multiplan,"Angirasa, Arush ",985520278,177237,"Savoie, Elisa P",10/16/1973,11/18/2025,Post OP FU : Post Operative Follow Up,SWOG,15:00:00,1740271196,,,,,FU001
+Audentes_Verificayion,ACHP By SENDERO HEALTH PLAN,"Angirasa, Arush ",002169444-01,57824,"Kelly, David ",10/04/1967,11/18/2025,ORTHO F/U : Orthopedic F/U,SWOG,15:30:00,1740271196,,,,,FU001
+Audentes_Verificayion,UHC Choice Plus,"Angirasa, Arush ",927638399,140940,"Cook, Shannon K",09/21/1975,11/18/2025,Post OP FU : Post Operative Follow Up,SWOG,15:59:59.999000,1740271196,,,,,FU002
+Audentes_Verificayion,BCBS Med Adv,"Angirasa, Arush ",ZGJ804466313,96919,"Moore, Edwin ",10/01/1961,11/18/2025,ORTHO F/U : Orthopedic F/U,SWOG,16:15:00,1740271196,,,,,FU002
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",2VT4AV3JQ94,182080,"Lee, Clayton ",10/29/1956,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,09:30:00,1740271196,,,,,FU002
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",6M67RW7CR77,122820,"Garamillo, Robert ",12/03/1939,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,09:45:00,1740271196,BCBS TX Medicare Supplement,ZGM862074259,,,FU002
+Audentes_Verificayion,Cigna,"Angirasa, Arush ",U4163215502,141883,"Bruchmiller, Tim R",05/11/1963,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,11:00:00,1740271196,,,,,FU002
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",4VR4Y82YG87,96943,"Eilert, John ",02/17/1955,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,13:30:00,1740271196,Humana Medicare Supplement,H61392633,,,FU003
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",9QN6XD5TK66,100152,"Hohle, Raymond ",10/26/1930,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,14:45:00,1740271196,HARTFORD RETIREE MEDICAL INSURANCE,002964910-01,,,FU003
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",3W44AH3AU98,177950,"Malota, Clarence ",06/09/1948,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,13:44:59.999000,1740271196,BCBS TX Medicare Supplement,ZGM860925719,,,FU003
+Audentes_Verificayion,BCBS TX HMO,"Angirasa, Arush ",T2U849426587,172369,"Hannath, Todd W",08/12/1969,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,14:29:59.999000,1740271196,,,,,FU003
+Audentes_Verificayion,UHC WELLMED MEDICARE GOLD PPO C-SNP,"Angirasa, Arush ",994863215,120500,"BUCHOLZ, NANCY ",10/10/1955,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,08:29:59.999000,1740271196,BCBS of TX Federal,R59403463,,,FU003
+Audentes_Verificayion,SELF PAY,"Angirasa, Arush ",SELF PAY,164108,"Hastings, Shirley A",09/02/1969,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,09:00:00,1740271196,,,,,FU004
+Audentes_Verificayion,BCBS OF TX,"Angirasa, Arush ",ZGP832754966,96046,"POLASEK, KATHY ",02/12/1962,11/19/2025,Post OP FU : Post Operative Follow Up,SWOG,09:00:00,1740271196,,,,,FU004
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",7JE2TF1EG07,99761,"Hensel, Russell ",03/25/1953,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,09:14:59.999000,1740271196,MUTUAL OF OMAHA INSURANCE COMPANY,581954-93,,,FU004
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",4UE4DC7WC63,118944,"Fischer, Kathy ",10/14/1952,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,09:30:00,1740271196,UHC AARP Supplemental,31794389811,,,FU004
+Audentes_Verificayion,BCBS Med Adv,"Angirasa, Arush ",ZZTUCJ8CM39L,182227,"Devoltz, Tonka A",09/03/1959,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,09:45:00,1740271196,,,,,FU004
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",5J61X64RP06,104875,"Jenkins, Jimmy ",12/17/1954,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,09:59:59.999000,1740271196,MUTUAL OF OMAHA INSURANCE COMPANY,405862-97,,,FU005
+Audentes_Verificayion,HUMANA Med Adv PPO,"Angirasa, Arush ",H09513097,97913,"Hopkins, Carol A",09/19/1969,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,09:59:59.999000,1740271196,,,,,FU005
+Audentes_Verificayion,HUMANA Med Adv PPO,"Angirasa, Arush ",H77485792,177314,"Pollard, Rickie L",11/10/1957,11/19/2025,Post OP FU : Post Operative Follow Up,SWOG,10:15:00,1740271196,,,,,FU005
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",2M22NE4HQ13,94883,"Ahrens, Glenn ",02/07/1941,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,10:30:00,1740271196,MUTUAL OF OMAHA INSURANCE COMPANY,456803-91,,,FU005
+Audentes_Verificayion,UHC-Surest,"Angirasa, Arush ",42939155400,159826,"Mueller, Douglas C",12/04/1963,11/19/2025,Post OP FU : Post Operative Follow Up,SWOG,10:44:59.999000,1740271196,,,,,FU005
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",6VW2WW8UD70,178232,"MEDACK, Ruth ",02/02/1948,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,11:00:00,1740271196,BCBS TX Health Select Secondary,JYA000473390,,,FU006
+Audentes_Verificayion,UHC AARP MEDICARE ADV PPO-WELLMED,"Angirasa, Arush ",991943274,173837,"Daniels, Danny ",09/04/1956,11/19/2025,Post OP FU : Post Operative Follow Up,SWOG,11:00:00,1740271196,,,,,FU006
+Audentes_Verificayion,UHC CHOICE PLUS,"Angirasa, Arush ",988169268,177604,"Basquez, Melinda ",11/10/1979,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,11:15:00,1740271196,,,,,FU006
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",6MV2EC0TV81,179785,"Mowrey, Daniel W",05/18/1948,11/19/2025,Post OP FU : Post Operative Follow Up,SWOG,11:15:00,1740271196,Humana Medicare Supplement,H79060779,,,FU006
+Audentes_Verificayion,BCBS OF TX,"Angirasa, Arush ",WAS14377739W,128142,"PATRIDGE, SANTINNA ",04/15/1993,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,11:29:59.999000,1740271196,,,,,FU006
+Audentes_Verificayion,UHC TRS-CARE MEDICARE ADVANTAGE,"Angirasa, Arush ",987935807,56814,"Yancey, Timothy R",03/08/1959,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,11:29:59.999000,1740271196,,,,,FU007
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Angirasa, Arush ",125741706,99209,"Kennedy, Kayla ",03/01/2002,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,13:30:00,1740271196,,,,,FU007
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",8A57VM6EE56,174440,"Kusak, Robert ",09/14/1949,11/19/2025,Post OP FU : Post Operative Follow Up,SWOG,13:44:59.999000,1740271196,USAA LIFE INSURANCE,J630015863,,,FU007
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",5V19QV2CA39,172887,"Rabensburg, Aubrey N",06/07/1946,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,14:00:00,1740271196,PHYSICIANS MUTUAL Supplement,1000440618,,,FU007
+Audentes_Verificayion,HUMANA Med Adv PPO,"Angirasa, Arush ",H72254199,180958,"Foley, Joanne M",09/21/1949,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,14:00:00,1740271196,,,,,FU007
+Audentes_Verificayion,UHC WELLMED chronic complete (HMO-POS C-SNP),"Angirasa, Arush ",983193404,99027,"BROWN, RANDALL ",12/19/1978,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,15:14:59.999000,1740271196,,,,,FU008
+Audentes_Verificayion,UHC WELLMED Dual Complete choice PPO D-SNP,"Angirasa, Arush ",829094938,174117,"Fields, Arthur R",08/07/1948,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,15:30:00,1740271196,,,,,FU008
+Audentes_Verificayion,UHC CHOICE PLUS,"Angirasa, Arush ",971322429,115423,"PETRAS, MELISSA M",10/01/1965,11/19/2025,Post OP FU : Post Operative Follow Up,SWOG,15:45:00,1740271196,,,,,FU008
+Audentes_Verificayion,Medicare of Texas,"Angirasa, Arush ",1RV2EU3DY94,178675,"Lehmann, Sandra ",12/03/1951,11/19/2025,ORTHO F/U : Orthopedic F/U,SWOG,08:29:59.999000,1740271196,Thrivent Financial Medicare Supplement,H785787,,,FU008
+Audentes_Verificayion,Curative Insurance,"Amasha, Raimy ",CUR5298948,179055,"Johnson, Jenni ",08/10/1959,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,13:15:00,1760643498,,,,,FU001
+Audentes_Verificayion,AETNA,"Amasha, Raimy ",W268527942,18128,"Malota, Debra ",05/21/1973,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,14:00:00,1760643498,,,,,FU001
+Audentes_Verificayion,UHC AARP MEDICARE COMPLETE FOCUS HMO-WELLMED,"Amasha, Raimy ",942371682,46502,"Faucett, Kathleen B",11/12/1952,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,14:15:00,1760643498,,,,,FU001
+Audentes_Verificayion,Medicare of Texas,"Blum, Kimberly ",7MV6KT5TV41,170127,"Solomon, Lari ",04/11/1953,11/17/2025,DG F/U : Dr. Ganti Follow-up,TX,09:59:59.999000,1376952457,USAA LIFE INSURANCE,004622094,,,FU001
+Audentes_Verificayion,UHC Nexus,"Blum, Kimberly ",979740031,106116,"Mcelroy, April ",05/04/1979,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,08:00:00,1376952457,,,,,FU001
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Blum, Kimberly ",124126675,142472,"Stoglin, Ollie C",10/12/1953,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,08:15:00,1376952457,Medicaid QMB TX,508116426,,,FU001
+Audentes_Verificayion,UMR,"Blum, Kimberly ",28241842,106697,"Mcmanis, Theresa ",02/11/1979,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,08:29:59.999000,1376952457,,,,,FU001
+Audentes_Verificayion,UHC Community Plan,"Blum, Kimberly ",615559054,105966,"Cekaj, Marsha ",02/10/1962,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,09:59:59.999000,1376952457,,,,,FU001
+Audentes_Verificayion,ACHP By SENDERO HEALTH PLAN,"Blum, Kimberly ",000003340-01,167542,"Silverman, Mathew ",09/01/1983,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,10:30:00,1376952457,,,,,FU001
+Audentes_Verificayion,Champ VA - VHA Community Care,"Blum, Kimberly ",463610947,105758,"Gaines, Margo ",12/25/1972,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,11:00:00,1376952457,,,,,FU001
+Audentes_Verificayion,UHC AARP MEDICARE ADV PPO-WELLMED,"Blum, Kimberly ",980636949,107058,"Gordon, Diane ",01/13/1946,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,11:00:00,1376952457,,,,,FU001
+Audentes_Verificayion,Humana Med Adv HMO SNP-WellMed,"Blum, Kimberly ",H88069864,15986,"Cotman, Danita ",12/28/1975,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,11:29:59.999000,1376952457,,,,,FU001
+Audentes_Verificayion,UHC AARP MEDICARE COMPLETE FOCUS HMO-WELLMED,"Blum, Kimberly ",939305774,105766,"Patterson, Marcia ",10/27/1946,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,13:15:00,1376952457,,,,,FU001
+Audentes_Verificayion,BCBS Med Adv,"Blum, Kimberly ",ZGD804439300,48808,"McBride, Michele ",02/12/1962,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,14:00:00,1376952457,,,,,FU001
+Audentes_Verificayion,UHC CHOICE PLUS,"Blum, Kimberly ",981864874,105874,"Christensen, Tom ",11/21/1962,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,14:29:59.999000,1376952457,,,,,FU001
+Audentes_Verificayion,AETNA MEDICARE ADV HMO,"Blum, Kimberly ",102183387800,106801,"Stout, Glenda ",02/13/1958,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,09:45:00,1376952457,,,,,FU001
+Audentes_Verificayion,Medicare of Texas,"Blum, Kimberly ",5JM9AF4RA57,134986,"Harrell, Carol ",12/27/1941,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,14:15:00,1376952457,OLD SURETY LIFE,2020040060,,,FU001
+Audentes_Verificayion,UHC CHOICE PLUS,"Blum, Kimberly ",981677169,107533,"Cain, Stephanie ",06/22/1965,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,08:00:00,1376952457,,,,,FU001
+Audentes_Verificayion,Medicare of Texas,"Blum, Kimberly ",7T94PU7WN50,106983,"Shillingburg, FMSALLY T",08/30/1946,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,08:15:00,1376952457,UHC AARP Supplemental,06955798811,,,FU001
+Audentes_Verificayion,BCBS OF TX,"Blum, Kimberly ",XUP202799476,106966,"Illing, Caitlin ",02/07/1989,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,08:29:59.999000,1376952457,,,,,FU001
+Audentes_Verificayion,Medicare of Texas,"Blum, Kimberly ",2G48KY7PM32,105689,"Luke, Brenda E",01/16/1947,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,08:29:59.999000,1376952457,AETNA SENIOR SUPPLEMENTAL,AHC6254716,,,FU001
+Audentes_Verificayion,Medicare of Texas,"Blum, Kimberly ",1N14Q00EX90,105777,"Hathaway, Ralph L",11/21/1937,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,08:45:00,1376952457,Cigna Medicare Supplemental,12E0018951,,,FU001
+Audentes_Verificayion,Medicare of Texas,"Blum, Kimberly ",8K07XV9NH45,120358,"Petty, Reginald B",09/25/1957,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,09:00:00,1376952457,OLD SURETY LIFE,2022080093,,,FU001
+Audentes_Verificayion,BCBS OF TX,"Blum, Kimberly ",P5Z5154842AB,124575,"Beckham, Nicole ",01/18/1969,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,09:14:59.999000,1376952457,,,,,FU001
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Blum, Kimberly ",118187629,106083,"Zurita, Elida ",01/28/1947,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,09:30:00,1376952457,,,,,FU001
+Audentes_Verificayion,UHC WELLMED chronic complete (HMO-POS C-SNP),"Blum, Kimberly ",987785198,105799,"Fox, Barbara Z",12/16/1944,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,09:45:00,1376952457,,,,,FU001
+Audentes_Verificayion,Medicare of Texas,"Blum, Kimberly ",2EM5MA2PC89,107206,"Ping, David ",11/02/1941,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,09:59:59.999000,1376952457,Cigna Medicare Supplemental,1290027643,,,FU001
+Audentes_Verificayion,Medicare of Texas,"Blum, Kimberly ",5VQ3QH9HR93,107107,"Cesario, Margy ",03/10/1952,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,10:15:00,1376952457,MANHATTAN LIFE INSURANCE,3199724,,,FU001
+Audentes_Verificayion,HUMANA Med Adv PPO,"Blum, Kimberly ",H76753826,105407,"Joy, Terry ",06/25/1957,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,10:30:00,1376952457,,,,,FU001
+Audentes_Verificayion,HUMANA Med Adv PPO,"Blum, Kimberly ",H42609623,120359,"Drewry, Debra L",10/12/1958,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,10:44:59.999000,1376952457,,,,,FU001
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Blum, Kimberly ",119437009,105886,"Stewart, Arthur W",07/04/1955,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,11:00:00,1376952457,,,,,FU001
+Audentes_Verificayion,BCBS of TX Federal,"Blum, Kimberly ",R58505375,106848,"Bascom, Burton ",01/09/1946,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,11:00:00,1376952457,,,,,FU001
+Audentes_Verificayion,BCBS Med Adv,"Blum, Kimberly ",ZZTUZN1YK79Q,106957,"Westerfield, Sue A",07/29/1953,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,11:15:00,1376952457,,,,,FU001
+Audentes_Verificayion,Medicare of Texas,"Blum, Kimberly ",1J05QM1PV74,106714,"Head, Donna ",02/14/1974,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,11:29:59.999000,1376952457,Medicaid QMB TX,520332352,,,FU001
+Audentes_Verificayion,UHC WELLMED Med silver (PPO C-SNP),"Blum, Kimberly ",944515732,176821,"Mclean, Martin E",07/18/1936,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,11:29:59.999000,1376952457,,,,,FU001
+Audentes_Verificayion,UHC AARP MEDICARE ADV PPO-WELLMED,"Blum, Kimberly ",957537255,105701,"Holland, Marilyn ",03/10/1951,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,11:45:00,1376952457,,,,,FU001
+Audentes_Verificayion,ACHP By SENDERO HEALTH PLAN,"Blum, Kimberly ",94934851601,109830,"Ronhaar, Jennifer ",12/28/1973,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,12:59:59.999000,1376952457,,,,,FU002
+Audentes_Verificayion,UHC HEALTHSELECT MEDICARE ADVANTAGE,"Blum, Kimberly ",990271636,106099,"Stafford, Sue A",09/12/1958,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,13:15:00,1376952457,,,,,FU002
+Audentes_Verificayion,BCBS TX HMO,"Blum, Kimberly ",ZGN924761545,106741,"Patterson, Toby ",09/07/1965,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,13:30:00,1376952457,,,,,FU002
+Audentes_Verificayion,HUMANA Med Adv PPO,"Blum, Kimberly ",H76904481,106912,"Hidalgo, Felipe ",10/03/1949,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,13:44:59.999000,1376952457,,,,,FU002
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Blum, Kimberly ",120747109,105953,"Williams, Nita ",02/11/1957,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,14:00:00,1376952457,,,,,FU002
+Audentes_Verificayion,UHC Community Plan,"Blum, Kimberly ",503762919,105413,"Brown, Lupe ",07/03/1979,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,14:15:00,1376952457,,,,,FU002
+Audentes_Verificayion,BCBS TX HMO,"Blum, Kimberly ",T2U807957740,172023,"Pacini, Robert ",07/06/1962,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,14:29:59.999000,1376952457,,,,,FU002
+Audentes_Verificayion,Tricare Prime (West),"Cowan, Iden ",449475993,173811,"Macias, Beverly A",02/17/1967,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,13:20:00,1700029832,,,,,FU002
+Audentes_Verificayion,Medicare of Texas,"Cowan, Iden ",1K62U51HW82,177060,"Smith, Jimmy ",03/13/1957,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,08:20:00,1700029832,Humana Medicare Supplement,H75839771,,,FU002
+Audentes_Verificayion,BCBS OF TX,"Cowan, Iden ",VJA1881650CH,176524,"Rheinheimer, Michael R",02/10/1977,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,08:00:00,1700029832,,,,,FU002
+Audentes_Verificayion,UHC HEALTHSELECT MEDICARE ADVANTAGE,"Cowan, Iden ",958653024,53315,"Hodgkinson, William ",09/13/1950,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,10:20:00,1700029832,,,,,FU002
+Audentes_Verificayion,Medicare of Texas,"Cowan, Iden ",7U54VX8MP75,178128,"Thompson, Larry ",08/07/1947,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,11:40:00,1700029832,MUTUAL OF OMAHA INSURANCE COMPANY,288185-96,,,FU002
+Audentes_Verificayion,BCBS OF TX,"Cowan, Iden ",ZGP817352395,177262,"Dapper, John ",04/22/1969,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,12:59:59.999000,1700029832,,,,,FU002
+Audentes_Verificayion,Medicare of Texas,"Cowan, Iden ",6UF8R68HY22,181976,"Aredondo, Louis ",05/06/1955,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,14:00:00,1700029832,AETNA EPO,AHC6317424,,,FU002
+Audentes_Verificayion,Medicare of Texas,"Cowan, Iden ",2P26XF5XV67,180166,"Golding, Cheryl ",04/17/1949,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,09:39:59.999000,1700029832,UHC AARP Supplemental,30679880612,,,FU002
+Audentes_Verificayion,UHC CHOICE PLUS,"Cowan, Iden ",28414997200,181319,"Hunteman, Lauren ",11/04/1998,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,09:59:59.999000,1700029832,,,,,FU002
+Audentes_Verificayion,BCBS OF TX,"Cowan, Iden ",PZG139A21276,173521,"Scherman, John ",11/16/1961,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,14:40:00,1700029832,,,,,FU002
+Audentes_Verificayion,Baylor Scott & White,"Crider, Lauren ",MCR03972900,41871,"BARNETT, CLYDE ",04/06/1950,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,09:00:00,1366049553,,,,,FU002
+Audentes_Verificayion,Medicare of Texas,"Crider, Lauren ",3RK7QN8TC77,167498,"Pooler, Michelle D",03/04/1966,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,09:59:59.999000,1366049553,,,,,FU002
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Crider, Lauren ",123008002,105495,"Pacheco Torres, Jose A",11/10/1951,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,13:15:00,1366049553,,,,,FU002
+Audentes_Verificayion,Tricare Prime (West),"Crider, Lauren ",01751307600,179729,"Giddens, Essence ",08/06/1995,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,13:44:59.999000,1366049553,,,,,FU002
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Crider, Lauren ",130577359,137905,"Provost, Belina ",01/30/1965,11/18/2025,LP/WC : Lead Pull/Wound Check,TX,14:15:00,1366049553,,,,,FU002
+Audentes_Verificayion,BCBS OF TX,"Crider, Lauren ",KYH100W14425,103534,"CHAVERS, SABINE ",04/26/1962,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,14:45:00,1366049553,BCBS of TX Federal,R59212747,,,FU002
+Audentes_Verificayion,UHC AARP MEDICARE ADV PPO-WELLMED,"Crider, Lauren ",955799940,18835,"Pagel, Edith A",12/17/1957,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,12:59:59.999000,1366049553,,,,,FU002
+Audentes_Verificayion,TriWest VA CCN Claims,"Crider, Lauren ",1184468642,164406,"Pulou, Benjamin ",02/25/1995,11/18/2025,LP/WC : Lead Pull/Wound Check,TX,13:30:00,1366049553,,,,,FU002
+Audentes_Verificayion,Tricare Prime (West),"Crider, Lauren ",02132467300,180536,"Mendoza, Ricardo ",09/03/1997,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,14:29:59.999000,1366049553,,,,,FU002
+Audentes_Verificayion,UHC AARP MEDICARE ADV PPO-WELLMED,"Crider, Lauren ",987625577,20721,"Yuke, Cherish ",10/11/1975,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,09:00:00,1366049553,,,,,FU002
+Audentes_Verificayion,BCBS Med Adv,"Crider, Lauren ",ZGD804497768,166938,"Heintzelman, Michael ",05/09/1960,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,09:59:59.999000,1366049553,,,,,FU002
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Crider, Lauren ",132778639,169777,"Henderson, Michael L",01/27/1963,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,10:15:00,1366049553,,,,,FU002
+Audentes_Verificayion,Scott and White,"Crider, Lauren ",MCR01536800,132977,"NELSON, ROSS M",08/17/1953,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,11:15:00,1366049553,,,,,FU002
+Audentes_Verificayion,BSW Premier HMO,"Crider, Lauren ",MCR00461000,133177,"Crumley, Shirley J",05/07/1947,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,11:29:59.999000,1366049553,,,,,FU002
+Audentes_Verificayion,Wellcare MCR DUAL HMO-SNP,"Crider, Lauren ",43674003,105277,"Callis, Sandra ",05/14/1957,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,11:45:00,1366049553,,,,,FU002
+Audentes_Verificayion,Medicare of Texas,"Crider, Lauren ",1EA1V83NK17,173417,"Johnston, Donna ",07/02/1953,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,14:45:00,1366049553,Tricare for Life,00575942202,,,FU002
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Crider, Lauren ",125824909,175666,"Carprew, Hester L",08/10/1957,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,09:45:00,1366049553,Medicaid QMB TX,266612201,,,FU002
+Audentes_Verificayion,BCBS OF TX,"Crider, Lauren ",H5K3HZN40820660,172190,"Dooley, Melissa ",03/17/1978,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,10:44:59.999000,1366049553,,,,,FU002
+Audentes_Verificayion,UHC WELLMED chronic complete (HMO-POS C-SNP),"Crider, Lauren ",966228940,176362,"Lee, Christine M",11/20/1969,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,11:00:00,1366049553,,,,,FU002
+Audentes_Verificayion,HUMANA Med Adv PPO,"Crider, Lauren ",H46273310,50590,"Harrison, Francis M",05/05/1962,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,12:59:59.999000,1366049553,,,,,FU003
+Audentes_Verificayion,UHC AARP MEDICARE ADV PPO-WELLMED,"Crider, Lauren ",942482564,132489,"Marchi, Jema ",06/09/1950,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,10:30:00,1366049553,,,,,FU003
+Audentes_Verificayion,UHC AARP MEDICARE COMPLETE FOCUS HMO-WELLMED,"Crider, Lauren ",979465398,135544,"Sowers, Karen ",12/22/1956,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,09:14:59.999000,1366049553,,,,,FU003
+Audentes_Verificayion,Tricare Prime (West),"Crider, Lauren ",105607103,111257,"LORENZO, LUIS F",09/27/1969,11/18/2025,DP F/U : Dr. Phillips Follow Up,TX,09:30:00,1366049553,,,,,FU003
+Audentes_Verificayion,Tricare Prime (West),"Crider, Lauren ",02118859000,179591,"Tantoh Mengwi, Flora ",07/10/1999,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,09:14:59.999000,1366049553,,,,,FU003
+Audentes_Verificayion,BCBS TX HMO,"Crider, Lauren ",ZGN924600379,123412,"TAYLOR, LIVIA ",09/11/1970,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,09:30:00,1366049553,,,,,FU003
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Crider, Lauren ",126460895,130281,"ARMSTEAD, GABRIELLE S",03/13/1991,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,09:59:59.999000,1366049553,,,,,FU003
+Audentes_Verificayion,Tricare Prime (West),"Crider, Lauren ",00501755307,121772,"PRICE, TINA K",09/11/1971,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,11:00:00,1366049553,,,,,FU003
+Audentes_Verificayion,UHC TRS-CARE MEDICARE ADVANTAGE,"Crider, Lauren ",990842412,70219,"Perryman, Alisha N",04/28/1970,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,11:45:00,1366049553,,,,,FU003
+Audentes_Verificayion,Medicare of Texas,"Crider, Lauren ",3XF2FY3VR86,38503,"Evans, Susan C",05/21/1966,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,13:15:00,1366049553,Tricare Prime (West),00677062103,,,FU003
+Audentes_Verificayion,Medicare of Texas,"Crider, Lauren ",4F92X27QN80,171978,"Noell, Robert ",12/05/1956,11/19/2025,LP/WC : Lead Pull/Wound Check,TX,14:15:00,1366049553,Humana Medicare Supplement,H62796868,,,FU003
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Crider, Lauren ",130242984,57694,"Taylor, Hattie R",08/15/1975,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,10:15:00,1366049553,,,,,FU003
+Audentes_Verificayion,Tricare Prime (West),"Crider, Lauren ",256470196,176097,"Beck, Anna M",09/11/1962,11/19/2025,LP/WC : Lead Pull/Wound Check,TX,14:29:59.999000,1366049553,,,,,FU003
+Audentes_Verificayion,Medicare of Texas,"Crider, Lauren ",2W28N09DN51,105381,"WATSON, SUSAN L",04/25/1956,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,13:30:00,1366049553,Tricare for Life,00697909705,,,FU003
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Crider, Lauren ",120226022,131900,"HARDISON, TERESA R",12/17/1973,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,09:45:00,1366049553,,,,,FU003
+Audentes_Verificayion,Medicare of Texas,"Crider, Lauren ",3HG1EU0QP25,119766,"CORDERO, NOEL ",05/11/1983,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,09:59:59.999000,1366049553,,,,,FU003
+Audentes_Verificayion,Medicare of Texas,"Crider, Lauren ",8U16DP8VK40,145990,"Bagley, George ",11/17/1969,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,10:30:00,1366049553,Tricare Prime (West),004637130,,,FU003
+Audentes_Verificayion,UHC AARP MEDICARE ADV PPO-WELLMED,"Crider, Lauren ",904382538,101936,"DENAEYER, CARLA ",04/07/1962,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,10:44:59.999000,1366049553,,,,,FU003
+Audentes_Verificayion,HUMANA Med Adv PPO,"Crider, Lauren ",H40427581,99957,"CHILDS, JUNE C",07/28/1953,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,11:15:00,1366049553,,,,,FU003
+Audentes_Verificayion,Medicare of Texas,"Crider, Lauren ",2QR4K94PN62,93855,"DAVIS, JERI ",02/22/1958,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,12:59:59.999000,1366049553,MUTUAL OF OMAHA INSURANCE COMPANY,526286-96,,,FU003
+Audentes_Verificayion,Medicare of Texas,"Crider, Lauren ",8VN5D72HT63,167930,"Orr, Victor M",02/17/1972,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,12:59:59.999000,1366049553,Tricare Prime (West),364885139,,,FU003
+Audentes_Verificayion,Medicare of Texas,"Crider, Lauren ",5J51FP9GG99,114877,"BAUSCH, CYNTHIA ",04/22/1947,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,13:44:59.999000,1366049553,USAA LIFE INSURANCE,000856667,,,FU003
+Audentes_Verificayion,Tricare Prime (West),"Crider, Lauren ",01157685107,179871,"Brown, Patricia ",03/03/1988,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,09:00:00,1366049553,,,,,FU003
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Crider, Lauren ",120059501,146021,"King, Celeste ",01/07/1952,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,14:00:00,1366049553,,,,,FU003
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Desai, Anjuli ",967967969,17700,"KHATOON, AFIA ",01/04/1952,11/18/2025,DD F/U : Dr. Desai Follow Up,TX,11:45:00,1760648372,,,,,FU003
+Audentes_Verificayion,BCBS OF TX,"Desai, Anjuli ",ZGP828154418,113379,"Short, Carissa ",01/03/2001,11/18/2025,DD F/U : Dr. Desai Follow Up,TX,11:29:59.999000,1760648372,,,,,FU003
+Audentes_Verificayion,Tricare Prime (West),"Desai, Anjuli ",01604434300,180046,"Cockream, John ",08/21/1997,11/18/2025,NP EMG DD : NP EMG Consultation,TX,08:09:59.999000,1760648372,,,,,FU003
+Audentes_Verificayion,BCBS OF TX,"Desai, Anjuli ",XYL842133562,164141,"McDole, Sue ",12/24/1946,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,11:29:59.999000,1760648372,,,,,FU003
+Audentes_Verificayion,UHC,"Desai, Anjuli ",985592333,180950,"Wrigley, Robert ",11/19/1938,11/19/2025,NP EMG DD : NP EMG Consultation,TX,12:30:00,1760648372,,,,,FU003
+Audentes_Verificayion,Medicare of Texas,"Desai, Anjuli ",2VJ8N28UV52,181985,"Allen, Harvey ",08/22/1953,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,11:45:00,1760648372,BCBS TX Medicare Supplement,ZGM862070447,,,FU003
+Audentes_Verificayion,UHC,"Desai, Anjuli ",904407202,175010,"White, Carlton ",05/29/1976,11/19/2025,NP EMG DD : NP EMG Consultation,TX,08:09:59.999000,1760648372,,,,,FU003
+Audentes_Verificayion,Tricare Prime (West),"Desai, Anjuli ",1114688840,176731,"Hudson, Kenya ",07/02/1974,11/19/2025,NP EMG DD : NP EMG Consultation,TX,08:29:59.999000,1760648372,,,,,FU003
+Audentes_Verificayion,BCBS TX Health Select,"Ganti, Bhaskara ",JEA000828370,107750,"Maloy, Shaundra ",07/25/1962,11/13/2025,DG F/U : Dr. Ganti Follow-up,TX,09:30:00,1477917292,,,,,FU003
+Audentes_Verificayion,AETNA MEDICARE ADV PPO,"Jacobs, Krista ",101248228800,111747,"Charba, Barbara ",06/21/1943,11/17/2025,RP F/U : Dr. Raj Patel Follow Up,TX,13:15:00,1730839028,,,,,FU003
+Audentes_Verificayion,BCBS TX HMO,"Jacobs, Krista ",AEU846989371,22546,"Williams, Jurline ",12/03/1958,11/18/2025,RP F/U : Dr. Raj Patel Follow Up,TX,09:14:59.999000,1730839028,,,,,FU003
+Audentes_Verificayion,Medicare of Texas,"Jacobs, Krista ",2DK2GX8WJ14,133427,"Rasmussen, Wendy ",09/11/1978,11/18/2025,RP F/U : Dr. Raj Patel Follow Up,TX,09:45:00,1730839028,,,,,FU003
+Audentes_Verificayion,BCBS OF TX,"Jacobs, Krista ",H4B8036239CH,57853,"Gil, Tracie M",09/06/1987,11/18/2025,RP F/U : Dr. Raj Patel Follow Up,TX,14:29:59.999000,1730839028,AETNA,W289863098,,,FU004
+Audentes_Verificayion,BCBS of TX Federal,"Jacobs, Krista ",R58862779,61117,"Tijerina, Liza M",03/30/1979,11/18/2025,RP F/U : Dr. Raj Patel Follow Up,TX,09:00:00,1730839028,,,,,FU004
+Audentes_Verificayion,Medicare of Texas,"Jacobs, Krista ",2UY6J99WU43,16728,"GARZA, RUBEN B",11/24/1960,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,11:00:00,1730839028,,,,,FU004
+Audentes_Verificayion,Cigna,"Jacobs, Krista ",U2060449803,17493,"JEDYNAK, JANET ",04/29/1968,11/18/2025,RP F/U : Dr. Raj Patel Follow Up,TX,08:00:00,1730839028,,,,,FU004
+Audentes_Verificayion,BCBS Med Adv,"Jacobs, Krista ",ZZTUN92DL1A1,76661,"Durfor, John H",08/17/1950,11/18/2025,DS F/U : DS Follow Up,TX,11:15:00,1730839028,,,,,FU004
+Audentes_Verificayion,UHC WELLMED chronic complete (HMO-POS C-SNP),"Jacobs, Krista ",986485135,58302,"Shutack, Thomas ",06/26/1963,11/18/2025,LP/WC : Lead Pull/Wound Check,TX,10:15:00,1730839028,,,,,FU004
+Audentes_Verificayion,Medicare of Texas,"Jacobs, Krista ",6TR8AM9NQ54,165725,"Wattinger, Thomas ",07/03/1948,11/18/2025,RP F/U : Dr. Raj Patel Follow Up,TX,08:15:00,1730839028,MUTUAL OF OMAHA INSURANCE COMPANY,563824-93,,,FU004
+Audentes_Verificayion,UHC AARP MEDICARE COMPLETE FOCUS HMO-WELLMED,"Jacobs, Krista ",985978717,165786,"Gonzales, Sylvia ",08/05/1963,11/18/2025,RP F/U : Dr. Raj Patel Follow Up,TX,08:45:00,1730839028,,,,,FU004
+Audentes_Verificayion,UHC WELLMED chronic complete (HMO-POS C-SNP),"Jacobs, Krista ",907848149,43555,"Grimaldo, Esequiel ",09/30/1961,11/18/2025,RP F/U : Dr. Raj Patel Follow Up,TX,10:30:00,1730839028,,,,,FU004
+Audentes_Verificayion,BCBS OF TX,"Jacobs, Krista ",ZGP834392868,113237,"Perez, Saul ",10/22/1977,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,08:15:00,1730839028,,,,,FU004
+Audentes_Verificayion,Medicare of Texas,"Jacobs, Krista ",4MN8F55UY20,102258,"Watts, Heather ",09/10/1954,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,10:15:00,1730839028,,,,,FU004
+Audentes_Verificayion,AETNA,"Jacobs, Krista ",W281631274,66946,"Aldaco, Guadalupe ",04/07/1978,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,11:15:00,1730839028,SELF PAY,SELF PAY,,,FU004
+Audentes_Verificayion,AETNA,"Jacobs, Krista ",W278889570,56354,"Moreno, Loreli ",10/29/1984,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,13:30:00,1730839028,,,,,FU004
+Audentes_Verificayion,Medicare of Texas,"Jacobs, Krista ",8HC5K01AR53,105847,"Phaup, Karen ",01/03/1960,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,13:44:59.999000,1730839028,MUTUAL OF OMAHA INSURANCE COMPANY,377260-97,,,FU004
+Audentes_Verificayion,UHC AARP MEDICARE ADV PPO-WELLMED,"Jacobs, Krista ",955482579,105741,"Dickens, Henry ",12/30/1939,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,14:15:00,1730839028,,,,,FU004
+Audentes_Verificayion,Medicare of Texas,"Jacobs, Krista ",9XN8UP1DR52,109368,"Lips, Elizabeth ",11/10/1939,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,09:14:59.999000,1730839028,UHC AARP Supplemental,06802815512,,,FU004
+Audentes_Verificayion,BCBS TX Health Select,"Jacobs, Krista ",JEA001621910,39461,"Jaramillo, Lisa M",07/16/1966,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,09:59:59.999000,1730839028,,,,,FU004
+Audentes_Verificayion,Medicare of Texas,"Jacobs, Krista ",2AG6KM8RR76,94428,"Stern, Peter ",11/21/1949,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,11:00:00,1730839028,BCBS TX Medicare Supplement,ZGM862071258,,,FU004
+Audentes_Verificayion,UHC AARP MEDICARE ADV PPO-WELLMED,"Jacobs, Krista ",961499326,47488,"Kopacz, Christina L",10/14/1967,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,11:00:00,1730839028,,,,,FU004
+Audentes_Verificayion,BCBS OF TX,"Jacobs, Krista ",PRHAN3467379,80754,"Constable, Kathleen C",01/26/1968,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,12:59:59.999000,1730839028,,,,,FU004
+Audentes_Verificayion,BCBS OF TX,"Jacobs, Krista ",UTS0PS5AN6LC,50724,"Watson, Steven C",05/06/1962,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,13:15:00,1730839028,,,,,FU004
+Audentes_Verificayion,Medicare of Texas,"Jacobs, Krista ",2PR5PW2UT65,106854,"Jordan, Gary ",07/15/1951,11/19/2025,DS F/U : DS Follow Up,TX,14:00:00,1730839028,AETNA MEDICARE SUPPLEMENT,CLI3052996,,,FU004
+Audentes_Verificayion,BCBS OF TX,"Jacobs, Krista ",YVA180225524,49117,"Yakovac, Michelle ",09/05/1960,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,14:29:59.999000,1730839028,,,,,FU004
+Audentes_Verificayion,UHC WELLMED chronic complete (HMO-POS C-SNP),"Jacobs, Krista ",992162386,15748,"Castillo, Alejandro ",11/15/1953,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,10:44:59.999000,1730839028,,,,,FU004
+Audentes_Verificayion,Medicare of Texas,"Jacobs, Krista ",6VA9P65AX17,133872,"Crawley, Annette ",03/09/1960,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,09:00:00,1730839028,BCBS of TX Federal,R58857989,,,FU004
+Audentes_Verificayion,BCBS TX HMO,"Jacobs, Krista ",T2U839663445,16309,"DURAN, MICHAEL A",06/03/1979,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,09:00:00,1730839028,,,,,FU004
+Audentes_Verificayion,HUMANA Med Adv PPO,"Jacobs, Krista ",H73317206,72168,"MORALES, NORMA ",08/05/1957,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,08:29:59.999000,1730839028,,,,,FU004
+Audentes_Verificayion,HUMANA Med Adv PPO,"Jacobs, Krista ",H77714295,121097,"Erazo, Angelica ",02/05/1948,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,08:45:00,1730839028,,,,,FU004
+Audentes_Verificayion,Medicare of Texas,"Jacobs, Krista ",8Y08HK8FV35,105624,"Solomon, Henry A",03/11/1946,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,09:30:00,1730839028,Cigna Medicare Supplemental,63Y0008985,,,FU004
+Audentes_Verificayion,Cigna,"Jacobs, Krista ",U9348478901,123823,"RAMOS, MARIA ",06/27/1978,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,10:30:00,1730839028,,,,,FU004
+Audentes_Verificayion,BCBS of TX Federal,"Jacobs, Krista ",R59370907,18123,"Mallett, Michelle ",07/18/1968,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,08:00:00,1730839028,,,,,FU004
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Jacobs, Krista ",121592149,71726,"SIEGLE, PAULA W",06/23/1956,11/19/2025,RP F/U : Dr. Raj Patel Follow Up,TX,09:45:00,1730839028,,,,,FU004
+Audentes_Verificayion,BCBS OF TX,"Jacobs, Krista ",D4E826447892,164764,"Cowan, Duane D",06/19/1973,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,14:45:00,1730839028,,,,,FU004
+Audentes_Verificayion,BCBS OF TX,"Johnson, Marissa ",ZGP921148875,53223,"Pina, Mario ",12/14/1971,11/17/2025,GT F/U : Georgetown Follow Up,TX,08:15:00,1629474028,,,,,FU004
+Audentes_Verificayion,UHC CHOICE PLUS,"Johnson, Marissa ",970703131,79847,"Guzman, Mary ",07/11/1974,11/18/2025,DC F/U : Dr. Cowan Follow Up,TX,08:29:59.999000,1629474028,,,,,FU004
+Audentes_Verificayion,BCBS OF TX,"Johnson, Marissa ",ZGP830378672,74447,"Pogue, Ella ",08/14/2005,11/18/2025,DC F/U : Dr. Cowan Follow Up,TX,14:29:59.999000,1629474028,,,,,FU004
+Audentes_Verificayion,BCBS TX Health Select,"Johnson, Marissa ",JEA011720550,78173,"Kristof, Kathryn ",02/10/1958,11/18/2025,DC F/U : Dr. Cowan Follow Up,TX,11:15:00,1629474028,,,,,FU005
+Audentes_Verificayion,UHC CHOICE PLUS,"Johnson, Marissa ",09348686400,132232,"GREENWOOD, VIRGIL P",01/10/1968,11/18/2025,LP/WC : Lead Pull/Wound Check,TX,08:15:00,1629474028,,,,,FU005
+Audentes_Verificayion,Medicare of Texas,"Johnson, Marissa ",8UQ1T36MT05,59904,"Freiborg, Ethna ",12/27/1942,11/18/2025,DC F/U : Dr. Cowan Follow Up,TX,09:30:00,1629474028,BCBS TX Medicare Supplement,ZGM860104563,,,FU005
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Johnson, Marissa ",127452781,15079,"Bagnull, Hope H",04/12/1937,11/18/2025,DC F/U : Dr. Cowan Follow Up,TX,13:30:00,1629474028,Tricare for Life,299323457,,,FU005
+Audentes_Verificayion,Cigna,"Johnson, Marissa ",11077151100,166814,"Sharp, James E",08/18/1972,11/18/2025,DC F/U : Dr. Cowan Follow Up,TX,08:15:00,1629474028,,,,,FU005
+Audentes_Verificayion,HUMANA Med Adv PPO,"Johnson, Marissa ",H67312606,72367,"SANDOVAL, RONNIE ",05/29/1967,11/18/2025,DC F/U : Dr. Cowan Follow Up,TX,14:45:00,1629474028,,,,,FU005
+Audentes_Verificayion,Medicare of Texas,"Johnson, Marissa ",7KH9DJ7JR10,142024,"Welcome, James ",02/28/1951,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,09:59:59.999000,1629474028,UHC AARP Supplemental,30155692311,,,FU005
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Johnson, Marissa ",114091342,37689,"Tenorio, Henry W",04/09/1981,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,12:59:59.999000,1629474028,,,,,FU005
+Audentes_Verificayion,UHC-AARP MEDICARE ADV HMO-WELLMED,"Johnson, Marissa ",968185850,39175,"GARZA, GINA ",01/15/1961,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,12:59:59.999000,1629474028,,,,,FU005
+Audentes_Verificayion,UHC-AARP MEDICARE ADV HMO-WELLMED,"Johnson, Marissa ",911551991,48819,"Neal, Jennifer ",11/07/1970,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,11:29:59.999000,1629474028,,,,,FU005
+Audentes_Verificayion,UHC-AARP MEDICARE ADV HMO-WELLMED,"Johnson, Marissa ",977333990,42783,"MOORE, JOHN T",10/09/1948,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,13:44:59.999000,1629474028,,,,,FU005
+Audentes_Verificayion,BCBS OF TX,"Johnson, Marissa ",UTS0BF9NJ3RY,173299,"Graff, Tracey ",11/29/1965,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,14:29:59.999000,1629474028,,,,,FU005
+Audentes_Verificayion,BCBS OF TX,"Johnson, Marissa ",ZGP848127930,179517,"Jenkins, Melvin R",01/25/1975,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,09:00:00,1629474028,,,,,FU005
+Audentes_Verificayion,Medicare of Texas,"Johnson, Marissa ",3YQ7NU6GV37,171738,"Null, Linda ",02/19/1960,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,13:15:00,1629474028,UHC AARP Supplemental,31792432612,,,FU005
+Audentes_Verificayion,Medicare of Texas,"Johnson, Marissa ",5RX3UN8XT71,161892,"Love, Stephen ",06/15/1960,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,08:45:00,1629474028,UHC AARP Supplemental,32798761012,,,FU005
+Audentes_Verificayion,UHC TRS-CARE MEDICARE ADVANTAGE,"Johnson, Marissa ",936493286,48842,"Lee, Ross A",06/06/1949,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,09:30:00,1629474028,,,,,FU005
+Audentes_Verificayion,HUMANA Med Adv PPO,"Johnson, Marissa ",H70428710,19508,"SAWATSKY, DANNY L",01/21/1968,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,09:45:00,1629474028,,,,,FU005
+Audentes_Verificayion,Medicare of Texas,"Johnson, Marissa ",9RV5UF6KV51,114711,"Krumpack, William ",06/22/1943,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,09:59:59.999000,1629474028,Tricare for Life,451746313,,,FU005
+Audentes_Verificayion,Humana Med Adv Wellmed,"Johnson, Marissa ",H41391792,48386,"Hodge, Katavious ",10/03/1963,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,10:44:59.999000,1629474028,,,,,FU005
+Audentes_Verificayion,Medicare of Texas,"Johnson, Marissa ",1QD7AG1UU36,48474,"Clark, Wilma ",01/16/1952,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,14:45:00,1629474028,MUTUAL OF OMAHA INSURANCE COMPANY,539489-96,,,FU005
+Audentes_Verificayion,Medicare of Texas,"Johnson, Marissa ",9GJ2TX6DW03,48457,"Dunlap, Amy ",11/29/1949,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,08:29:59.999000,1629474028,BCBS TX Medicare Supplement,ZGM860738572,,,FU005
+Audentes_Verificayion,BCBS Med Adv,"Johnson, Marissa ",ZZTUZ91EI1TB,161298,"Wendt, Arlene T",04/04/1952,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,10:15:00,1629474028,,,,,FU005
+Audentes_Verificayion,Humana Med Adv HMO SNP-WellMed,"Johnson, Marissa ",H7669098101,60416,"DISIMILO, LOIS ",01/27/1941,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,14:15:00,1629474028,,,,,FU005
+Audentes_Verificayion,Medicare of Texas,"Johnson, Marissa ",5PU3W31QT70,22719,"BEHRHORST, CONSTANCE ",03/14/1958,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,11:00:00,1629474028,PHYSICIANS MUTUAL Supplement,H730106128,,,FU005
+Audentes_Verificayion,AETNA,"Johnson, Marissa ",W289365247,130321,"OLANDER-WATERS, SHERI ",12/05/1974,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,10:30:00,1629474028,,,,,FU005
+Audentes_Verificayion,UHC MEDICARE ADV PPO-AT and T,"Johnson, Marissa ",991150626,19946,"Svehlak, Christina ",10/23/1947,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,11:15:00,1629474028,,,,,FU005
+Audentes_Verificayion,Medicare of Texas,"Johnson, Marissa ",8P53VT9EM73,134926,"Smith, Donald C",10/31/1952,11/19/2025,DC F/U : Dr. Cowan Follow Up,TX,09:14:59.999000,1629474028,AETNA SENIOR SUPPLEMENTAL,ACC6238400,,,FU005
+Audentes_Verificayion,HUMANA Med Adv PPO,"Jones-Gallegos, Chelsey ",H11109924,43788,"Hall, Marcella M",10/13/1965,11/17/2025,DS F/U : DS Follow Up,TX,14:45:00,1790560449,,,,,FU005
+Audentes_Verificayion,Medicare of Texas,"Jones-Gallegos, Chelsey ",9PJ3X44YE09,105598,"Coats, John D",05/06/1945,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,11:00:00,1790560449,BCBS TX Medicare Supplement,ZGM862066746,,,FU005
+Audentes_Verificayion,UHC HEALTHSELECT MEDICARE ADVANTAGE,"Jones-Gallegos, Chelsey ",928737403,64989,"Brown, David M",05/04/1952,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,08:00:00,1790560449,Tricare for Life,452904650,,,FU005
+Audentes_Verificayion,UHC CHOICE PLUS,"Jones-Gallegos, Chelsey ",981114364,104231,"Cannella, Christopher ",07/03/1970,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,08:29:59.999000,1790560449,,,,,FU005
+Audentes_Verificayion,BCBS TX HMO,"Jones-Gallegos, Chelsey ",ZGN944089599,19915,"STROUT, CARLA F.",10/24/1964,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,09:30:00,1790560449,,,,,FU005
+Audentes_Verificayion,Medicare of Texas,"Jones-Gallegos, Chelsey ",1PW0V46HY45,59855,"Cervantes, Alvino ",06/25/1949,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,09:45:00,1790560449,UHC CHOICE PLUS,807814552,Tricare for Life,456767059,FU005
+Audentes_Verificayion,BCBS TX HMO,"Jones-Gallegos, Chelsey ",ZGN923825932,105496,"Nowicki, Stas ",03/20/1969,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,10:44:59.999000,1790560449,,,,,FU005
+Audentes_Verificayion,Tricare Prime (West),"Jones-Gallegos, Chelsey ",458678003,107082,"Barrientos, Laura ",01/30/1978,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,11:00:00,1790560449,,,,,FU005
+Audentes_Verificayion,UHC AARP MEDICARE ADV PPO-WELLMED,"Jones-Gallegos, Chelsey ",950577542,49070,"Laws, Angela S",08/17/1958,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,11:15:00,1790560449,,,,,FU006
+Audentes_Verificayion,UHC Community Plan,"Jones-Gallegos, Chelsey ",527196215,105543,"Leblanc, Theresa ",10/11/1962,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,13:15:00,1790560449,,,,,FU006
+Audentes_Verificayion,BCBS Med Adv,"Jones-Gallegos, Chelsey ",ZZTUG28NG8LS,136924,"Peebles, Rebecca ",09/23/1949,11/18/2025,DG F/U : Dr. Ganti Follow-up,TX,13:44:59.999000,1790560449,,,,,FU006
+Audentes_Verificayion,UHC-AARP MEDICARE ADV HMO-WELLMED,"Jones-Gallegos, Chelsey ",925982125,105553,"Cobb, Gloria N",12/23/1954,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,08:00:00,1790560449,,,,,FU006
+Audentes_Verificayion,UHC AARP MEDICARE ADV PPO-WELLMED,"Jones-Gallegos, Chelsey ",991222423,131207,"VANDEN, URSULA H",10/25/1946,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,08:45:00,1790560449,BCBS of TX Federal,R51067071,,,FU006
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Jones-Gallegos, Chelsey ",114145278,106766,"Moore, Marilyn ",12/19/1955,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,09:45:00,1790560449,,,,,FU006
+Audentes_Verificayion,Medicare of Texas,"Jones-Gallegos, Chelsey ",5JD5JH7PG65,48316,"Walker, Lowell Mark ",08/21/1959,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,10:15:00,1790560449,UHC AARP Supplemental,35739354911,,,FU006
+Audentes_Verificayion,UHC CHOICE PLUS,"Jones-Gallegos, Chelsey ",979971040,48915,"Walker, Eula B",03/05/1954,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,10:44:59.999000,1790560449,HUMANA Med Adv HMO,H10736639,,,FU006
+Audentes_Verificayion,UHC HEALTHSELECT MEDICARE ADVANTAGE,"Jones-Gallegos, Chelsey ",933812444,105948,"Thomas, Patricia ",08/17/1961,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,11:00:00,1790560449,,,,,FU006
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Jones-Gallegos, Chelsey ",121639056,118857,"Reed, Donald ",09/18/1956,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,12:59:59.999000,1790560449,,,,,FU006
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Jones-Gallegos, Chelsey ",132644412,105781,"Jones, Delores ",03/18/1952,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,13:15:00,1790560449,,,,,FU006
+Audentes_Verificayion,HUMANA Med Adv PPO,"Jones-Gallegos, Chelsey ",H67642249,134273,"Kirk, Richard ",11/10/1946,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,13:30:00,1790560449,,,,,FU006
+Audentes_Verificayion,Medicare of Texas,"Jones-Gallegos, Chelsey ",2W98C71PP49,106068,"Montemayor, Olivia ",01/21/1955,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,13:44:59.999000,1790560449,Humana Medicare Supplement,H64690822,,,FU006
+Audentes_Verificayion,HUMANA Med Adv PPO,"Jones-Gallegos, Chelsey ",H03938955,107032,"Krolczyk, Linda ",09/27/1963,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,14:00:00,1790560449,,,,,FU006
+Audentes_Verificayion,SELF PAY,"Jones-Gallegos, Chelsey ",self pay,107116,"Delgadillo, Patricia ",11/10/1966,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,14:15:00,1790560449,,,,,FU006
+Audentes_Verificayion,HUMANA Med Adv PPO,"Jones-Gallegos, Chelsey ",H43302749,106924,"Dodds, Douglas ",09/28/1949,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,14:29:59.999000,1790560449,,,,,FU006
+Audentes_Verificayion,ACHP By SENDERO HEALTH PLAN,"Jones-Gallegos, Chelsey ",94437927901,59015,"Prause, Vicki ",04/08/1965,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,14:45:00,1790560449,,,,,FU006
+Audentes_Verificayion,UHC HEALTHSELECT MEDICARE ADVANTAGE,"Jones-Gallegos, Chelsey ",958943623,106026,"Philips, Layde ",08/27/1954,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,08:15:00,1790560449,,,,,FU006
+Audentes_Verificayion,UHC HEALTHSELECT MEDICARE ADVANTAGE,"Jones-Gallegos, Chelsey ",920849824,106024,"Philips, Ralph ",11/17/1952,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,08:29:59.999000,1790560449,,,,,FU006
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Jones-Gallegos, Chelsey ",116025804,107085,"Garcia, Maria ",06/03/1943,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,09:00:00,1790560449,,,,,FU006
+Audentes_Verificayion,Medicare of Texas,"Jones-Gallegos, Chelsey ",5VD7H65AV37,105584,"Lane, Glenda ",02/13/1949,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,10:30:00,1790560449,Allstate Medicare Supplement,2016994503,,,FU006
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Jones-Gallegos, Chelsey ",132207343,107022,"Coe, Tasha ",02/10/1974,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,09:14:59.999000,1790560449,,,,,FU006
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Jones-Gallegos, Chelsey ",123036230,107027,"Heller, Linda ",04/18/1957,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,09:30:00,1790560449,,,,,FU006
+Audentes_Verificayion,Humana Med Adv Wellmed,"Jones-Gallegos, Chelsey ",H74732588,45440,"Rodriguez, James C",05/05/1955,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,11:00:00,1790560449,,,,,FU006
+Audentes_Verificayion,UHC CHOICE PLUS,"Jones-Gallegos, Chelsey ",052015270,114037,"Botello, Rosie ",05/09/1957,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,08:00:00,1790560449,Medicare of Texas,2FT4GU8UQ84,,,FU006
+Audentes_Verificayion,BCBS OF TX,"Jones-Gallegos, Chelsey ",ZGP847686646,105899,"Baltierra, Margaret ",05/06/1971,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,11:15:00,1790560449,,,,,FU006
+Audentes_Verificayion,Medicare of Texas,"Jones-Gallegos, Chelsey ",9NQ1XK6FJ90,47961,"Johnson, Michael A",07/20/1958,11/19/2025,DG F/U : Dr. Ganti Follow-up,TX,09:59:59.999000,1790560449,UHC AARP Supplemental,34282492611,,,FU006
+Audentes_Verificayion,BCBS TX Health Select,"Patel, Raj ",JEA013546910,119752,"HONEA, KAILA ",03/07/1984,11/18/2025,RP F/U : Dr. Raj Patel Follow Up,TX,16:15:00,1609221787,,,,,FU006
+Audentes_Verificayion,Medicare of Texas,"Patel, Raj ",7XK6N75KP68,145149,"BRIDGES, RUSSELL ",03/19/1955,11/19/2025,LP/WC : Lead Pull/Wound Check,TX,11:45:00,1609221787,AETNA MEDICARE SUPPLEMENT,AHC6297404,,,FU006
+Audentes_Verificayion,SELF PAY,"Phillips, Andrew ",Self pay,130143,"FRANCKE, ERIC ",07/21/1984,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,11:25:00,1669829248,,,,,FU006
+Audentes_Verificayion,AETNA EPO,"Phillips, Andrew ",W294413082,180613,"Smart, Donnie ",06/02/2004,11/19/2025,FT F/U : First Time Follow-up,TX,13:55:00,1669829248,,,,,FU006
+Audentes_Verificayion,UHC AARP MEDICARE COMPLETE FOCUS HMO-WELLMED,"Phillips, Andrew ",993970946,175739,"Mooney, Reba C",08/12/1951,11/19/2025,FT F/U : First Time Follow-up,TX,09:14:59.999000,1669829248,,,,,FU006
+Audentes_Verificayion,Medicare of Texas,"Phillips, Andrew ",2X94K50KA88,118124,"HALEY, TAMI ",11/17/1960,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,12:59:59.999000,1669829248,,,,,FU006
+Audentes_Verificayion,Medicare of Texas,"Phillips, Andrew ",1GY4AA4CT82,176932,"Phelan, Melissa P",07/22/1960,11/19/2025,DP F/U : Dr. Phillips Follow Up,TX,09:00:00,1669829248,ACE Medicare Supplement,2402553533,,,FU006
+Audentes_Verificayion,SELF PAY,"Salazar, Mallorie A",SELF PAY,20711,"Young, Joseph ",08/09/1962,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,08:15:00,1689143109,,,,,FU006
+Audentes_Verificayion,BCBS TX HMO,"Salazar, Mallorie A",ZGN943086293,49991,"Karkoska, Susan ",01/07/1965,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,13:30:00,1689143109,,,,,FU007
+Audentes_Verificayion,UHC HEALTHSELECT MEDICARE ADVANTAGE,"Salazar, Mallorie A",95144262800,176777,"McCorkle, Rose ",10/15/1956,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,10:44:59.999000,1689143109,,,,,FU007
+Audentes_Verificayion,UHC HEALTHSELECT MEDICARE ADVANTAGE,"Salazar, Mallorie A",927928965,46440,"Headley, Marsha L",06/11/1960,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,14:15:00,1689143109,,,,,FU007
+Audentes_Verificayion,HUMANA Med Adv PPO,"Salazar, Mallorie A",H59652372,19832,"Stan, Aurora ",05/11/1960,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,14:45:00,1689143109,,,,,FU007
+Audentes_Verificayion,Medicare of Texas,"Salazar, Mallorie A",1NA8F43XW46,49052,"Ekstrum, Lynne ",06/16/1957,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,08:00:00,1689143109,,,,,FU007
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Salazar, Mallorie A",127429448,18359,"MCNEIL, SHAROLYN ",01/28/1960,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,08:00:00,1689143109,,,,,FU007
+Audentes_Verificayion,BCBS OF TX,"Salazar, Mallorie A",ZGP830228100,18983,"Phelps, Paul ",06/20/1965,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,08:29:59.999000,1689143109,,,,,FU007
+Audentes_Verificayion,SELF PAY,"Salazar, Mallorie A",SELF PAY,20453,"Welton, Ron ",05/14/1967,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,09:59:59.999000,1689143109,,,,,FU007
+Audentes_Verificayion,UHC AARP MEDICARE ADV PPO-WELLMED,"Salazar, Mallorie A",903070025,18773,"Olivarez, Lydia S",12/29/1945,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,11:00:00,1689143109,,,,,FU007
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Salazar, Mallorie A",132308344,16966,"Guerra, Margie ",01/17/1966,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,11:00:00,1689143109,,,,,FU007
+Audentes_Verificayion,BCBS Med Adv,"Salazar, Mallorie A",ZZTUC26CG1AF,49144,"OSAIL, RICHARD W",10/18/1958,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,09:14:59.999000,1689143109,,,,,FU007
+Audentes_Verificayion,Medicare of Texas,"Salazar, Mallorie A",5GM6D50FX75,18542,"Moore, Naomi ",03/14/1959,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,09:30:00,1689143109,,,,,FU007
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Salazar, Mallorie A",123677973,19697,"Clark, Gloria A",03/09/1961,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,10:15:00,1689143109,,,,,FU007
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Salazar, Mallorie A",118050801,68421,"GARCIA, CESAR ",03/21/1960,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,10:30:00,1689143109,,,,,FU007
+Audentes_Verificayion,BCBS OF TX,"Salazar, Mallorie A",WLC825754940,15855,"CLARK, TIANNA ",11/06/1975,11/19/2025,DS F/U : DS Follow Up,TX,11:15:00,1689143109,,,,,FU007
+Audentes_Verificayion,Superior Health Plan,"Salazar, Mallorie A",U9588965701,20007,"Garcia, Clara L",09/24/1990,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,13:15:00,1689143109,BCBS OF TX,ZGP925061763,,,FU007
+Audentes_Verificayion,AmBetter from Superior Healthplan,"Salazar, Mallorie A",UZ074186801,180760,"Jackson, Pamela ",09/22/1967,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,14:29:59.999000,1689143109,,,,,FU007
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Salazar, Mallorie A",122235368,49001,"Jackson, Betty J",01/12/1953,11/19/2025,DS F/U : DS Follow Up,TX,09:45:00,1689143109,,,,,FU007
+Audentes_Verificayion,Medicare of Texas,"Salazar, Mallorie A",4TN2P97WR11,75205,"Ashad, Deborah ",06/12/1953,11/19/2025,DD F/U : Dr. Desai Follow Up,TX,14:00:00,1689143109,CHAMPVA Champus,467040618,,,FU007
+Audentes_Verificayion,Medicare of Texas,"Yaneva, Ivona ",5JG2XA2KY92,117909,"Belmontes, Fernando ",02/16/1931,11/14/2025,DP F/U : Dr. Phillips Follow Up,TX,11:00:00,1164307492,Medicaid QMB TX,528076036,,,FU007
+Audentes_Verificayion,Medicare of Texas,"Yaneva, Ivona ",5T91GU8PW15,99316,"GAINER, BELINDA L",02/17/1980,11/19/2025,DS F/U : DS Follow Up,TX,08:20:00,1164307492,,,,,FU007
+Audentes_Verificayion,BCBS TX Health Select,"Yaneva, Ivona ",JEA004196600,48122,"Casey, Laura ",06/12/1970,11/19/2025,DS F/U : DS Follow Up,TX,09:00:00,1164307492,,,,,FU007
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Yaneva, Ivona ",130723517,17110,"Harrison, Raymond ",09/27/1948,11/19/2025,DS F/U : DS Follow Up,TX,11:20:00,1164307492,,,,,FU007
+Audentes_Verificayion,BCBS OF TX,"Yaneva, Ivona ",ZGP848371464,19267,"Roach, Ronda ",08/23/1967,11/19/2025,DS F/U : DS Follow Up,TX,14:20:00,1164307492,,,,,FU007
+Audentes_Verificayion,Medicare of Texas,"Yaneva, Ivona ",7JF7TK1YG60,123391,"Faubion, Barbara ",09/26/1949,11/19/2025,LP/WC : Lead Pull/Wound Check,TX,12:59:59.999000,1164307492,MUTUAL OF OMAHA INSURANCE COMPANY,80269894,,,FU007
+Audentes_Verificayion,UHC HEALTHSELECT MEDICARE ADVANTAGE,"Yaneva, Ivona ",985713584,175407,"Wright, Charles ",09/08/1957,11/19/2025,DS F/U : DS Follow Up,TX,08:20:00,1164307492,,,,,FU007
+Audentes_Verificayion,UHC AARP MEDICARE ADVANTAGE PPO,"Yaneva, Ivona ",988780697,177503,"Schleicher, Edward ",01/23/1941,11/19/2025,DS F/U : DS Follow Up,TX,11:00:00,1164307492,,,,,FU007
+Audentes_Verificayion,HUMANA Med Adv PPO,"Yaneva, Ivona ",H67974086,17494,"Jeffers, Karen S",04/18/1950,11/19/2025,DS F/U : DS Follow Up,TX,08:00:00,1164307492,Tricare for Life,00378954104,,,FU007
+Audentes_Verificayion,Medicare of Texas,"Yaneva, Ivona ",4J78TC5RP56,18739,"NUNEZ, LISA ",02/18/1970,11/19/2025,DS F/U : DS Follow Up,TX,09:19:59.999000,1164307492,,,,,FU007
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Yaneva, Ivona ",115726010,17420,"HYDER, GARRY ",02/10/1950,11/19/2025,DS F/U : DS Follow Up,TX,09:39:59.999000,1164307492,,,,,FU007
+Audentes_Verificayion,UHC WELLMED chronic complete (HMO-POS C-SNP),"Yaneva, Ivona ",981088501,48992,"Hamilton, Melvina ",11/24/1961,11/19/2025,DS F/U : DS Follow Up,TX,09:59:59.999000,1164307492,,,,,FU007
+Audentes_Verificayion,UHC Choice Plus,"Yaneva, Ivona ",985461056,15410,"BRACK, SHAWN ",08/25/1975,11/19/2025,DS F/U : DS Follow Up,TX,15:00:00,1164307492,,,,,FU007
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Yaneva, Ivona ",120883811,18167,"Marr, Mary ",07/04/1951,11/19/2025,DS F/U : DS Follow Up,TX,10:40:00,1164307492,Medicaid QMB TX,601294932,,,FU007
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Yaneva, Ivona ",961831591,48118,"Scott, Travis I",05/06/1960,11/19/2025,DS F/U : DS Follow Up,TX,08:40:00,1164307492,,,,,FU007
+Audentes_Verificayion,BCBS TX HMO,"Yaneva, Ivona ",VEL925287230,17159,"Hearne, Joseph T",06/03/1964,11/19/2025,DS F/U : DS Follow Up,TX,09:59:59.999000,1164307492,,,,,FU007
+Audentes_Verificayion,AETNA,"Yaneva, Ivona ",W269178354,19121,"RAMEY, SHARLYN ",07/31/1962,11/19/2025,DS F/U : DS Follow Up,TX,10:20:00,1164307492,,,,,FU008
+Audentes_Verificayion,Medicare of Texas,"Yaneva, Ivona ",8C42CG7MP04,48041,"Krueger, Allan ",10/02/1956,11/19/2025,DS F/U : DS Follow Up,TX,11:00:00,1164307492,BCBS TX Health Select Secondary,JYA003934010,,,FU008
+Audentes_Verificayion,Medicare of Texas,"Yaneva, Ivona ",1DU5WC2PF88,18668,"Nelson, Linda K",10/30/1949,11/19/2025,DS F/U : DS Follow Up,TX,12:59:59.999000,1164307492,AETNA SENIOR SUPPLEMENTAL,AHC6369954,,,FU008
+Audentes_Verificayion,BCBS TX HMO,"Yaneva, Ivona ",ZGN925145900,26240,"DIAZ, JUANA ",08/27/1965,11/19/2025,DS F/U : DS Follow Up,TX,13:20:00,1164307492,,,,,FU008
+Audentes_Verificayion,UHC HEALTHSELECT MEDICARE ADVANTAGE,"Yaneva, Ivona ",912583996,18792,"ORTEGA, DEAN ",01/14/1950,11/19/2025,DS F/U : DS Follow Up,TX,14:00:00,1164307492,,,,,FU008
+Audentes_Verificayion,BCBS Med Adv,"Yaneva, Ivona ",ZZT804477442,17218,"HERNANDEZ, MARIO ",11/17/1951,11/19/2025,DS F/U : DS Follow Up,TX,14:40:00,1164307492,,,,,FU008
+Audentes_Verificayion,Medicare of Texas,"Zoeller, Sarah C",5WT1DP4EV00,57348,"Nowotny, CAROLYN ",03/10/1949,11/18/2025,DA F/U : Dr. Amasha Follow Up,TX,13:44:59.999000,1164928289,BCBS TX Medicare Supplement,ZGM860654285,,,FU008
+Audentes_Verificayion,BCBS OF TX,"Zoeller, Sarah C",AXV808260473,19455,"SALER, CHERYL M",02/26/1982,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,08:00:00,1164928289,,,,,FU008
+Audentes_Verificayion,BCBS OF TX,"Zoeller, Sarah C",MBL719M95258,26918,"Bell, Toni L",01/12/1955,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,08:29:59.999000,1164928289,,,,,FU008
+Audentes_Verificayion,BCBS TX Health Select,"Zoeller, Sarah C",JEA000773810,19417,"RUIZ, JAMES M",11/03/1971,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,09:00:00,1164928289,,,,,FU008
+Audentes_Verificayion,BCBS OF TX,"Zoeller, Sarah C",EJN926W14066,60746,"Shindell, J R ",08/14/1972,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,09:30:00,1164928289,,,,,FU008
+Audentes_Verificayion,Medicare of Texas,"Zoeller, Sarah C",2M47PP0GG30,44660,"Watters, Diane S",11/29/1947,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,09:45:00,1164928289,,,,,FU008
+Audentes_Verificayion,BCBS OF TX,"Zoeller, Sarah C",ZGP822802194,108514,"WEATHERSPOON, MAURICE ",07/20/1978,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,13:44:59.999000,1164928289,,,,,FU008
+Audentes_Verificayion,Medicare of Texas,"Zoeller, Sarah C",8HJ1NR6AR00,76489,"Brauneck, DEBRA ",06/13/1957,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,09:30:00,1164928289,MUTUAL OF OMAHA INSURANCE COMPANY,324278-96,,,FU008
+Audentes_Verificayion,Medicare of Texas,"Zoeller, Sarah C",4D58T88TW51,164164,"Boyle, Donna ",12/05/1951,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,14:29:59.999000,1164928289,Humana Medicare Supplement,H08563977,,,FU008
+Audentes_Verificayion,SELF PAY,"Zoeller, Sarah C",Self Pay,19617,"Shelnutt, Margie K",11/17/1957,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,09:59:59.999000,1164928289,BCBS TX Health Select Secondary,JYA003348550,,,FU008
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Zoeller, Sarah C",114117083,51240,"Stevens, Olivia ",10/11/1949,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,10:30:00,1164928289,,,,,FU008
+Audentes_Verificayion,BCBS Med Adv,"Zoeller, Sarah C",ZGD804257884,19819,"SQUIER, STEFANIE ",03/16/1983,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,11:00:00,1164928289,,,,,FU008
+Audentes_Verificayion,SELF PAY,"Zoeller, Sarah C",SELF PAY,17673,"KELLOUGH, KATHY ",09/28/1962,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,13:15:00,1164928289,,,,,FU008
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Zoeller, Sarah C",122273866,66156,"Anderson, Quincy ",09/11/1966,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,14:15:00,1164928289,,,,,FU008
+Audentes_Verificayion,BCBS OF TX,"Zoeller, Sarah C",OCF203120658,125489,"JEFFRIES, VICKIE ",03/14/1959,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,14:29:59.999000,1164928289,,,,,FU008
+Audentes_Verificayion,SELF PAY,"Zoeller, Sarah C",Self Pay,70198,"Johnson, David ",02/26/1969,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,14:45:00,1164928289,,,,,FU008
+Audentes_Verificayion,Medicare of Texas,"Zoeller, Sarah C",7AP0Q14XP31,48054,"Sorrells, Littie A",09/29/1960,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,08:15:00,1164928289,,,,,FU008
+Audentes_Verificayion,BCBS OF TX,"Zoeller, Sarah C",UTS0S36JI1L3,119132,"BARNER, RICHARD ",09/28/1963,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,08:29:59.999000,1164928289,,,,,FU008
+Audentes_Verificayion,BCBS OF TX,"Zoeller, Sarah C",B4X817057287,15628,"CALDWELL, JEFFERY ",08/16/1961,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,08:45:00,1164928289,,,,,FU008
+Audentes_Verificayion,BCBS OF TX,"Zoeller, Sarah C",UTS0L69NE1TV,141131,"Berry, Betsy A",03/18/1954,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,09:14:59.999000,1164928289,,,,,FU008
+Audentes_Verificayion,BCBS OF TX,"Zoeller, Sarah C",WMW16668105W00,18560,"MORENO, BRONWYN ",11/04/1969,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,09:59:59.999000,1164928289,Cigna,13591973,,,FU008
+Audentes_Verificayion,BCBS OF TX,"Zoeller, Sarah C",ZGP831229546,18297,"MCELFISH JR, CLAUDE ",08/31/1951,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,10:15:00,1164928289,,,,,FU008
+Audentes_Verificayion,UHC DUAL COMPLETE FOCUS HMO SNP-WELLMED,"Zoeller, Sarah C",122205008,21473,"Houston, Barbara J",01/11/1955,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,10:44:59.999000,1164928289,,,,,FU008
+Audentes_Verificayion,Medicare of Texas,"Zoeller, Sarah C",4F35YM9YW99,63585,"Singleton, Tony R",01/05/1952,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,11:00:00,1164928289,BCBS of TX Federal,R21472116,,,FU008
+Audentes_Verificayion,Medicare of Texas,"Zoeller, Sarah C",9VJ5WN2VM84,19679,"SINGLETON, BEVERLY ",12/19/1952,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,11:15:00,1164928289,BCBS of TX Federal,R21472116,,,FU008
+Audentes_Verificayion,BCBS OF TX,"Zoeller, Sarah C",NEI801052669,16133,"DAVIS, KATHLEEN S",03/18/1958,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,12:59:59.999000,1164928289,,,,,FU008
+Audentes_Verificayion,UHC CHOICE PLUS,"Zoeller, Sarah C",000591246,182055,"Ibarra, Desarae ",09/27/1995,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,12:59:59.999000,1164928289,,,,,FU008
+Audentes_Verificayion,BCBS OF TX,"Zoeller, Sarah C",W2Z114256864001,20276,"VIATOR, CAROL ",04/02/1956,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,13:30:00,1164928289,,,,,FU008
+Audentes_Verificayion,HUMANA Med Adv PPO,"Zoeller, Sarah C",H01926577,15674,"CAPE, DIANE ",08/27/1947,11/19/2025,DA F/U : Dr. Amasha Follow Up,TX,14:00:00,1164928289,,,,,FU008

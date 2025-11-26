@@ -1,0 +1,20 @@
+{
+  "healthx_url": "https://hxev.jindalx.com/",
+  "user_id": "ENV_HEALTHX_USER_ID",
+  "password": "ENV_HEALTHX_PASSWORD",
+  "input_folder": "inputs",
+  "output_folder": "outputs",
+  "log_folder": "logs",
+  "headless_mode": false,
+  "hx_client_text": "Audentes- Audentes Verification",
+  "agents": [
+    "Agent_1",
+    "Agent_2",
+    "Agent_3",
+    "Agent_4",
+    "Agent_5",
+    "Agent_6",
+    "Agent_7",
+    "Agent_8"
+  ]
+}

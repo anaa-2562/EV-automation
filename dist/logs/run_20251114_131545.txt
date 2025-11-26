@@ -1,0 +1,58 @@
+[13:15:45] ============================================================
+[13:15:45] Audentes Verification Automation Tool - Run Started
+[13:15:45] ============================================================
+[13:15:45] eCW file loaded: eCW_20251114_131545.xlsx
+[13:15:45] Template file loaded: Template_20251114_131545.xlsm
+[13:15:45] Escalation tracker loaded: Escalation_20251114_131545.csv
+[13:15:51] Macro cleanup complete: Audentes_Verification_Cleaned_20251114_131545.xlsx
+[13:15:53] Using escalation tracker: C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\inputs\Escalation_20251114_131545.csv
+[13:15:54] Post-macro filtration complete: PostMacro_Filtered_20251114_131545.xlsx (727 rows)
+  Loaded escalation data from csv:latin-1 (1047503 rows)
+  DEBUG: Columns found in escalation file: ['Category', 'Add On', 'Provider', 'Primary Insurance', 'Account Number', 'Na', 'Dob', 'Dos', 'Visit Type', 'Location', 'Unnamed: 10', 'Co-Pay', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Worked By', 'Unnamed: 17', 'Unnamed: 18', 'Name', '11/11/2025', 'Unnamed: 21', 'Provider Name', 'Unnamed: 23', 'Unnamed: 24', 'Unnamed: 25', 'Unnamed: 26', 'Unnamed: 27']
+  DEBUG: Account column found: Account Number
+  DEBUG: Status column found: None
+  DEBUG: DOS column found: None
+⚠ Escalation file missing required columns: Status (column containing 'status'), Date of Service (column containing 'appointment date' or 'date of service')
+  Available columns: ['Category', 'Add On', 'Provider', 'Primary Insurance', 'Account Number', 'Na', 'Dob', 'Dos', 'Visit Type', 'Location', 'Unnamed: 10', 'Co-Pay', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Worked By', 'Unnamed: 17', 'Unnamed: 18', 'Name', '11/11/2025', 'Unnamed: 21', 'Provider Name', 'Unnamed: 23', 'Unnamed: 24', 'Unnamed: 25', 'Unnamed: 26', 'Unnamed: 27']
+  Skipping escalation filter.
+[13:15:58] Data processed successfully. 164 records remaining.
+[13:15:58] HX output saved: HX_Final_20251114_131558.csv
+[13:15:58] Setting up Chrome browser...
+[13:16:03] Navigating to HealthX: https://hxev.jindalx.com/
+[13:16:11] Navigating to Import screen...
+[13:16:25] Selecting campaign: Audentes- Audentes Verification
+[13:16:29] Selected option: Audentes - Audentes Verification
+[13:16:31] Uploading file to portal...
+[13:16:41] Awaiting upload confirmation...
+[13:16:44] Upload confirmed as successful.
+[13:16:44] Navigating to EV Allocation...
+[13:17:08] Warning: Could not confirm EV initiation (Message: element not interactable
+  (Session info: chrome=142.0.7444.162); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd94093
+	0xd940d4
+	0xb9e56b
+	0xbeb27d
+	0xbdfd65
+	0xc0c90c
+	0xbdf7c4
+	0xc0cac4
+	0xc2ee17
+	0xc0c706
+	0xbdda30
+	0xbded54
+	0x1005744
+	0x100091a
+	0xdbc322
+	0xdac458
+	0xdb31dd
+	0xd9c408
+	0xd9c5cc
+	0xd8675a
+	0x7545fcc9
+	0x772082ae
+	0x7720827e
+).
+[13:17:11] HX upload completed.
+[13:17:14] Upload to HealthX successful.

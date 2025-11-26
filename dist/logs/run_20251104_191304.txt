@@ -1,0 +1,19 @@
+[19:13:04] ============================================================
+[19:13:04] Audentes Verification Automation Tool - Run Started
+[19:13:04] ============================================================
+[19:13:04] eCW file loaded: eCW_20251104_191304.csv
+[19:13:04] Template file loaded: Template_20251104_191304.xlsm
+[19:13:04] Start processing. eCW='eCW_20251104_191304.csv', template='Template_20251104_191304.xlsm'
+[19:13:04] Loading eCW report...
+[19:13:04] Loaded 3725 rows from eCW report
+[19:13:04] Loading Help sheet for lookup rules...
+[19:13:05] Loaded Help sheet with 193 rows
+[19:13:05] Filter 1 skipped: Help sheet or Appointment State column not found
+[19:13:05] Filter 2 (Workable status = Y): 3725 -> 2826 rows
+[19:13:06] Filter 3 (Excluded insurance codes ['L105', 'L107', 'L109C', 'L109Q', 'L109W']): 2826 -> 2810 rows
+[19:13:06] Optional Visit Status filter (PEN/PR): 2810 -> 955 rows
+[19:13:06] Removed empty rows: 955 -> 955 rows
+[19:13:06] Assigning agents (provider-based distribution)...
+[19:13:06] Saving output file: HealthX_Import_20251104_191306.xlsx
+[19:13:08] Building HX CSV using mapping...
+[19:13:08] ERROR: Data processing failed: array length 955 does not match index length 1872

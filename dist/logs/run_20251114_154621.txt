@@ -1,0 +1,52 @@
+[15:46:21] ============================================================
+[15:46:21] Audentes Verification Automation Tool - Run Started
+[15:46:21] ============================================================
+[15:46:21] eCW file loaded: eCW_20251114_154621.xlsx
+[15:46:21] Template file loaded: Template_20251114_154621.xlsm
+[15:46:22] Escalation tracker loaded: Escalation_20251114_154621.csv
+[15:46:27] Macro cleanup complete: Audentes_Verification_Cleaned_20251114_154621.xlsx
+[15:46:27] Using escalation tracker: C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\inputs\Escalation_20251114_154621.csv
+[apply_escalation_filter] Loaded escalation data from csv:utf-8 (29 rows)
+[apply_escalation_filter] Extracted 29 escalation accounts
+[apply_escalation_filter] Removed 19 rows via escalation filter (remaining 794)
+[15:46:30] Data processed successfully. 794 records remaining.
+[15:46:30] HX output saved: HX_Final_20251114_154630.csv
+[15:46:30] Setting up Chrome browser...
+[15:46:34] Navigating to HealthX: https://hxev.jindalx.com/
+[15:46:39] Navigating to Import screen...
+[15:46:53] Selecting campaign: Audentes- Audentes Verification
+[15:46:56] Selected option: Audentes - Audentes Verification
+[15:46:58] Uploading file to portal...
+[15:47:20] Awaiting upload confirmation...
+[15:52:37] Upload confirmation not detected within 300s timeout. Proceeding anyway...
+[15:52:37] Navigating to EV Allocation...
+[15:53:01] Warning: Could not confirm EV initiation (Message: element not interactable
+  (Session info: chrome=142.0.7444.162); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd94093
+	0xd940d4
+	0xb9e56b
+	0xbeb27d
+	0xbdfd65
+	0xc0c90c
+	0xbdf7c4
+	0xc0cac4
+	0xc2ee17
+	0xc0c706
+	0xbdda30
+	0xbded54
+	0x1005744
+	0x100091a
+	0xdbc322
+	0xdac458
+	0xdb31dd
+	0xd9c408
+	0xd9c5cc
+	0xd8675a
+	0x7545fcc9
+	0x772082ae
+	0x7720827e
+).
+[15:53:04] HX upload completed.
+[15:53:07] Upload to HealthX successful.

@@ -1,0 +1,9 @@
+[17:16:29] ============================================================
+[17:16:29] Audentes Verification Automation Tool - Run Started
+[17:16:29] ============================================================
+[17:16:29] eCW file loaded: eCW_20251103_171629.xlsx
+[17:16:29] Template file loaded: Template_20251103_171629.xlsm
+[17:16:29] Start processing. eCW='eCW_20251103_171629.xlsx', template='Template_20251103_171629.xlsm'
+[17:16:29] Loading eCW report...
+[17:16:30] ERROR: Error during data processing: Can't find workbook in OLE2 compound document
+[17:16:30] ERROR: Data processing failed: Error during data processing: Can't find workbook in OLE2 compound document

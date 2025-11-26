@@ -1,0 +1,94 @@
+[16:24:20] ============================================================
+[16:24:20] Audentes Verification Automation Tool - Run Started
+[16:24:20] ============================================================
+[16:24:20] eCW file loaded: eCW_20251112_162420.csv
+[16:24:20] Template file loaded: Template_20251112_162420.xlsm
+[16:24:23] Macro cleanup complete: Audentes_Verification_Cleaned_20251112_162420.xlsx
+[16:24:26] Data processed successfully. 3255 records remaining.
+[16:24:26] HX output saved: HX_Final_20251112_162426.csv
+[16:24:26] Setting up Chrome browser...
+[16:24:35] Navigating to HealthX: https://hxev.jindalx.com/
+[16:24:55] Navigating to Import screen...
+[16:25:30] Selecting campaign: Audentes- Audentes Verification
+[16:26:18] ERROR: Upload failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x814093
+	0x8140d4
+	0x61e71d
+	0x66a03d
+	0x66a41b
+	0x6b17f2
+	0x68c954
+	0x6aee17
+	0x68c706
+	0x65da30
+	0x65ed54
+	0xa85744
+	0xa8091a
+	0x83c322
+	0x82c458
+	0x8331dd
+	0x81c408
+	0x81c5cc
+	0x80675a
+	0x7545fcc9
+	0x772082ae
+	0x7720827e
+
+[16:26:18] Traceback (most recent call last):
+  File "upload_hx.py", line 87, in hx_upload
+  File "selenium\webdriver\support\wait.py", line 138, in until
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x814093
+	0x8140d4
+	0x61e71d
+	0x66a03d
+	0x66a41b
+	0x6b17f2
+	0x68c954
+	0x6aee17
+	0x68c706
+	0x65da30
+	0x65ed54
+	0xa85744
+	0xa8091a
+	0x83c322
+	0x82c458
+	0x8331dd
+	0x81c408
+	0x81c5cc
+	0x80675a
+	0x7545fcc9
+	0x772082ae
+	0x7720827e
+
+
+[16:26:20] Upload failed: Upload failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x814093
+	0x8140d4
+	0x61e71d
+	0x66a03d
+	0x66a41b
+	0x6b17f2
+	0x68c954
+	0x6aee17
+	0x68c706
+	0x65da30
+	0x65ed54
+	0xa85744
+	0xa8091a
+	0x83c322
+	0x82c458
+	0x8331dd
+	0x81c408
+	0x81c5cc
+	0x80675a
+	0x7545fcc9
+	0x772082ae
+	0x7720827e
+

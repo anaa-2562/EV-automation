@@ -1,0 +1,663 @@
+Patient Name,Appointment Provider Name,Appointment Location,Appointment Date,Visit Type,Allocation Group,Allocation Priority,_alloc_seq,Assigned Agent
+"Chamberlain, Patricia ","Harlander-Locke, Michael ",CO,2025-11-19 00:00:00,NP : New Patient,NP,NP001,1,Agent-1
+"Weeth, Tabitha M","Harlander-Locke, Michael ",CO,2025-11-21 00:00:00,NP : New Patient,NP,NP001,1,Agent-1
+"Gladfelter, Elizabeth R","Meyer, Mark ",CO,2025-11-17 00:00:00,NP : New Patient,NP,NP001,1,Agent-2
+"Santistevan, Martin ","Sandell, Timothy ",CO,2025-11-20 00:00:00,NP EMG : NEW PATIENT EMG,NP,NP001,1,Agent-3
+"Ortega, Elroy ","Sandell, Timothy ",CO,2025-11-21 00:00:00,NP EMG : NEW PATIENT EMG,NP,NP001,1,Agent-3
+"Rodriguez, Jose A","Sandell, Timothy ",CO,2025-11-21 00:00:00,NP EMG : NEW PATIENT EMG,NP,NP001,1,Agent-3
+"Johnson, Paul W","Sandell, Timothy ",CO,2025-11-21 00:00:00,NP EMG : NEW PATIENT EMG,NP,NP001,1,Agent-3
+"Herrera, Eric ","Winkler, Zachary ",CO,2025-11-17 00:00:00,NP : New Patient,NP,NP001,1,Agent-4
+"Perea, Joann R","Winkler, Zachary ",CO,2025-11-18 00:00:00,NP : New Patient,NP,NP001,1,Agent-4
+"Cumming, Daniel ","Winkler, Zachary ",CO,2025-11-20 00:00:00,NP : New Patient,NP,NP001,1,Agent-4
+"Harrison, Sharon K","Winkler, Zachary ",CO,2025-11-21 00:00:00,NP : New Patient,NP,NP001,1,Agent-4
+"Ramirez, Glenell R","Winkler, Zachary ",CO,2025-11-21 00:00:00,NP : New Patient,NP,NP001,1,Agent-4
+"Davis, Albert K","Winkler, Zachary ",CO,2025-11-21 00:00:00,NP : New Patient,NP,NP001,1,Agent-4
+"Dantzer, Sandra K","Winkler, Zachary ",CO,2025-11-21 00:00:00,NP : New Patient,NP,NP001,1,Agent-4
+"Clark, Letha M","Winkler, Zachary ",CO,2025-11-21 00:00:00,NP : New Patient,NP,NP002,2,Agent-4
+"Nielsen, Mark W","Winkler, Zachary ",CO,2025-11-21 00:00:00,NP : New Patient,NP,NP002,2,Agent-4
+"Villarreal, Jessica ","Beck, Jeffrey ",IN,2025-11-20 00:00:00,NP : New Patient,NP,NP002,2,Agent-5
+"Orban, Cynthia ","Beck, Jeffrey ",IN,2025-11-20 00:00:00,NP : New Patient,NP,NP002,2,Agent-5
+"Quinones, Cynthia E","Beck, Jeffrey ",IN,2025-11-20 00:00:00,NP : New Patient,NP,NP002,2,Agent-5
+"Harris, Terry A","Beck, Jeffrey ",IN,2025-11-20 00:00:00,NP : New Patient,NP,NP002,2,Agent-5
+"Schofner, Christopher ","Beck, Jeffrey ",IN,2025-11-20 00:00:00,NP : New Patient,NP,NP002,2,Agent-5
+"Wever, Cimaron S","Beck, Jeffrey ",IN,2025-11-20 00:00:00,NP : New Patient,NP,NP002,2,Agent-5
+"Bafford, Colleen M","Hasert, Adreona ",IN,2025-11-19 00:00:00,NP : New Patient,NP,NP002,2,Agent-6
+"Pope, Josette E","Nelson, Betsy ",IN,2025-11-20 00:00:00,NP : New Patient,NP,NP002,2,Agent-7
+"Brewer, Tara ","Nelson, Betsy ",IN,2025-11-20 00:00:00,NP : New Patient,NP,NP002,2,Agent-7
+"Gunson, Carrie ","Nelson, Betsy ",IN,2025-11-20 00:00:00,NP : New Patient,NP,NP002,2,Agent-7
+"Taylor, George ","Nelson, Betsy ",IN,2025-11-20 00:00:00,NP : New Patient,NP,NP002,2,Agent-7
+"Allen, Rick D","Nelson, Betsy ",IN,2025-11-21 00:00:00,NP : New Patient,NP,NP002,2,Agent-7
+"Reneau, Dawn ","Nelson, Betsy ",IN,2025-11-21 00:00:00,NP : New Patient,NP,NP003,3,Agent-7
+"Zoeller, Julie ","Nelson, Betsy ",IN,2025-11-21 00:00:00,NP : New Patient,NP,NP003,3,Agent-7
+"Ray, Cheryl ","Andres, Kevin C",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP003,3,Agent-8
+"Belleny, Michael ","Andres, Kevin C",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP003,3,Agent-8
+"Vowels, Jerry ","Andres, Kevin C",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP003,3,Agent-8
+"Spink, Don ","Andres, Kevin C",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP003,3,Agent-8
+"Ayers, Alicia ","Andres, Kevin C",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP003,3,Agent-8
+"Mafoua, Simplice ","Andres, Kevin C",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP003,3,Agent-8
+"Lerner, Sheena ","Andres, Kevin C",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP003,3,Agent-8
+"Hill, Sharon ","Andres, Kevin C",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP003,3,Agent-8
+"Wolz, Herbert ","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP003,3,Agent-1
+"Wylie, James M","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP003,3,Agent-1
+"Hardin, John J","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP003,3,Agent-1
+"Gardner, Sherri ","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP003,3,Agent-1
+"Rigdon, Bobby ","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"Brown, Barry Duane ","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"Minks, Cynthia A","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"Fields, William L","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"Deitz, Jackie ","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"Deitz, Keith ","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"Morris, Garvis ","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"James, Bryan ","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"McCoy, Brandi ","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"Chambers, Larry ","Carlock, Joseph B",KY,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"Whitehead, Michelle ","Carlock, Joseph B",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"Anderson, Timothy ","Carlock, Joseph B",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"Dewitt, William A","Carlock, Joseph B",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"Paul, John R","Carlock, Joseph B",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP004,4,Agent-1
+"Drake, Stephen C","Carlock, Joseph B",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP005,5,Agent-1
+"Donaldson, Gaylia L","Carlock, Joseph B",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP005,5,Agent-1
+"Jonas, Eileen ","Carlock, Joseph B",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP005,5,Agent-1
+"Taylor, April R","Carlock, Joseph B",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP005,5,Agent-1
+"Francis, Anna ","Carlock, Joseph B",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP005,5,Agent-1
+"Jones, Kimberly ","Razeeq, Dominique J",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP005,5,Agent-2
+"Buckler, Chantel ","Razeeq, Dominique J",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP005,5,Agent-2
+"Asbury, Donna L","Razeeq, Dominique J",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP005,5,Agent-2
+"Beatty, Bethany ","Razeeq, Dominique J",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP005,5,Agent-2
+"Price, Dominique D","Razeeq, Dominique J",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP005,5,Agent-2
+"Paris, Colleen ","Razeeq, Dominique J",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP005,5,Agent-2
+"Jeffries, Jennifer E","Razeeq, Dominique J",KY,2025-11-21 00:00:00,NEW : New Patient - OH/KY,NP,NP005,5,Agent-2
+"WILSON, CARLOS R","Kim, Jenny J",OH,2025-11-18 00:00:00,MCD New : Medicaid Patient - New,NP,NP005,5,Agent-3
+"Chattin, Sherry L","Kim, Jenny J",OH,2025-11-21 00:00:00,NP : New Patient,NP,NP005,5,Agent-3
+"Gordon, David M","Mosley, Dwight E",OH,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP006,6,Agent-4
+"Bowman, Maria ","Mosley, Dwight E",OH,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP006,6,Agent-4
+"Mullins, Ty E","Mosley, Dwight E",OH,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP006,6,Agent-4
+"Cuevas, Leroy ","Mosley, Dwight E",OH,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP006,6,Agent-4
+"Coakley, Seth ","Mosley, Dwight E",OH,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP006,6,Agent-4
+"Sarpong, Nana K","Mosley, Dwight E",OH,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP006,6,Agent-4
+"Byrd, Lloyd ","Mosley, Dwight E",OH,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP006,6,Agent-4
+"Kaur, Baljit ","Mosley, Dwight E",OH,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP006,6,Agent-4
+"Singh, Ranjit ","Mosley, Dwight E",OH,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP006,6,Agent-4
+"Koonce, Carl E","Mosley, Dwight E",OH,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP006,6,Agent-4
+"Jones, Mark ","Mosley, Dwight E",OH,2025-11-20 00:00:00,NEW : New Patient - OH/KY,NP,NP006,6,Agent-4
+"Moreno, Alyssa R","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,NP : New Patient,NP,NP006,6,Agent-5
+"TRUYENQUE, ERICK ","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,NP : New Patient,NP,NP006,6,Agent-5
+"Stirling, Elizabeth ","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,NP : New Patient,NP,NP006,6,Agent-5
+"Vargas, Stephanie ","Amasha, Raimy ",TX,2025-11-18 00:00:00,NP : New Patient,NP,NP007,7,Agent-6
+"Eriksen, Michael M","Amasha, Raimy ",TX,2025-11-20 00:00:00,NP : New Patient,NP,NP007,7,Agent-6
+"Alaniz, Jennifer ","Amasha, Raimy ",TX,2025-11-20 00:00:00,NP : New Patient,NP,NP007,7,Agent-6
+"Smith, Gregrey ","Amasha, Raimy ",TX,2025-11-20 00:00:00,NP : New Patient,NP,NP007,7,Agent-6
+"Eriksen, Julia ","Amasha, Raimy ",TX,2025-11-21 00:00:00,NP : New Patient,NP,NP007,7,Agent-6
+"SMITH, Stacy ","Crook, Gretchen ",TX,2025-11-17 00:00:00,NP : New Patient,NP,NP007,7,Agent-7
+"Olivarez, Adelina ","Crook, Gretchen ",TX,2025-11-19 00:00:00,NP : New Patient,NP,NP007,7,Agent-7
+"Tucker, Rachael ","Crook, Gretchen ",TX,2025-11-20 00:00:00,NP : New Patient,NP,NP007,7,Agent-7
+"Schmidt, John ","Crook, Gretchen ",TX,2025-11-21 00:00:00,NP : New Patient,NP,NP007,7,Agent-7
+"Corum, Robin ","Desai, Anjuli ",TX,2025-11-17 00:00:00,NP EMG : NEW PATIENT EMG,NP,NP007,7,Agent-8
+"Aldaya, Cynthia M","Desai, Anjuli ",TX,2025-11-19 00:00:00,NP : New Patient,NP,NP007,7,Agent-8
+"Cella, Ryan ","Desai, Anjuli ",TX,2025-11-19 00:00:00,NP : New Patient,NP,NP007,7,Agent-8
+"Butter, Robin ","Desai, Anjuli ",TX,2025-11-19 00:00:00,NP : New Patient,NP,NP007,7,Agent-8
+"Curtis Gough, Marissa L","Ganti, Bhaskara ",TX,2025-11-18 00:00:00,NP : New Patient,NP,NP008,8,Agent-1
+"LEVINE, JEFFREY T","Ganti, Bhaskara ",TX,2025-11-18 00:00:00,NP : New Patient,NP,NP008,8,Agent-1
+"Hamilton, Steven ","Patel, Raj ",TX,2025-11-17 00:00:00,NP : New Patient,NP,NP008,8,Agent-2
+"Hetrick, Jason ","Patel, Raj ",TX,2025-11-17 00:00:00,NP : New Patient,NP,NP008,8,Agent-2
+"Cartamo, Janeth ","Patel, Raj ",TX,2025-11-20 00:00:00,NP : New Patient,NP,NP008,8,Agent-2
+"Preuss, Sloan A","Patel, Raj ",TX,2025-11-21 00:00:00,NP : New Patient,NP,NP008,8,Agent-2
+"Clemmer, Nancy M","Patel, Raj ",TX,2025-11-21 00:00:00,NP : New Patient,NP,NP008,8,Agent-2
+"Stroud, David ","Phillips, Andrew ",TX,2025-11-19 00:00:00,NP : New Patient,NP,NP008,8,Agent-3
+"Frankevich, Gail ","Phillips, Andrew ",TX,2025-11-19 00:00:00,NP : New Patient,NP,NP008,8,Agent-3
+"Clayton, Kashawna ","Phillips, Andrew ",TX,2025-11-19 00:00:00,NP : New Patient,NP,NP008,8,Agent-3
+"Williams, Marcus ","Phillips, Andrew ",TX,2025-11-19 00:00:00,NP : New Patient,NP,NP008,8,Agent-3
+"Kimbrough, Antwaine ","Phillips, Andrew ",TX,2025-11-19 00:00:00,NP : New Patient,NP,NP008,8,Agent-3
+"Hurrell, Jason R","Phillips, Andrew ",TX,2025-11-19 00:00:00,NP : New Patient,NP,NP008,8,Agent-3
+"Potter, Joyce ","DeSantis, Maria ",CO,2025-11-19 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-4
+"VASQUEZ, CRAIG T","DeSantis, Maria ",CO,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-4
+"GARCIA PEREZ, RAUL A","DeSantis, Maria ",CO,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-4
+"Moore, Gary L","DeSantis, Maria ",CO,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-4
+"WALKER, LUCY V","DeSantis, Maria ",CO,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-4
+"Wilmoth, Nancy J","DeSantis, Maria ",CO,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-4
+"LAWRENCE-ROSEN, MARGARET E","DeSantis, Maria ",CO,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-4
+"Brown, Arlis ","DeSantis, Maria ",CO,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-4
+"Wingo, Nikeithia M","DeSantis, Maria ",CO,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-4
+"Christiansen, Catherine ","DeSantis, Maria ",CO,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-4
+"Butorac, Michele ","DeSantis, Maria ",CO,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-4
+"PARTLOW, KIMBERLY L","DeSantis, Maria ",CO,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-4
+"Grigsby, Chad ","DeSantis, Maria ",CO,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-4
+"Arrowsmith, Suzan ","DeSantis, Maria ",CO,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-4
+"WILLIAMS, GLENN ","DeSantis, Maria ",CO,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-4
+"HALL, PATRICK R","DeSantis, Maria ",CO,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-4
+"Morr, Debra ","DeSantis, Maria ",CO,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-4
+"Lowery, John M","Harlander-Locke, Michael ",CO,2025-11-19 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-1
+"Croker, Joyce ","Harlander-Locke, Michael ",CO,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-1
+"Thyne, Valerie ","Harlander-Locke, Michael ",CO,2025-11-21 00:00:00,PX F/U : Procedure Follow-Up,FU,FU004,4,Agent-1
+"Solomon, Berton J","Harlander-Locke, Michael ",CO,2025-11-21 00:00:00,PX F/U : Procedure Follow-Up,FU,FU004,4,Agent-1
+"Allen, William ","Harlander-Locke, Michael ",CO,2025-11-21 00:00:00,PX F/U : Procedure Follow-Up,FU,FU004,4,Agent-1
+"Gill, Mark C","Harlander-Locke, Michael ",CO,2025-11-21 00:00:00,PX F/U : Procedure Follow-Up,FU,FU004,4,Agent-1
+"Garner, Katie ","Harlander-Locke, Michael ",CO,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-1
+"Kemper, John H","Harlander-Locke, Michael ",CO,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-1
+"HENRY, KATHRYN ","Jurkiewicz, Patience ",CO,2025-11-17 00:00:00,MM F/U : Dr. Meyer Follow Up,FU,FU005,5,Agent-5
+"Soderstrom, Katherine M","Jurkiewicz, Patience ",CO,2025-11-20 00:00:00,MM F/U : Dr. Meyer Follow Up,FU,FU005,5,Agent-5
+"RACICOT, VALENTYNA ","Jurkiewicz, Patience ",CO,2025-11-20 00:00:00,PX F/U : Procedure Follow-Up,FU,FU005,5,Agent-5
+"VAUGHAN, GENEVA A","Jurkiewicz, Patience ",CO,2025-11-20 00:00:00,PX F/U : Procedure Follow-Up,FU,FU005,5,Agent-5
+"PERALES-CONTRACT, TINA M","Jurkiewicz, Patience ",CO,2025-11-20 00:00:00,MM F/U : Dr. Meyer Follow Up,FU,FU005,5,Agent-5
+"Bergquist, Whitney ","Jurkiewicz, Patience ",CO,2025-11-20 00:00:00,PX F/U : Procedure Follow-Up,FU,FU006,6,Agent-5
+"McNemar, Carrie A","Jurkiewicz, Patience ",CO,2025-11-21 00:00:00,MM F/U : Dr. Meyer Follow Up,FU,FU006,6,Agent-5
+"Mcallister, Newman ","Jurkiewicz, Patience ",CO,2025-11-21 00:00:00,MM F/U : Dr. Meyer Follow Up,FU,FU006,6,Agent-5
+"Zeidman, Peter J","Jurkiewicz, Patience ",CO,2025-11-21 00:00:00,MM F/U : Dr. Meyer Follow Up,FU,FU006,6,Agent-5
+"ChandlerSiggers, Casie J","Jurkiewicz, Patience ",CO,2025-11-21 00:00:00,MM F/U : Dr. Meyer Follow Up,FU,FU006,6,Agent-5
+"NICKEL, VIRGINIA ","Jurkiewicz, Patience ",CO,2025-11-21 00:00:00,MM F/U : Dr. Meyer Follow Up,FU,FU007,7,Agent-5
+"Coffing Lee, Joyce A","Jurkiewicz, Patience ",CO,2025-11-21 00:00:00,PX F/U : Procedure Follow-Up,FU,FU007,7,Agent-5
+"Henry, Carlina K","Jurkiewicz, Patience ",CO,2025-11-21 00:00:00,PX F/U : Procedure Follow-Up,FU,FU007,7,Agent-5
+"BLANCHETTE, PATRICIA L","Jurkiewicz, Patience ",CO,2025-11-21 00:00:00,MM F/U : Dr. Meyer Follow Up,FU,FU007,7,Agent-5
+"Medrick, Lidiya ","Meyer, Mark ",CO,2025-11-19 00:00:00,MM F/U : Dr. Meyer Follow Up,FU,FU007,7,Agent-2
+"ESCHENBERG, GARY H","Meyer, Mark ",CO,2025-11-20 00:00:00,MM F/U : Dr. Meyer Follow Up,FU,FU008,8,Agent-2
+"Evers, Sondra K","Meyer, Mark ",CO,2025-11-20 00:00:00,MM F/U : Dr. Meyer Follow Up,FU,FU008,8,Agent-2
+"FERO, LESLIE K","Sandell, Timothy ",CO,2025-11-18 00:00:00,TS F/U : Dr. Sandell Follow Up,FU,FU008,8,Agent-3
+"Martinez, Barbara ","Sandell, Timothy ",CO,2025-11-21 00:00:00,TS F/U : Dr. Sandell Follow Up,FU,FU008,8,Agent-3
+"Rivera, Jose ","Sandell, Timothy ",CO,2025-11-21 00:00:00,TS F/U : Dr. Sandell Follow Up,FU,FU008,8,Agent-3
+"Pruett, Evelyn ","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-5
+"Nolting, Lorrie ","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-5
+"Breeden, Dietrich ","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-5
+"Neville, Brittany ","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-5
+"Carnes, Denisa ","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-5
+"Davis, Larry L","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-5
+"Earle, Jeremy J","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-5
+"Williams, Chellia S","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-5
+"BEX, SHEILA F","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-5
+"Cook, Donald R","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-5
+"Wagoner, Keith A","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-5
+"Stuckey, Jeffrey D","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-5
+"Porter, Susan L","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-5
+"Lane, David A","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-5
+"Turk, Sandra V","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-5
+"Minderman, Jennifer ","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-5
+"Hatfield, Freida E","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-5
+"Barber, Renee ","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-5
+"Wood, Teresa L","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-5
+"PERINE, JENNIFER ","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-5
+"MOUNT, BRENDA J","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-5
+"GLOTZBACH, KELLY ","Beck, Jeffrey ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-5
+"Sirvent, Mollie B","Hasert, Adreona ",IN,2025-11-19 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-6
+"Smith, Emily ","Hasert, Adreona ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-6
+"Remaly, Peetie R","Hasert, Adreona ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-6
+"Hernandez, Maria Elena ","Hasert, Adreona ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-6
+"DURHAM, MILDRED L","Hasert, Adreona ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-6
+"WHITAKER, SANDRA L","Hasert, Adreona ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-6
+"SUMPTER, DONALD O","Hasert, Adreona ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-6
+"MULLIKIN, SUSAN E","Hasert, Adreona ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-6
+"Alexander, John K","Hasert, Adreona ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-6
+"Richards, Natalie ","Hasert, Adreona ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-6
+"SILVERTHORN, JOHN ","Nelson, Betsy ",IN,2025-11-18 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-7
+"MILLEMON, LARRY J","Nelson, Betsy ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-7
+"Shafer, Carolyn ","Nelson, Betsy ",IN,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-7
+"Obrien, Eric ","Nelson, Betsy ",IN,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-7
+"Richmond, Carolyn Sue ","Nelson, Betsy ",IN,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-7
+"Webb, John J","Nelson, Betsy ",IN,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-7
+"Charleswood, Schanel ","Nelson, Betsy ",IN,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-7
+"Honeas, Vicky L","Nelson, Betsy ",IN,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-7
+"Thomas, Donna D","Nelson, Betsy ",IN,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-7
+"Combs, Thalia ","Nelson, Betsy ",IN,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-7
+"Stevens, Susan ","Nelson, Betsy ",IN,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-7
+"Tomey, Karla ","Nelson, Betsy ",IN,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-7
+"Tucker, William ","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"LEWIS, CHARLES ALLAN ","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"Coyle, Harold ","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"Fines, Tracey L","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"Adams, Tonia R","Barrowes, Latina M",KY,2025-11-20 00:00:00,FT F/U : First Time Follow-up,FU,FU001,1,Agent-6
+"Vaught, Kimberly L","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"Neely, Stephan J","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"Fortner, Carla ","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"WILLIAMS, MARCUS ","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"Charlton, Louis E","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"Kerr, Stuart A","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"Whisman, Alberta ","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"Morris, Rachelle ","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"Compton, Angela ","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"ROBINSON, WILLIAM D","Barrowes, Latina M",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"Frega, Jamianne ","Barrowes, Latina M",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"DOSS, RENEE ","Barrowes, Latina M",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-6
+"Bailey, Calantha ","Barrowes, Latina M",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-6
+"LAY, PAIGE A","Barrowes, Latina M",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-6
+"Mello, Sarah ","Barrowes, Latina M",KY,2025-11-21 00:00:00,FT F/U : First Time Follow-up,FU,FU002,2,Agent-6
+"Webb, Linda ","Barrowes, Latina M",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-6
+"Webb, Charles ","Barrowes, Latina M",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-6
+"Williams, Angela ","Barrowes, Latina M",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-6
+"Sutherland, Sandra F","Barrowes, Latina M",KY,2025-11-21 00:00:00,FT F/U : First Time Follow-up,FU,FU002,2,Agent-6
+"GRONBERG, BRIAN ","Barrowes, Latina M",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-6
+"White, Joseph D","Barrowes, Latina M",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-6
+"Gibson, Constance ","Barrowes, Latina M",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-6
+"DUNCAN, JOHN A","Barrowes, Latina M",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-6
+"Peters, Paula F","Barrowes, Latina M",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-6
+"McClanahan, Christopher C","Barrowes, Latina M",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-6
+"Schutz, Tiffany L","Brackett, Aletha ",KY,2025-11-19 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-7
+"Russ, Roxanne ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-7
+"Hornback, Susan Kay ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-7
+"SCOTT, CHARLES ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-7
+"Peters, Shannon Marie ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"Milby, Roxann ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"Crowder, Tammy ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"CARTWRIGHT, ANDREW C","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"ALEXANDER, LINDA ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"VEST, WILLIAM L","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"Rickman, Margit ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"MOSLEY, JACK H","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"DEAUSEAULT, James ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"TUCKER, VICKI L","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"Phelps, Patricia ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"Rector, Kenneth ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"Rector, Patricia G","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"Thurman, Earl M","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"STRONG, MITCHELL L","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"Garnett, Brenna ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-7
+"Ditto, Raymond L","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-7
+"Hall, Robert ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-7
+"Gidcumb, Larry ","Brackett, Aletha ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-7
+"Robbins, Kevin ","Brown, Sarah ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-8
+"Adams, Deborah W","Brown, Sarah ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-8
+"Tucker, James L","Brown, Sarah ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-8
+"KNOPP, TERRY ","Brown, Sarah ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-8
+"Skaggs, Sue ","Brown, Sarah ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-8
+"Whitlock, Shameeka J","Brown, Sarah ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-8
+"Carrington, Kyren V","Brown, Sarah ",KY,2025-11-20 00:00:00,FT F/U : First Time Follow-up,FU,FU004,4,Agent-8
+"Wilcox, Mable P","Brown, Sarah ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-8
+"WADLINGTON, TERRIKA ","Brown, Sarah ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-8
+"Mcclain, Rita ","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-8
+"GRANDMAISON, CHARLES T","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-8
+"Pence, William ","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-8
+"Roberts, Cindy ","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-8
+"Cain, Deborah L","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-8
+"Steward-Burton, Christina L","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-8
+"Caplinger, Frances A","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-8
+"Jarzynka, Charles ","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-8
+"Clayton, Dadrea ","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-8
+"GOWER, TERESA ","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-8
+"Nunez, Rebecca ","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-8
+"Gafford, Cathleen ","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-8
+"French Sutton, Cindy L","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-8
+"Jackson, Wileenda P","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-8
+"SEARS, JAMES A","Brown, Sarah ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-8
+"Mashack, Ramona ","Carlock, Joseph B",KY,2025-11-18 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-1
+"Carwile, Tammy ","Carlock, Joseph B",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-1
+"WEBB, NOLETHA ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-1
+"Robinson, Craig S","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-1
+"Earvin, Jackie ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-1
+"Fowler, Patricia ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"Satterly, Bonnie ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"Bangasser, Beth A","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"CUNDIFF BURTON, VICKI ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"FOSTER, MARILYN ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"Corum, Lucinda ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"RUMMAGE, JAMES ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"Hill, April ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"Herrera, Diane ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"Sullivan, Michele L","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"Juett, Barbara ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"Hume, Stephen W","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"Mouser, Brenda ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"Hughes, Wanda ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"Walker, Albert R","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"Childress, Charles ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-1
+"Clinard, Bruce ","Christy, Geneva ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-1
+"Holcomb, Loretta ","Christy, Geneva ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-1
+"Speer, Leslie M","Christy, Geneva ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-1
+"Bright, Sharon ","Christy, Geneva ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-1
+"Mizner, Arlene R","Christy, Geneva ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-1
+"KLEBBA, TIMOTHY ","Christy, Geneva ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-1
+"EVANS, SANDRA ","Christy, Geneva ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-1
+"Myers, Crystal D","Christy, Geneva ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-1
+"HAGERMAN, MARY ","Kessler, Anna ",KY,2025-11-19 00:00:00,Pump & F/U : Pump Refill and separate follow up,FU,FU007,7,Agent-2
+"Lawson, James C","Kessler, Anna ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-2
+"CARROLL, GARY ","Kessler, Anna ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-2
+"Darby, John ","Kessler, Anna ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-2
+"Eberle, Vicki ","Kessler, Anna ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-2
+"MASON, TIFFANIE M","Kessler, Anna ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-2
+"Farris, Robert ","Kessler, Anna ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-2
+"Hudgens, Alyse ","Kessler, Anna ",KY,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-2
+"GRACIA, Victor ","Kessler, Anna ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"Simpson, Anissia ","Kessler, Anna ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"Foster, Hugh ","Kessler, Anna ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"Gomez, Johna ","Kessler, Anna ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"Cornett, Roy ","Kessler, Anna ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"Richardson, Donisha A","Kessler, Anna ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"MOORE, TERI ","Kessler, Anna ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"Betts, Regenia M","Kessler, Anna ",KY,2025-11-21 00:00:00,FT F/U : First Time Follow-up,FU,FU008,8,Agent-2
+"Shivers, Beulah ","Kessler, Anna ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"Hardin, Norman ","Kessler, Anna ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"OTIS, DAWN ","Kessler, Anna ",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"Fiorello, Lorraine ","Razeeq, Dominique J",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"ANDERSON, NANCY ","Razeeq, Dominique J",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"Hodge, Johnny ","Razeeq, Dominique J",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"Karcher, Carlton ","Razeeq, Dominique J",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"Combs, Yvonne M","Razeeq, Dominique J",KY,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-2
+"Davenport, Joni L","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,FT F/U : First Time Follow-up,FU,FU001,1,Agent-3
+"Holman, Steven ","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-3
+"Reed, Brian ","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-3
+"Tope, Keith S","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-3
+"Chapman, Kimberly J","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-3
+"Cunningham, Elizabeth A","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-3
+"HARDEN, PATRICIA A","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-3
+"Slye, James ","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-3
+"Roach, Richard W","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-3
+"Tukes, Kim ","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU001,1,Agent-3
+"McCord, Lucinda C","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-3
+"SIWAKOTI, LAXMI ","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-3
+"Critser, Duane ","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-3
+"FUSSELMAN, LORI ","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-3
+"Treece, Shannon K","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-3
+"Lines, Marian D","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-3
+"Seevers, John M","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-3
+"Palmer, Diana L.","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-3
+"Pringle, David B","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-3
+"JACKSON, ROBIN L","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU002,2,Agent-3
+"FALLS, ALICE B","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-3
+"Engram, Melanie ","Goldsmith, BreAnn ",OH,2025-11-21 00:00:00,FT F/U : First Time Follow-up,FU,FU003,3,Agent-3
+"SNEARY, CONSTANCE L","Johnson, Sarah ",OH,2025-11-17 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-4
+"Smith, Teresa A","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-4
+"WISENBARGER, RONALD ","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-4
+"Krueger, Connie ","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-4
+"Muldrew, Leslie A","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-4
+"Allen, Margaret ","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-4
+"NORRIS, LESLIE E","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU003,3,Agent-4
+"Jenkins, Gary ","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-4
+"Leasure Jr, George ","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-4
+"Corsi JR, Paul F ","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-4
+"Corsi, Tressie ","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-4
+"Straits, Melissa J","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-4
+"Reeder, Erick D","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-4
+"Vermillion, Sharon I","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-4
+"FLEMING, PATRICK ","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-4
+"Miller, Trudie M","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU004,4,Agent-4
+"Koon, Gary J","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-4
+"Keener, Joellyn R","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-4
+"Powrie, Linda ","Johnson, Sarah ",OH,2025-11-20 00:00:00,FT F/U : First Time Follow-up,FU,FU005,5,Agent-4
+"GILBERT, TONYA ","Johnson, Sarah ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-4
+"Black, Donald G","Peete, Rachel ",OH,2025-11-19 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-5
+"Breiding, Paula ","Peete, Rachel ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-5
+"Dean, Loretta ","Peete, Rachel ",OH,2025-11-20 00:00:00,FT F/U : First Time Follow-up,FU,FU005,5,Agent-5
+"Sutton, Dorothy M","Peete, Rachel ",OH,2025-11-20 00:00:00,FT F/U : First Time Follow-up,FU,FU005,5,Agent-5
+"Padgett, Linda M","Peete, Rachel ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU005,5,Agent-5
+"Neopaney, Krishna ","Peete, Rachel ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-5
+"Bailey, Lanny R","Peete, Rachel ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-5
+"Simms, Dessie M","Peete, Rachel ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-5
+"McElroy, Michelle ","Peete, Rachel ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-5
+"Marcum, Linda L","Peete, Rachel ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-5
+"Ramsey, Donald ","Peete, Rachel ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-5
+"Arrington, Richard ","Peete, Rachel ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-5
+"Thomas, Sania A","Peete, Rachel ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-5
+"Riley, Jack W","Peete, Rachel ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU006,6,Agent-5
+"Troyer, Daphene ","Peete, Rachel ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-5
+"WAGY, RICHARD ","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-6
+"ANDERSON, JAMES ","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-6
+"Johnson, Robert M","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-6
+"Arakas, Dimitra A","Pistole, Suzzane ",OH,2025-11-20 00:00:00,FT F/U : First Time Follow-up,FU,FU007,7,Agent-6
+"FREDERICK, JUDY A","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-6
+"Stewart, Warren ","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-6
+"Graffis, John A","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-6
+"WOOD, KATHY J","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU007,7,Agent-6
+"McCoy, Charles A","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-6
+"Loudermilk, Jacqueline S","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-6
+"SPECKER, JOHN ","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-6
+"Wright, Glenda ","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-6
+"Westenbarger, Willidean ","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-6
+"Helwig, Sherrie L","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-6
+"Bartlett, Susan D","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-6
+"Carter, Tammy E","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-6
+"Little, Jeannie M","Pistole, Suzzane ",OH,2025-11-20 00:00:00,F/U : Follow Up Visit,FU,FU008,8,Agent-6
+"Duprey, Raymond ","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,ORTHO F/U : Orthopedic F/U,FU,FU001,1,Agent-5
+"EVANS, RYAN C","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,ORTHO F/U : Orthopedic F/U,FU,FU001,1,Agent-5
+"Kim, Chiyon ","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,ORTHO F/U : Orthopedic F/U,FU,FU002,2,Agent-5
+"Clyburn, Deborah B","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,ORTHO F/U : Orthopedic F/U,FU,FU002,2,Agent-5
+"Deloya, Cynthia A","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,ORTHO F/U : Orthopedic F/U,FU,FU003,3,Agent-5
+"Perin, Paola ","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,ORTHO F/U : Orthopedic F/U,FU,FU003,3,Agent-5
+"Rowell, Linda B","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,ORTHO F/U : Orthopedic F/U,FU,FU004,4,Agent-5
+"White, Jennifer ","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,ORTHO F/U : Orthopedic F/U,FU,FU004,4,Agent-5
+"Lindeman, Abby ","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,Post OP FU : Post Operative Follow Up,FU,FU005,5,Agent-5
+"Archer, Sandra ","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,ORTHO F/U : Orthopedic F/U,FU,FU005,5,Agent-5
+"Albright, Stephen ","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,Post OP FU : Post Operative Follow Up,FU,FU006,6,Agent-5
+"Davis, Ambrosia ","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,ORTHO F/U : Orthopedic F/U,FU,FU007,7,Agent-5
+"D'Alessio, Michael ","Angirasa, Arush ",SWOG,2025-11-21 00:00:00,ORTHO F/U : Orthopedic F/U,FU,FU008,8,Agent-5
+"Daniels, Linda G","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"Reinsel, Josef F","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"Griffin, Kyle ","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"TRUAX GUTIERREZ, STACEY ","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"Baker, Patricia ","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"JONES, ROXANNE ","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"CASTILLO, CHRISTINE A","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"SHANER, DAN A","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"Taylor, Plonnie ","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"Berman, Claire ","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"STEELE, BRENDA ","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"MOON, LINDA Y","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"LUSTRI, MARK ","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"Benites, Sylvia ","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"KATZ, STEVEN J","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"CASTLEBERRY, ELISA L","Amasha, Raimy ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"JACKSON, EVADA D","Amasha, Raimy ",TX,2025-11-21 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"Przybylski, Daniel ","Amasha, Raimy ",TX,2025-11-21 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"Griggs, Patrick ","Amasha, Raimy ",TX,2025-11-21 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"ZAMARRON, VICTOR ","Amasha, Raimy ",TX,2025-11-21 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"CERVANTES, JEROME W","Amasha, Raimy ",TX,2025-11-21 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"PARRA, FERMIN ","Amasha, Raimy ",TX,2025-11-21 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"LARSEN, BEVERLY L","Amasha, Raimy ",TX,2025-11-21 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"LAWYER, BEVERLY ","Amasha, Raimy ",TX,2025-11-21 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"MOUNTFORD, JOHN ","Amasha, Raimy ",TX,2025-11-21 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU001,1,Agent-6
+"Floyd, Deborah ","Blum, Kimberly ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU001,1,Agent-7
+"Shults, Pamela ","Blum, Kimberly ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU001,1,Agent-7
+"Godfrey, Angela G","Blum, Kimberly ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU001,1,Agent-7
+"Miller, Donald ","Blum, Kimberly ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU001,1,Agent-7
+"Coffman, Dennis ","Blum, Kimberly ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU001,1,Agent-7
+"West, Karla ","Blum, Kimberly ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU001,1,Agent-7
+"Pruitt, Ruth ","Blum, Kimberly ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-7
+"Puffer, Dennis ","Blum, Kimberly ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-7
+"Girard, Alvin R","Blum, Kimberly ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-7
+"Girard, Donna ","Blum, Kimberly ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-7
+"Pollard, James Floyd ","Blum, Kimberly ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-7
+"Hardy, Daphne ","Blum, Kimberly ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-7
+"Davee, Kevin R","Blum, Kimberly ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-7
+"Tantoh Mengwi, Flora ","Crider, Lauren ",TX,2025-11-19 00:00:00,DP F/U : Dr. Phillips Follow Up,FU,FU002,2,Agent-8
+"TAYLOR, LIVIA ","Crider, Lauren ",TX,2025-11-19 00:00:00,DP F/U : Dr. Phillips Follow Up,FU,FU002,2,Agent-8
+"Bowers, Francheskia L","Desai, Anjuli ",TX,2025-11-20 00:00:00,NP EMG DD : NP EMG Consultation,FU,FU002,2,Agent-8
+"Orr, Laura J","Ganti, Bhaskara ",TX,2025-11-18 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-1
+"WITHERSPOON, LINDA ","Ganti, Bhaskara ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-1
+"Leseten, Jane ","Ganti, Bhaskara ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-1
+"Nelson, Diana ","Ganti, Bhaskara ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-1
+"Tankey, Michael ","Ganti, Bhaskara ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-1
+"Ransom, Sandra ","Ganti, Bhaskara ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-1
+"Whitney, Scott ","Ganti, Bhaskara ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-1
+"COX, Anita G","Ganti, Bhaskara ",TX,2025-11-20 00:00:00,LP/WC : Lead Pull/Wound Check,FU,FU002,2,Agent-1
+"Kosan, Debra ","Ganti, Bhaskara ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU002,2,Agent-1
+"DURAN, MICHAEL A","Jacobs, Krista ",TX,2025-11-19 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU002,2,Agent-1
+"Pollei, Alfred ","Jacobs, Krista ",TX,2025-11-20 00:00:00,SM F/U : Follow Up,FU,FU002,2,Agent-1
+"BRADFORD, DENNIS L","Jacobs, Krista ",TX,2025-11-20 00:00:00,SM F/U : Follow Up,FU,FU002,2,Agent-1
+"VEAL, THERESA M","Jacobs, Krista ",TX,2025-11-20 00:00:00,SM F/U : Follow Up,FU,FU002,2,Agent-1
+"Sebastian, Janis ","Jacobs, Krista ",TX,2025-11-20 00:00:00,SM F/U : Follow Up,FU,FU002,2,Agent-1
+"RONSHAUSEN, SUSAN ","Jacobs, Krista ",TX,2025-11-20 00:00:00,SM F/U : Follow Up,FU,FU002,2,Agent-1
+"ANDERSON, BETTE ","Jacobs, Krista ",TX,2025-11-20 00:00:00,SM F/U : Follow Up,FU,FU002,2,Agent-1
+"Nanney, Michelle D","Jacobs, Krista ",TX,2025-11-20 00:00:00,SM F/U : Follow Up,FU,FU002,2,Agent-1
+"Urias, Edward ","Jacobs, Krista ",TX,2025-11-20 00:00:00,SM F/U : Follow Up,FU,FU002,2,Agent-1
+"PARDO, VIRGINIA ","Jacobs, Krista ",TX,2025-11-20 00:00:00,SM F/U : Follow Up,FU,FU002,2,Agent-1
+"Herb, Melissa ","Jacobs, Krista ",TX,2025-11-20 00:00:00,SM F/U : Follow Up,FU,FU002,2,Agent-1
+"Corpus, Estella G","Jacobs, Krista ",TX,2025-11-20 00:00:00,SM F/U : Follow Up,FU,FU002,2,Agent-1
+"Hall, Wynell ","Jacobs, Krista ",TX,2025-11-20 00:00:00,SM F/U : Follow Up,FU,FU003,3,Agent-1
+"Thompson, Deborah A","Jacobs, Krista ",TX,2025-11-20 00:00:00,SM F/U : Follow Up,FU,FU003,3,Agent-1
+"Moos, Joyce ","Johnson, Marissa ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU003,3,Agent-2
+"Nunez, Thomas ","Johnson, Marissa ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU003,3,Agent-2
+"Munoz, Sarah ","Johnson, Marissa ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU003,3,Agent-2
+"Becker, Donald A","Johnson, Marissa ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU003,3,Agent-2
+"Hooks, Yong ","Johnson, Marissa ",TX,2025-11-20 00:00:00,DC F/U : Dr. Cowan Follow Up,FU,FU003,3,Agent-2
+"Larosa, Teresita ","Johnson, Marissa ",TX,2025-11-20 00:00:00,DC F/U : Dr. Cowan Follow Up,FU,FU003,3,Agent-2
+"Gomez, Allen ","Johnson, Marissa ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU003,3,Agent-2
+"Pulido, Jeri ","Johnson, Marissa ",TX,2025-11-20 00:00:00,DC F/U : Dr. Cowan Follow Up,FU,FU003,3,Agent-2
+"Case, Bradley ","Johnson, Marissa ",TX,2025-11-20 00:00:00,LP/WC : Lead Pull/Wound Check,FU,FU003,3,Agent-2
+"SANMIGUEL, ADRIAN ","Johnson, Marissa ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU003,3,Agent-2
+"Bohac, James ","Johnson, Marissa ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU003,3,Agent-2
+"Hatch, Clyde D","Johnson, Marissa ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU003,3,Agent-2
+"Pine, Kristen ","Johnson, Marissa ",TX,2025-11-20 00:00:00,DC F/U : Dr. Cowan Follow Up,FU,FU003,3,Agent-2
+"Miller, John David ","Johnson, Marissa ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU003,3,Agent-2
+"Segura, Jose ","Johnson, Marissa ",TX,2025-11-20 00:00:00,DC F/U : Dr. Cowan Follow Up,FU,FU003,3,Agent-2
+"Etherington, Daisy E","Johnson, Marissa ",TX,2025-11-20 00:00:00,DC F/U : Dr. Cowan Follow Up,FU,FU003,3,Agent-2
+"Smith, Julie ","Johnson, Marissa ",TX,2025-11-20 00:00:00,DC F/U : Dr. Cowan Follow Up,FU,FU003,3,Agent-2
+"Prause, Vicki ","Jones-Gallegos, Chelsey ",TX,2025-11-19 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU003,3,Agent-3
+"Coe, Tasha ","Jones-Gallegos, Chelsey ",TX,2025-11-19 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU003,3,Agent-3
+"Pruett, Patricia ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU003,3,Agent-3
+"Schulle, Dalia ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU003,3,Agent-3
+"Sorrells, Deborah ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU003,3,Agent-3
+"Cook, James ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU003,3,Agent-3
+"Toney, David ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU003,3,Agent-3
+"RANDALL, DEBORAH L","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU003,3,Agent-3
+"Osburn, Kristine ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU003,3,Agent-3
+"Latham, Tina J","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU003,3,Agent-3
+"Allen, Milton ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU003,3,Agent-3
+"Murphy, Robert ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU003,3,Agent-3
+"Columbus, Christine ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"Ramirez, Olivia ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"Gannaway, David ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU004,4,Agent-3
+"Cassidy, Meredith ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU004,4,Agent-3
+"Pierce, Frances ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU004,4,Agent-3
+"BAKER, Jack A","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU004,4,Agent-3
+"Montoya, Jose ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU004,4,Agent-3
+"WARREN, DEANNA ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"Bechyne, Barbara ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU004,4,Agent-3
+"Villalpando, Robert ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU004,4,Agent-3
+"Manzke, Kevin ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU004,4,Agent-3
+"Gentry, Jannie E","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU004,4,Agent-3
+"Hunter, Francis ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"ROBINETTE, MARTHA ","Jones-Gallegos, Chelsey ",TX,2025-11-20 00:00:00,DG F/U : Dr. Ganti Follow-up,FU,FU004,4,Agent-3
+"Wagner, David K","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"BOSWORTH, JENNIFER R","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"McCann, Linda T","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"Bohrer, William G","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"Young, Tiffany A","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"ESTRADA, SYLVIA ","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"Trumble, Rhonda S","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"WILKINS, TAWANNA ","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"NEWELL, JONATHAN C","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"WARD, TARON ","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"Edmondson, Eunice Y","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"MCELYEA, DAVID ","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"Carter, Victoria ","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"Lozano, Severo G","Jones-Gallegos, Chelsey ",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU004,4,Agent-3
+"Wright, Sharon ","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU004,4,Agent-2
+"Wright, Clarence ","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU004,4,Agent-2
+"Steadman, Frances ","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU004,4,Agent-2
+"Maldonado, Anthony ","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU005,5,Agent-2
+"Tempest, Gregory ","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU005,5,Agent-2
+"Arellano, Joe ","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU005,5,Agent-2
+"Redmond, Vivian ","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU005,5,Agent-2
+"LAMAR, CYNTHIA ","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU005,5,Agent-2
+"Fletcher, Joel ","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU005,5,Agent-2
+"COLLIER, SANDRA L","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU005,5,Agent-2
+"Iniguez, Rose ","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU005,5,Agent-2
+"Escalante, Cassandra ","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU005,5,Agent-2
+"Gallegos, Melquiades ","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU005,5,Agent-2
+"BOSWELL, RICHARD ","Patel, Raj ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU005,5,Agent-2
+"Hall, Paul ","Patel, Raj ",TX,2025-11-21 00:00:00,SOUTH F/U : SOUTH AUSTIN F/U,FU,FU005,5,Agent-2
+"Ensrude, Michael W","Patel, Raj ",TX,2025-11-21 00:00:00,SOUTH F/U : SOUTH AUSTIN F/U,FU,FU005,5,Agent-2
+"Klaus, Doyle ","Patel, Raj ",TX,2025-11-21 00:00:00,LP/WC : Lead Pull/Wound Check,FU,FU005,5,Agent-2
+"Cunningham, Don N","Patel, Raj ",TX,2025-11-21 00:00:00,SOUTH F/U : SOUTH AUSTIN F/U,FU,FU005,5,Agent-2
+"Sims-Edwards, Zanetria ","Patel, Raj ",TX,2025-11-21 00:00:00,LP/WC : Lead Pull/Wound Check,FU,FU005,5,Agent-2
+"Lawrence, Terri L","Patel, Raj ",TX,2025-11-21 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU005,5,Agent-2
+"HALEY, TAMI ","Phillips, Andrew ",TX,2025-11-19 00:00:00,DP F/U : Dr. Phillips Follow Up,FU,FU005,5,Agent-3
+"Phelan, Melissa P","Phillips, Andrew ",TX,2025-11-19 00:00:00,DP F/U : Dr. Phillips Follow Up,FU,FU005,5,Agent-3
+"RIOS, JOSIE ","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU005,5,Agent-4
+"Hicks, Allison R","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU005,5,Agent-4
+"Yamane Olmos, Kathleen E","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU005,5,Agent-4
+"Hunter, Denise ","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU005,5,Agent-4
+"DRENNAN, KAREN M","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU005,5,Agent-4
+"BAKER, LISA ","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU005,5,Agent-4
+"Coyne, Eileen R","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU005,5,Agent-4
+"Carroll, Naomi E","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU005,5,Agent-4
+"MULROONEY, KIMBERLY A","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU005,5,Agent-4
+"HARMON, CINDY ","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU005,5,Agent-4
+"Smith, Michelle R","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU005,5,Agent-4
+"Sutherland, Susan ","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU005,5,Agent-4
+"Paschal, Leonard ","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Sellars, Barbara L","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Hutcheson, Bradley N","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Basara, Michael F","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Mosqueda, Hope ","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Nehring, Jason A","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Mayo, Stephen A","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Miller, Julie L","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Schwartz, Richard K","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Pelow, Bernard E","Salazar, Mallorie A",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"URRUCHUA, FEDERICO ","Salazar, Mallorie A",TX,2025-11-21 00:00:00,F/U TEMP : Follow Up Temporary Provider,FU,FU006,6,Agent-4
+"BROWN, MADELINA ","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"FODO, MELISSA ","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Richard, Daly M","Salazar, Mallorie A",TX,2025-11-21 00:00:00,F/U TEMP : Follow Up Temporary Provider,FU,FU006,6,Agent-4
+"Powell, Jennifer S","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Sage Jr, Thomas R","Salazar, Mallorie A",TX,2025-11-21 00:00:00,F/U TEMP : Follow Up Temporary Provider,FU,FU006,6,Agent-4
+"OAKMON, RUBY ","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"KENNING, THOMAS J","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Zimmerman, Jeffrey ","Salazar, Mallorie A",TX,2025-11-21 00:00:00,F/U TEMP : Follow Up Temporary Provider,FU,FU006,6,Agent-4
+"Malone, Linda L","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Kennedy, Brian ","Salazar, Mallorie A",TX,2025-11-21 00:00:00,F/U TEMP : Follow Up Temporary Provider,FU,FU006,6,Agent-4
+"HARBER, MELISSA ","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Cockreham, Paul ","Salazar, Mallorie A",TX,2025-11-21 00:00:00,F/U TEMP : Follow Up Temporary Provider,FU,FU006,6,Agent-4
+"BARNETT, RICHARD C","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Darnaby, Martha ","Salazar, Mallorie A",TX,2025-11-21 00:00:00,F/U TEMP : Follow Up Temporary Provider,FU,FU006,6,Agent-4
+"VILLARREAL, ALICIA N","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Morton, James M","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Luce, Patricia A","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Miller, Lourie D","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Robinson, Lynnette ","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Nofsinger, Janie R","Salazar, Mallorie A",TX,2025-11-21 00:00:00,DS F/U : DS Follow Up,FU,FU006,6,Agent-4
+"Good, Stephanie M","Salazar, Mallorie A",TX,2025-11-21 00:00:00,F/U TEMP : Follow Up Temporary Provider,FU,FU007,7,Agent-4
+"Ferguson, Kim ","Yaneva, Ivona ",TX,2025-11-17 00:00:00,DP F/U : Dr. Phillips Follow Up,FU,FU007,7,Agent-5
+"Brunet, Suzette ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU007,7,Agent-5
+"Harrell, Jan ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU007,7,Agent-5
+"Moore, JAMES J","Yaneva, Ivona ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU007,7,Agent-5
+"Clarkson, Quintilla V","Yaneva, Ivona ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU007,7,Agent-5
+"Cummings, Rhonda ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU007,7,Agent-5
+"Young, Michael ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU007,7,Agent-5
+"Baker, Jenny D","Yaneva, Ivona ",TX,2025-11-20 00:00:00,LP/WC : Lead Pull/Wound Check,FU,FU007,7,Agent-5
+"Edwards, Sherry ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU007,7,Agent-5
+"MCDONOUGH, LISA ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU007,7,Agent-5
+"Hammond, Don ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,DP F/U : Dr. Phillips Follow Up,FU,FU007,7,Agent-5
+"White, Jamie ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU007,7,Agent-5
+"Pham, Hoi T","Yaneva, Ivona ",TX,2025-11-20 00:00:00,LP/WC : Lead Pull/Wound Check,FU,FU007,7,Agent-5
+"Lopez, Andrea ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,LP/WC : Lead Pull/Wound Check,FU,FU007,7,Agent-5
+"Ballantyne, Margaret ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,F/U TEMP : Follow Up Temporary Provider,FU,FU007,7,Agent-5
+"VIDALES, DONNA W","Yaneva, Ivona ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU007,7,Agent-5
+"Bogusch, Paul ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU007,7,Agent-5
+"Perry, Alicia A","Yaneva, Ivona ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU007,7,Agent-5
+"Morvant, Tara ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,DS F/U : DS Follow Up,FU,FU007,7,Agent-5
+"Moreno, Edith ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU007,7,Agent-5
+"SMITH, CHERYLL ","Yaneva, Ivona ",TX,2025-11-20 00:00:00,RP F/U : Dr. Raj Patel Follow Up,FU,FU007,7,Agent-5
+"Gonzales, Hymie A","Yaneva, Ivona ",TX,2025-11-20 00:00:00,LP/WC : Lead Pull/Wound Check,FU,FU007,7,Agent-5
+"Click, Junior ","Yaneva, Ivona ",TX,2025-11-21 00:00:00,LP/WC : Lead Pull/Wound Check,FU,FU007,7,Agent-5
+"Smith, Kathryn ","Yaneva, Ivona ",TX,2025-11-21 00:00:00,DP F/U : Dr. Phillips Follow Up,FU,FU007,7,Agent-5
+"Vasquez, Alison ","Yaneva, Ivona ",TX,2025-11-21 00:00:00,DP F/U : Dr. Phillips Follow Up,FU,FU007,7,Agent-5
+"Martinez, Joe ","Yaneva, Ivona ",TX,2025-11-21 00:00:00,DP F/U : Dr. Phillips Follow Up,FU,FU007,7,Agent-5
+"Marrero, Alfred ","Yaneva, Ivona ",TX,2025-11-21 00:00:00,DP F/U : Dr. Phillips Follow Up,FU,FU007,7,Agent-5
+"Penney, Thomas A","Yaneva, Ivona ",TX,2025-11-21 00:00:00,DP F/U : Dr. Phillips Follow Up,FU,FU007,7,Agent-5
+"Tamez, Sonia ","Yaneva, Ivona ",TX,2025-11-21 00:00:00,DP F/U : Dr. Phillips Follow Up,FU,FU007,7,Agent-5
+"Romano, Allison E","Yaneva, Ivona ",TX,2025-11-21 00:00:00,DP F/U : Dr. Phillips Follow Up,FU,FU008,8,Agent-5
+"WEATHERSPOON, MAURICE ","Zoeller, Sarah C",TX,2025-11-19 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"CLARK, DANIELLE ","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"GRAHAM, JAMES J","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Schafer, Rebecca ","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Gudenkauf, Janet C","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"EARLS, PATRICIA ","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Ahlschlager, Douglas G","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"GUEBARA, JO L","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Roberts, Marilyn T","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Lee, Bennie ","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Goodman, Sandra E","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Hines, Mary C","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Wolfe, Heather D","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Jalufka, Mava ","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Hamilton, Virginia L","Zoeller, Sarah C",TX,2025-11-20 00:00:00,LP/WC : Lead Pull/Wound Check,FU,FU008,8,Agent-6
+"BURNHAM, DALE ","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Hammans, Jackie D","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"CAMPSEY, SARAH M","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Allen, Gwen ","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"HORTON, VALERIE D","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Martinez, Oscar ","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Brock, Robert W","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Johnson, Susan H","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"HERRERA, DANNY ","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Linnartz, Denae L","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"SMITH JR, VERNON ","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"MCDANIEL, JESUSA C","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Johnson, Jan ","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6
+"Park, Soyeon ","Zoeller, Sarah C",TX,2025-11-20 00:00:00,DA F/U : Dr. Amasha Follow Up,FU,FU008,8,Agent-6

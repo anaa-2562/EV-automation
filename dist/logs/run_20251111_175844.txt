@@ -1,0 +1,106 @@
+[17:58:44] ============================================================
+[17:58:44] Audentes Verification Automation Tool - Run Started
+[17:58:44] ============================================================
+[17:58:44] eCW file loaded: eCW_20251111_175844.csv
+[17:58:44] Template file loaded: Template_20251111_175844.xlsm
+[17:58:44] Start processing. eCW='eCW_20251111_175844.csv', template='Template_20251111_175844.xlsm'
+[17:58:44] Loading eCW report...
+[17:58:44] Loaded 3725 rows from eCW report
+[17:58:44] Loading Help sheet for lookup rules...
+[17:58:44] Loaded Help sheet with 193 rows
+[17:58:44] Filter 1 (Appointment State in Help sheet): 3725 -> 3709 rows
+[17:58:44] Dual validation warning: 868 rows with Visit Type flagged N. Wrote C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\outputs\warnings\workable_flagged_N_20251111_175844.csv
+[17:58:44] Dual validation warning: 22 rows with excluded Primary Insurance. Wrote C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\outputs\warnings\primary_insurance_warnings_20251111_175844.csv
+[17:58:44] Filter 3 (Excluded insurance codes ['L105', 'L107', 'L109C', 'L109Q', 'L109W']): 3709 -> 3688 rows
+[17:58:44] Optional Visit Status filter (PEN/PR): 3688 -> 1168 rows
+[17:58:44] Removed empty rows: 1168 -> 1168 rows
+[17:58:44] Assigning agents from AgentBucket mapping...
+[17:58:44] Saving output file: HealthX_Import_20251111_175844.xlsx
+[17:58:46] Building HX CSV using mapping...
+[17:58:46] Using 'Patient State' as fallback for Appointment Location
+[17:58:46] HX CSV saved: Audentes-Verification-Verification_20251111.csv
+[17:58:46] Completed processing. Input rows=3725, output rows=1168, xlsx='HealthX_Import_20251111_175844.xlsx', csv='Audentes-Verification-Verification_20251111.csv'
+[17:58:46] Data filtered successfully. 1168 records remaining.
+[17:58:46] Output saved: Audentes-Verification-Verification_20251111.csv
+[17:58:46] Starting HealthX upload process for: Audentes-Verification-Verification_20251111.csv
+[17:58:46] Launching Chrome browser (attempt 1/2)...
+[17:58:47] Navigating to HealthX login page: https://hxev.jindalx.com/
+[17:59:20] Looking for login form elements...
+[18:00:36] Entering credentials...
+[18:00:39] ERROR: Upload attempt 1 failed: Message: element not interactable
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff702f17a05
+	0x7ff702f17a60
+	0x7ff702c914b5
+	0x7ff702cdf716
+	0x7ff702d1297a
+	0x7ff702cdcb56
+	0x7ff702d3b8fb
+	0x7ff702cdb068
+	0x7ff702cdbe93
+	0x7ff7031d29a0
+	0x7ff7031cce20
+	0x7ff7031ecc15
+	0x7ff702f3309e
+	0x7ff702f3ad8f
+	0x7ff702f20be4
+	0x7ff702f20d9f
+	0x7ff702f067f8
+	0x7ffe87dc7374
+	0x7ffe8963cc91
+
+[18:00:39] Retrying upload...
+[18:00:42] Launching Chrome browser (attempt 2/2)...
+[18:00:43] Navigating to HealthX login page: https://hxev.jindalx.com/
+[18:01:16] Looking for login form elements...
+[18:02:32] Entering credentials...
+[18:02:35] ERROR: Upload attempt 2 failed: Message: element not interactable
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff702f17a05
+	0x7ff702f17a60
+	0x7ff702c914b5
+	0x7ff702cdf716
+	0x7ff702d1297a
+	0x7ff702cdcb56
+	0x7ff702d3b8fb
+	0x7ff702cdb068
+	0x7ff702cdbe93
+	0x7ff7031d29a0
+	0x7ff7031cce20
+	0x7ff7031ecc15
+	0x7ff702f3309e
+	0x7ff702f3ad8f
+	0x7ff702f20be4
+	0x7ff702f20d9f
+	0x7ff702f067f8
+	0x7ffe87dc7374
+	0x7ffe8963cc91
+
+[18:02:35] Upload to HealthX failed: Upload failed: Message: element not interactable
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff702f17a05
+	0x7ff702f17a60
+	0x7ff702c914b5
+	0x7ff702cdf716
+	0x7ff702d1297a
+	0x7ff702cdcb56
+	0x7ff702d3b8fb
+	0x7ff702cdb068
+	0x7ff702cdbe93
+	0x7ff7031d29a0
+	0x7ff7031cce20
+	0x7ff7031ecc15
+	0x7ff702f3309e
+	0x7ff702f3ad8f
+	0x7ff702f20be4
+	0x7ff702f20d9f
+	0x7ff702f067f8
+	0x7ffe87dc7374
+	0x7ffe8963cc91
+

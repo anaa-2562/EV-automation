@@ -1,0 +1,177 @@
+[18:31:45] ============================================================
+[18:31:45] Audentes Verification Automation Tool - Run Started
+[18:31:45] ============================================================
+[18:31:45] eCW file loaded: eCW_20251111_183145.csv
+[18:31:45] Template file loaded: Template_20251111_183145.xlsm
+[18:31:45] Start processing. eCW='eCW_20251111_183145.csv', template='Template_20251111_183145.xlsm'
+[18:31:45] Loading eCW report...
+[18:31:45] Loaded 3725 rows from eCW report
+[18:31:45] Loading Help sheet for lookup rules...
+[18:31:46] Loaded Help sheet with 193 rows
+[18:31:46] Filter 1 (Appointment State in Help sheet): 3725 -> 3709 rows
+[18:31:46] Dual validation warning: 868 rows with Visit Type flagged N. Wrote C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\outputs\warnings\workable_flagged_N_20251111_183146.csv
+[18:31:46] Dual validation warning: 22 rows with excluded Primary Insurance. Wrote C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\outputs\warnings\primary_insurance_warnings_20251111_183146.csv
+[18:31:46] Filter 3 (Excluded insurance codes ['L105', 'L107', 'L109C', 'L109Q', 'L109W']): 3709 -> 3688 rows
+[18:31:46] Optional Visit Status filter (PEN/PR): 3688 -> 1168 rows
+[18:31:46] Removed empty rows: 1168 -> 1168 rows
+[18:31:46] Assigning agents from AgentBucket mapping...
+[18:31:46] Saving output file: HealthX_Import_20251111_183146.xlsx
+[18:31:47] Building HX CSV using mapping...
+[18:31:47] Using 'Patient State' as fallback for Appointment Location
+[18:31:47] HX CSV saved: Audentes-Verification-Verification_20251111.csv
+[18:31:47] Completed processing. Input rows=3725, output rows=1168, xlsx='HealthX_Import_20251111_183146.xlsx', csv='Audentes-Verification-Verification_20251111.csv'
+[18:31:47] Data filtered successfully. 1168 records remaining.
+[18:31:47] Output saved: Audentes-Verification-Verification_20251111.csv
+[18:31:47] Starting HealthX upload process for: Audentes-Verification-Verification_20251111.csv
+[18:31:47] Launching Chrome browser (attempt 1/2)...
+[18:31:49] Navigating to HealthX login page: https://hxev.jindalx.com/
+[18:32:22] Locating email and password fields...
+[18:33:35] Password field not visible; attempting Next/Continue/Enter...
+[18:33:35] Entering password and submitting...
+[18:34:26] Navigating to upload/import page...
+[18:34:28] Selecting client...
+[18:34:29] Client selection step skipped/failed: Message: element click intercepted: Element <select class="form-control searchable-dropdown select2-hidden-accessible" autocomplete="off" id="campaign" data-select2-id="campaign" tabindex="-1" aria-hidden="true">...</select> is not clickable at point (310, 246). Other element would receive the click: <span class="selection">...</span>
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff702f17a05
+	0x7ff702f17a60
+	0x7ff702c916ad
+	0x7ff702cf2359
+	0x7ff702cefcde
+	0x7ff702cecc11
+	0x7ff702cebad0
+	0x7ff702cdd2c8
+	0x7ff702d1297a
+	0x7ff702cdcb56
+	0x7ff702d3b8fb
+	0x7ff702cdb068
+	0x7ff702cdbe93
+	0x7ff7031d29a0
+	0x7ff7031cce20
+	0x7ff7031ecc15
+	0x7ff702f3309e
+	0x7ff702f3ad8f
+	0x7ff702f20be4
+	0x7ff702f20d9f
+	0x7ff702f067f8
+	0x7ffe87dc7374
+	0x7ffe8963cc91
+
+[18:34:29] Traceback (most recent call last):
+  File "upload_hx.py", line 416, in upload_to_healthx
+  File "selenium\webdriver\remote\webelement.py", line 119, in click
+  File "selenium\webdriver\remote\webelement.py", line 572, in _execute
+  File "selenium\webdriver\remote\webdriver.py", line 458, in execute
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <select class="form-control searchable-dropdown select2-hidden-accessible" autocomplete="off" id="campaign" data-select2-id="campaign" tabindex="-1" aria-hidden="true">...</select> is not clickable at point (310, 246). Other element would receive the click: <span class="selection">...</span>
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff702f17a05
+	0x7ff702f17a60
+	0x7ff702c916ad
+	0x7ff702cf2359
+	0x7ff702cefcde
+	0x7ff702cecc11
+	0x7ff702cebad0
+	0x7ff702cdd2c8
+	0x7ff702d1297a
+	0x7ff702cdcb56
+	0x7ff702d3b8fb
+	0x7ff702cdb068
+	0x7ff702cdbe93
+	0x7ff7031d29a0
+	0x7ff7031cce20
+	0x7ff7031ecc15
+	0x7ff702f3309e
+	0x7ff702f3ad8f
+	0x7ff702f20be4
+	0x7ff702f20d9f
+	0x7ff702f067f8
+	0x7ffe87dc7374
+	0x7ffe8963cc91
+
+
+[18:34:29] Looking for file upload input...
+[18:34:29] File input not interactable; attempting to unhide via JS...
+[18:34:29] Trying Browse/Choose file control to reveal input...
+[18:34:46] Uploading file: C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\outputs\Audentes-Verification-Verification_20251111.csv
+[18:35:36] ERROR: Upload attempt 1 failed: Could not find submit/upload button
+[18:35:36] Retrying upload...
+[18:35:39] Launching Chrome browser (attempt 2/2)...
+[18:35:40] Navigating to HealthX login page: https://hxev.jindalx.com/
+[18:36:13] Locating email and password fields...
+[18:37:25] Password field not visible; attempting Next/Continue/Enter...
+[18:37:25] Entering password and submitting...
+[18:38:17] Navigating to upload/import page...
+[18:38:19] Selecting client...
+[18:38:20] Client selection step skipped/failed: Message: element click intercepted: Element <select class="form-control searchable-dropdown select2-hidden-accessible" autocomplete="off" id="campaign" data-select2-id="campaign" tabindex="-1" aria-hidden="true">...</select> is not clickable at point (310, 246). Other element would receive the click: <span class="selection">...</span>
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff702f17a05
+	0x7ff702f17a60
+	0x7ff702c916ad
+	0x7ff702cf2359
+	0x7ff702cefcde
+	0x7ff702cecc11
+	0x7ff702cebad0
+	0x7ff702cdd2c8
+	0x7ff702d1297a
+	0x7ff702cdcb56
+	0x7ff702d3b8fb
+	0x7ff702cdb068
+	0x7ff702cdbe93
+	0x7ff7031d29a0
+	0x7ff7031cce20
+	0x7ff7031ecc15
+	0x7ff702f3309e
+	0x7ff702f3ad8f
+	0x7ff702f20be4
+	0x7ff702f20d9f
+	0x7ff702f067f8
+	0x7ffe87dc7374
+	0x7ffe8963cc91
+
+[18:38:20] Traceback (most recent call last):
+  File "upload_hx.py", line 416, in upload_to_healthx
+  File "selenium\webdriver\remote\webelement.py", line 119, in click
+  File "selenium\webdriver\remote\webelement.py", line 572, in _execute
+  File "selenium\webdriver\remote\webdriver.py", line 458, in execute
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <select class="form-control searchable-dropdown select2-hidden-accessible" autocomplete="off" id="campaign" data-select2-id="campaign" tabindex="-1" aria-hidden="true">...</select> is not clickable at point (310, 246). Other element would receive the click: <span class="selection">...</span>
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff702f17a05
+	0x7ff702f17a60
+	0x7ff702c916ad
+	0x7ff702cf2359
+	0x7ff702cefcde
+	0x7ff702cecc11
+	0x7ff702cebad0
+	0x7ff702cdd2c8
+	0x7ff702d1297a
+	0x7ff702cdcb56
+	0x7ff702d3b8fb
+	0x7ff702cdb068
+	0x7ff702cdbe93
+	0x7ff7031d29a0
+	0x7ff7031cce20
+	0x7ff7031ecc15
+	0x7ff702f3309e
+	0x7ff702f3ad8f
+	0x7ff702f20be4
+	0x7ff702f20d9f
+	0x7ff702f067f8
+	0x7ffe87dc7374
+	0x7ffe8963cc91
+
+
+[18:38:20] Looking for file upload input...
+[18:38:20] File input not interactable; attempting to unhide via JS...
+[18:38:20] Trying Browse/Choose file control to reveal input...
+[18:38:36] Uploading file: C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\outputs\Audentes-Verification-Verification_20251111.csv
+[18:39:26] ERROR: Upload attempt 2 failed: Could not find submit/upload button
+[18:39:26] Upload to HealthX failed: Upload failed: Could not find submit/upload button

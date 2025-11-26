@@ -1,0 +1,9 @@
+[17:07:26] ============================================================
+[17:07:26] Audentes Verification Automation Tool - Run Started
+[17:07:26] ============================================================
+[17:07:26] eCW file loaded: eCW_20251103_170726.xlsx
+[17:07:26] Template file loaded: Template_20251103_170726.xlsm
+[17:07:26] Start processing. eCW='eCW_20251103_170726.xlsx', template='Template_20251103_170726.xlsm'
+[17:07:26] Loading eCW report...
+[17:07:26] ERROR: Error during data processing: File is not a zip file
+[17:07:26] ERROR: Data processing failed: Error during data processing: File is not a zip file
