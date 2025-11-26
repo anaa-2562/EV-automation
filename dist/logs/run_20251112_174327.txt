@@ -1,7 +1,0 @@
-[17:43:27] ============================================================
-[17:43:27] Audentes Verification Automation Tool - Run Started
-[17:43:27] ============================================================
-[17:43:27] eCW file loaded: eCW_20251112_174327.csv
-[17:43:27] Template file loaded: Template_20251112_174327.xlsm
-[17:43:32] Macro cleanup complete: Audentes_Verification_Cleaned_20251112_174327.xlsx
-[17:43:35] ERROR: Data processing failed: check_workable_and_exclusions() takes 2 positional arguments but 3 were given

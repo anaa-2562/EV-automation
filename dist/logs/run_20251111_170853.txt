@@ -1,8 +1,0 @@
-[17:08:53] ============================================================
-[17:08:53] Audentes Verification Automation Tool - Run Started
-[17:08:53] ============================================================
-[17:08:53] eCW file loaded: eCW_20251111_170853.xlsx
-[17:08:53] Template file loaded: Template_20251111_170853.xlsm
-[17:08:53] Start processing. eCW='eCW_20251111_170853.xlsx', template='Template_20251111_170853.xlsm'
-[17:08:53] Loading eCW report...
-[17:08:53] ERROR: Data processing failed: Unable to read Excel file 'C:\Users\ananya.tripathi\Downloads\EV audentes automation\dist\inputs\eCW_20251111_170853.xlsx'. If this is an older .xls exported from a web app, open it in Excel and 'Save As' .xlsx, then try again. Original error: Can't find workbook in OLE2 compound document

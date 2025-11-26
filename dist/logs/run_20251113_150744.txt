@@ -1,7 +1,0 @@
-[15:07:44] ============================================================
-[15:07:44] Audentes Verification Automation Tool - Run Started
-[15:07:44] ============================================================
-[15:07:44] eCW file loaded: eCW_20251113_150744.xlsx
-[15:07:44] Template file loaded: Template_20251113_150744.xlsm
-[15:07:44] Escalation tracker loaded: Escalation_20251113_150744.csv
-[15:07:44] ERROR: Macro cleanup failed: Could not load Raw sheet from input file
